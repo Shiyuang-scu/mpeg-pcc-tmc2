@@ -1,51 +1,34 @@
 #!/bin/bash
 
 MAINDIR=$( dirname $( cd "$( dirname $0 )" && pwd ) );
-EXTERNAL=$( dirname $MAINDIR )/external_pkg
-if [ ! -d $EXTERNAL ] ; then EXTERNAL=$( dirname $MAINDIR )/external; fi
+# MAINDIR=$(dirname $(dirname $0));
+EXTERNAL=$MAINDIR/dependencies/;
+# echo $MAINDIR
+# echo $EXTERNAL
 
 ## Input parameters
-SRCDIR=${MAINDIR}/../ply/ # note: this directory must containt: http://mpegfs.int-evry.fr/MPEG/PCC/DataSets/pointCloud/CfP/datasets/Dynamic_Objects/People                            
+SRCDIR=${MAINDIR}/mpeg_datasets/ # note: this directory must containt: http://mpegfs.int-evry.fr/MPEG/PCC/DataSets/pointCloud/CfP/datasets/Dynamic_Objects/People                            
 CFGDIR=${MAINDIR}/cfg/
-
 SEQ=25;       # in [22;26]
-COND=2;       # in [C2AI, C2LD, CWAI, CWRA]
+COND="C2AI";       # in [C2AI, C2LD, CWAI, CWRA]
 RATE=2;       # in [1;5]
 FRAMECOUNT=1;
 THREAD=1;
 
 ## Set external tool paths
-ENCODER="set_value";
-DECODER="set_value";
-HDRCONVERT="set_value";
-HMENCODER="set_value";
-HMDECODER="set_value";
+ENCODER=${MAINDIR}/bin/PccAppEncoder;
+DECODER=${MAINDIR}/bin/PccAppDecoder;
+HDRCONVERT=${EXTERNAL}HDRTools/bin/HDRConvert;
+# VTMENCODER=${EXTERNAL}VTM/bin/EncoderApp;
+# VTMDECODER=${EXTERNAL}VTM/bin/DecoderApp;
+HMENCODER=${EXTERNAL}HM/bin/TAppEncoderStatic;
+HMDECODER=${EXTERNAL}HM/bin/TAppDecoderStatic;
 
-if [ ! -f $ENCODER    ] ; then ENCODER=${MAINDIR}/bin/PccAppEncoder;               fi
-if [ ! -f $ENCODER    ] ; then ENCODER=${MAINDIR}/bin/Release/PccAppEncoder.exe;   fi
-if [ ! -f $ENCODER    ] ; then ENCODER=${MAINDIR}/bin/Debug/PccAppEncoder.exe;     fi
-                                                                                   
-if [ ! -f $DECODER    ] ; then DECODER=${MAINDIR}/bin/PccAppDecoder;               fi
-if [ ! -f $DECODER    ] ; then DECODER=${MAINDIR}/bin/Release/PccAppDecoder.exe;   fi
-if [ ! -f $DECODER    ] ; then DECODER=${MAINDIR}/bin/Debug/PccAppDecoder.exe;     fi
-
-if [ ! -f $HDRCONVERT ] ; then HDRCONVERT=${EXTERNAL}/HDRTools/bin/HDRConvert;     fi
-if [ ! -f $HDRCONVERT ] ; then HDRCONVERT=${EXTERNAL}/HDRTools/bin/HDRConvert.exe; fi
-
-if [ ! -f $HMENCODER ] ; then HMENCODER=${EXTERNAL}/HM-16.18+SCM-8.7/bin/TAppEncoderStatic;                  fi
-if [ ! -f $HMENCODER ] ; then HMENCODER=${EXTERNAL}/HM-16.18+SCM-8.7/bin/vc2015/x64/Release/TAppEncoder.exe; fi
-if [ ! -f $HMENCODER ] ; then HMENCODER=${EXTERNAL}/HM-16.18+SCM-8.7/bin/vc2015/x64/Debug/TAppEncoder.exe;   fi
-                                                   
-if [ ! -f $HMDECODER ] ; then HMDECODER=${EXTERNAL}/HM-16.18+SCM-8.7/bin/TAppDecoderStatic;                  fi
-if [ ! -f $HMDECODER ] ; then HMDECODER=${EXTERNAL}/HM-16.18+SCM-8.7/bin/vc2015/x64/Release/TAppDecoder.exe; fi
-if [ ! -f $HMDECODER ] ; then HMDECODER=${EXTERNAL}/HM-16.18+SCM-8.7/bin/vc2015/x64/Debug/TAppDecoder.exe;   fi
-
-## Parameters and pathes check
-if [ ! -f $ENCODER    ] ; then echo "Can't find PccAppEncoder, please set.     ($ENCODER )";   exit -1; fi
-if [ ! -f $DECODER    ] ; then echo "Can't find PccAppDecoder, please set.     ($DECODER )";   exit -1; fi
-if [ ! -f $HDRCONVERT ] ; then echo "Can't find HdrConvert, please set.        ($HDRCONVERT)"; exit -1; fi
-if [ ! -f $HMENCODER  ] ; then echo "Can't find TAppEncoderStatic, please set. ($HMENCODER)";  exit -1; fi
-if [ ! -f $HMDECODER  ] ; then echo "Can't find TAppDecoderStatic, please set. ($HMDECODER)";  exit -1; fi
+# ## set config path
+# OCCMAPCONFIG=vtm/vtm-occupancy-map-ai.cfg #occupancyMapConfig
+# GEOMAPCONFIG=vtm/vtm-geometry-ai-mp-separate-video.cfg #geometryMPConfig
+# GEOCONGID=vtm/vtm-geometry-ai.cfg #geometryConfig
+# ATTCONFIG=vtm/vtm-attribute-ai.cfg #attributeConfig
 
 ## Set Configuration based on sequence, condition and rate
 if [ $COND == "C2AI" -o $COND == "C2RA" ] 
@@ -68,7 +51,8 @@ then
       1) CFGRATE="rate/ctc-r1.cfg";; 
       *) echo "rate not correct ($RATE)";   exit -1;;
   esac
-  BIN=S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
+  BIN=mpeg_datasets/reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
+  # BIN=mpeg_datasets/down_reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
 else
    case $SEQ in
       22) CFGSEQUENCE="sequence/queen-lossless.cfg";;
@@ -81,7 +65,7 @@ else
       *) echo "sequence not correct ($SEQ)";   exit -1;;
   esac 
   CFGRATE="rate/ctc-r5.cfg"
-  BIN=S${SEQ}${COND}_F${FRAMECOUNT}.bin
+  BIN=mpeg_datasets/reconstruct/S${SEQ}${COND}_F${FRAMECOUNT}.bin
 fi
 
 case $COND in
@@ -100,6 +84,8 @@ case $COND in
   *) echo "Condition not correct ($COND)";   exit -1;;
 esac
 
+# CFGCONDITION="condition/vtm-all-intra.cfg"
+
 ## Encoder 
 if [ ! -f $BIN ] 
 then 
@@ -110,20 +96,23 @@ then
     --config=${CFGDIR}${CFGRATE} \
     --configurationFolder=${CFGDIR} \
     --uncompressedDataFolder=${SRCDIR} \
-    --frameCount=$FRAMECOUNT \
     --colorSpaceConversionPath=$HDRCONVERT \
-    --videoEncoderPath=$HMENCODER \
     --nbThread=$THREAD \
     --keepIntermediateFiles=1 \
     --reconstructedDataPath=${BIN%.???}_rec_%04d.ply \
-    --compressedStreamPath=$BIN
+    --compressedStreamPath=${BIN} \
+    --videoEncoderOccupancyPath=$HMENCODER \
+    --videoEncoderGeometryPath=$HMENCODER \
+    --videoEncoderAttributePath=$HMENCODER
 fi
 
 ## Decoder
 $DECODER \
   --compressedStreamPath=$BIN \
-  --videoDecoderPath=${HMDECODER} \
   --colorSpaceConversionPath=${HDRCONVERT} \
-  --inverseColorSpaceConversionConfig=${CFGDIR}/hdrconvert/yuv420toyuv444_16bit.cfg \
+  --inverseColorSpaceConversionConfig=${CFGDIR}hdrconvert/yuv420toyuv444_16bit.cfg \
   --nbThread=$THREAD \
-  --reconstructedDataPath=${BIN%.???}_dec_%04d.ply
+  --reconstructedDataPath=${BIN%.???}_dec_%04d.ply \
+  --videoDecoderOccupancyPath=$HMDECODER \
+  --videoDecoderGeometryPath=$HMDECODER \
+  --videoDecoderAttributePath=$HMDECODER
