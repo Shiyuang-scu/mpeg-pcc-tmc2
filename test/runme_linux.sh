@@ -18,7 +18,7 @@ THREAD=1;
 ## Set external tool paths
 ENCODER=${MAINDIR}/bin/PccAppEncoder;
 DECODER=${MAINDIR}/bin/PccAppDecoder;
-HDRCONVERT=${EXTERNAL}HDRTools/bin/HDRConvert;
+HDRCONVERT=${EXTERNAL}HDRTools/build/bin/HDRConvert;
 # VTMENCODER=${EXTERNAL}VTM/bin/EncoderApp;
 # VTMDECODER=${EXTERNAL}VTM/bin/DecoderApp;
 HMENCODER=${EXTERNAL}HM/bin/TAppEncoderStatic;
@@ -85,6 +85,7 @@ case $COND in
 esac
 
 # CFGCONDITION="condition/vtm-all-intra.cfg"
+echo $CFGSEQUENCE
 
 ## Encoder 
 if [ ! -f $BIN ] 
