@@ -9,7 +9,7 @@ SRCDIR=${MAINDIR}/mpeg_datasets/ # note: this directory must containt: http://mp
 CFGDIR=${MAINDIR}/cfg/
 SEQ=25;       # in [22;26]
 COND="C2AI";       # in [C2AI, C2LD, CWAI, CWRA]
-RATE=3;       # in [1;5]
+RATE=1;       # in [1;5]
 FRAMECOUNT=1;
 THREAD=1;
 
@@ -49,8 +49,8 @@ then
       1) CFGRATE="rate/ctc-r1.cfg";; 
       *) echo "rate not correct ($RATE)";   exit -1;;
   esac
-  BIN=mpeg_datasets/reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
-  #BIN=mpeg_datasets/down_reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
+  #BIN=mpeg_datasets/reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
+  BIN=mpeg_datasets/down_reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
 else
    case $SEQ in
       22) CFGSEQUENCE="sequence/queen-lossless.cfg";;
