@@ -51,8 +51,8 @@ then
       1) CFGRATE="rate/ctc-r1.cfg";; 
       *) echo "rate not correct ($RATE)";   exit -1;;
   esac
-  BIN=mpeg_datasets/reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
-  # BIN=mpeg_datasets/down_reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
+  # BIN=mpeg_datasets/reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
+  BIN=mpeg_datasets/down_reconstruct/S${SEQ}${COND}R0${RATE}_F${FRAMECOUNT}.bin
 else
    case $SEQ in
       22) CFGSEQUENCE="sequence/queen-lossless.cfg";;
