@@ -9,7 +9,7 @@ SRCDIR=${MAINDIR}/mpeg_datasets/ # note: this directory must containt: http://mp
 CFGDIR=${MAINDIR}/cfg/
 SEQ=25;       # in [22;26]
 COND="C2AI";       # in [C2AI, C2LD, CWAI, CWRA]
-RATE=3;       # in [1;5]
+RATE=4;       # in [1;5]
 FRAMECOUNT=1;
 THREAD=1;
 
