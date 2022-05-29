@@ -181,15 +181,15 @@ class VPCC:
 
             # 1. execute command and record time
             start_time = time.time()
-            # output = subprocess.run(cmd, capture_output=True, text=True)
+            #output = subprocess.run(cmd, capture_output=True, text=True)
             _ = subprocess.run(cmd)
             end_time = time.time()
             
-            # # 2. record the output information
-            # timestamp = datetime.datetime.now().strftime('%Y%m%d_%H:%M:%S')
-            # log_file = (Path(__file__).parents[0].joinpath(f'logs/execute_cmd_{timestamp}.log'))
-            # with open(log_file, 'w') as f:
-            #     f.write(output.stdout)
+             # 2. record the output information
+            #timestamp = datetime.datetime.now().strftime('%Y%m%d_%H:%M:%S')
+            #log_file = (Path(__file__).parents[0].joinpath(f'logs/execute_cmd_{timestamp}.log'))
+            #with open(log_file, 'w') as f:
+            #    f.write(output.stdout)
 
         except subprocess.CalledProcessError as e:
             timestamp = datetime.datetime.now().strftime('%Y%m%d_%H:%M:%S')
@@ -232,7 +232,6 @@ class VPCC:
             f'--videoEncoderOccupancyPath={self._algs_cfg["videoEncoder"]}',
             f'--videoEncoderGeometryPath={self._algs_cfg["videoEncoder"]}',
             f'--videoEncoderAttributePath={self._algs_cfg["videoEncoder"]}',
-            '--frameCount=1',
             '--computeMetrics=0',
             '--computeChecksum=0'
         ]

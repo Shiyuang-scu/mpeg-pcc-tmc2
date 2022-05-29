@@ -1,0 +1,12 @@
+from: can't read /var/mail/base64
+./script.py: line 2: import: command not found
+./script.py: line 3: import: command not found
+./script.py: line 4: import: command not found
+from: can't read /var/mail/pathlib
+./script.py: line 6: import: command not found
+./script.py: line 7: import: command not found
+from: can't read /var/mail/functools
+from: can't read /var/mail/multiprocessing
+from: can't read /var/mail/tqdm
+./script.py: line 12: syntax error near unexpected token `('
+./script.py: line 12: `logger = logging.getLogger(__name__)'
