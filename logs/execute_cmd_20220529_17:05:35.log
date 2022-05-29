@@ -1,0 +1,166 @@
+PccAppDecoder v15.0
+
++ Parameters
+	 compressedStreamPath                /Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/bin/longdress_vox10_1104.bin
+	 reconstructedDataPath               /Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/dec/longdress_vox10_1104.ply
+	 startFrameNumber                    0
+	 colorTransform                      0
+	 nbThread                            1
+	 keepIntermediateFiles               0
+	 video encoding
+	   colorSpaceConversionPath          
+	   videoDecoderOccupancyPath         bin/PccAppHMVideoDecoder
+	   videoDecoderGeometryPath          bin/PccAppHMVideoDecoder
+	   videoDecoderAttributePath         bin/PccAppHMVideoDecoder
+	   inverseColorSpaceConversionConfig cfg/hdrconvert/yuv420torgb444.cfg
+	   patchColorSubsampling             0
+	   shvcLayerIndex                    8
+Info: Using external color space conversion
++ Parameters
+	   computeChecksum                      0
+	   computeMetrics                       0
+	   startFrameNumber                     0
+	   frameCount                           0
+	   uncompressedDataPath                 
+	   reconstructedDataPath                /Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/dec/longdress_vox10_1104.ply
+	   normalDataPath                       
+	   nbThread                             0
+	   resolution                           1023
+	   dropDuplicates                       2
+	   neighborsProc                        1
+	   computeC2c                           1
+	   computeC2p                           1
+	   computeColor                         1
+	   computeLidar                         0
+	   computeReflectance                   0
+	   computeHausdorff                     1
+
++ Parameters
+	   checkConformance                     0
+	   path                                 
+	   levelIdc                             30
+	   fps                                  30
+
+
+PCCBitstreamReader read: 
+  v3cUnit: size =       33 type =  0 V3C_VPS 
+  v3cUnit: size =      609 type =  1 V3C_AD 
+  v3cUnit: size =     2950 type =  2 V3C_OVD 
+  v3cUnit: size =     4235 type =  3 V3C_GVD 
+  v3cUnit: size =    13066 type =  4 V3C_AVD 
+PCCBitstreamReader decode: 
+  v3cUnit: size =       33 type =  0 V3C_VPS 
+    v3cParameterSet 
+  v3cUnit: size =      609 type =  1 V3C_AD 
+    atlasSubStream 
+      sampleStreamNalUnit   0 type =  36 NAL_ASPS 
+      sampleStreamNalUnit   1 type =  37 NAL_AFPS 
+      sampleStreamNalUnit   2 type =  45 NAL_PREFIX_ESEI 
+        seiMessage: type = 66 GEOMETRY_SMOOTHING 
+      sampleStreamNalUnit   3 type =  23 NAL_IDR_N_LP 
+  v3cUnit: size =     2950 type =  2 V3C_OVD 
+    videoSubStream 
+      occupancy map video  ->2946 B 
+  v3cUnit: size =     4235 type =  3 V3C_GVD 
+    videoSubStream 
+      geometry video  ->4231 B 
+  v3cUnit: size =    13066 type =  4 V3C_AVD 
+    videoSubStream 
+      attribute video  ->13062 B 
+ ptl.getToolConstraintsPresentFlag() = 0 
+checkProfile return 0 
+---profileReconstructionIdc(1)-------
+pixelDeinterleavingType      : 1
+pointLocalReconstructionType : 1
+reconstructEomType           : 1
+duplicatedPointRemovalType   : 1
+reconstructRawType           : 1
+applyGeoSmoothingType        : 1
+applyAttrSmoothingType       : 1
+applyAttrTransferFilterType  : 1
+applyOccupanySynthesisType   : 0
+---------------------------------------
+setTileSizeAndLocation frameIndex = 0 
+createPatchFrameDataStructure Frame = 0 Tiles = 0 atlasIndex = 0 atglIndex 0 
+getCodedCodecId profileCodecGroupIdc = 1 codecCodecId = 1 
+getCodedCodecId profileCodecGroupIdc = 1 codecCodecId = 1 
+CodecCodecId: ProfileCodecGroupIdc = 1 occupancyCodecId = 1 geometry = 1 auxGeo = 0 
+=> Video decoder : occupancy = 1 geometry = 1 
+ Decode 0 size = 2946 
+byteStreamVideoCoder = 1 codecId = 1 
+isAvc = 0 isVvc = 0 
+PCCVirtualVideoDecoder: create codecId = 1 
+ decompress codecId = 1 size(T) = 1 
+
+HM software: Decoder Version [16.25] (including RExt)[Mac OS X][GCC 4.2.1][64 bit] 
+POC    0 TId: 0 ( I-SLICE, QP  8 ) [DT  0.020] [L0 ] [L1 ] [:,(unk)] 
+
+ Total Time:        0.269 sec.
+parseSPS => 320 320 
+hevcParser= 320 x 320 8 bits isRGB = 0 
+bin/PccAppHMVideoDecoder --BitstreamFile=/Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/bin/longdress_vox10_1104_dec_GOF0_occupancy.bin --ReconFile=/Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/bin/longdress_vox10_1104_dec_GOF0_occupancy_rec_320x320_8bit_p420.yuv --OutputBitDepth=8 --OutputBitDepthC=8
+File read size = 320 x 320 frame count = 1 
+Decoded frame = 320 x 320 8 bits is444 = 0 NumFrames = 1 
+*******Video Decoding: Geometry ********
+ Decode G size = 4231 
+byteStreamVideoCoder = 1 codecId = 1 
+isAvc = 0 isVvc = 0 
+PCCVirtualVideoDecoder: create codecId = 1 
+ decompress codecId = 1 size(T) = 2 
+
+HM software: Decoder Version [16.25] (including RExt)[Mac OS X][GCC 4.2.1][64 bit] 
+POC    0 TId: 0 ( I-SLICE, QP 32 ) [DT  0.205] [L0 ] [L1 ] [MD5:f9046de2578ad53b2773a5bd183f4d94,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea,(OK)] 
+POC    1 TId: 0 ( P-SLICE, QP 32 ) [DT  0.063] [L0 0 ] [L1 ] [MD5:c2a03b53f470613b4dda21cdeaa3635a,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea,(OK)] 
+
+ Total Time:        0.750 sec.
+parseSPS => 1280 1280 
+hevcParser= 1280 x 1280 10 bits isRGB = 0 
+bin/PccAppHMVideoDecoder --BitstreamFile=/Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/bin/longdress_vox10_1104_dec_GOF0_geometry.bin --ReconFile=/Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/bin/longdress_vox10_1104_dec_GOF0_geometry_rec_1280x1280_8bit_p420.yuv --OutputBitDepth=8 --OutputBitDepthC=8
+File read size = 1280 x 1280 frame count = 2 
+Decoded frame = 1280 x 1280 8 bits is444 = 0 NumFrames = 2 
+geometry video ->4229 B
+getCodedCodecId profileCodecGroupIdc = 1 codecCodecId = 1 
+CodecId attributeCodecId = 1 
+*******Video Decoding: Attribute ********
+ Decode T size = 13062 
+byteStreamVideoCoder = 1 codecId = 1 
+isAvc = 0 isVvc = 0 
+PCCVirtualVideoDecoder: create codecId = 1 
+ decompress codecId = 1 size(T) = 2 
+
+HM software: Decoder Version [16.25] (including RExt)[Mac OS X][GCC 4.2.1][64 bit] 
+POC    0 TId: 0 ( I-SLICE, QP 42 ) [DT  0.241] [L0 ] [L1 ] [MD5:2587bd0ace60d7238d1c655d793823c2,fc3f69fd72341917eec3cdcbec818921,dee90012b9dafc0a8ed209925c256dee,(OK)] 
+POC    1 TId: 0 ( P-SLICE, QP 45 ) [DT  0.028] [L0 0 ] [L1 ] [MD5:0b39af187ce4649369aeb1318f2a53a1,108602ee55f31403f1dc2f43c6263ebf,81e1a98b5aabf1f2fcc2000021916835,(OK)] 
+
+ Total Time:        0.735 sec.
+parseSPS => 1280 1280 
+hevcParser= 1280 x 1280 10 bits isRGB = 0 
+bin/PccAppHMVideoDecoder --BitstreamFile=/Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/bin/longdress_vox10_1104_dec_GOF0_attribute.bin --ReconFile=/Users/seunoboru/Downloads/mpeg-pcc-tmc2/exps/VPCC/8i_longdress_25/r1/bin/longdress_vox10_1104_dec_GOF0_attribute_rec_1280x1280_8bit_p420.yuv --OutputBitDepth=8 --OutputBitDepthC=8
+File read size = 1280 x 1280 frame count = 2 
+Decoded frame = 1280 x 1280 8 bits is444 = 0 NumFrames = 2 
+ColorConverter configuration : YUV420ToYUV444 bitdepth = 8 filter = 0 videoSrc 2 frames 
+attribute video  ->13060 B
+generate point cloud of 1 frames 
+call generatePointCloud() 
+call generatePointCloud() 
+generatePointCloud pbfEnableFlag_ = 0 
+frame 0, tile 0: regularPoints 784288
+frame 0, tile 0: regularPoints+eomPoints 784288
+frame 0, tile 0: regularPoints+eomPoints+rawPoints 784288
+start colorPointCloud attIdx = 0 / 1 ] 
+isAttributes444 = 0 Format = 2 
+Bitstream stat: 
+  Header:                            11 B        88 b
+    V3CUnitSize[ V3C_VPS ]:        33 B       264 b
+    V3CUnitSize[ V3C_AD  ]:       609 B      4872 b
+    V3CUnitSize[ V3C_OVD ]:      2950 B     23600 b ( Ocm video =      2946 B )
+    V3CUnitSize[ V3C_GVD ]:      4235 B     33880 b ( Geo video =      4231 B +         0 B +         0 B +         0 B )
+    V3CUnitSize[ V3C_AVD ]:     13066 B    104528 b ( Tex video =     13062 B + (        0 B +         0 B) +         0 B )
+  TotalMetadata:                   3611 B     28888 b 
+  TotalGeometry:                   4231 B     33848 b 
+  TotalAttribute:                   13062 B    104496 b 
+  Total:                          20904 B    167232 b 
+Processing time (wall): 15.768 s
+Processing time (user.self): 12.187 s
+Processing time (user.children): 1.68 s
+Peak memory: 331212 KB
