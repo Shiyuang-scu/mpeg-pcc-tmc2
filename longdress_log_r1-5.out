@@ -12908,3 +12908,45 @@ copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 )
 	PCC ME GOP #1 ACTIVE
 POC   47 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2704 bits [Y 47.5046 dB    U 999.9900 dB    V 999.9900 dB] [ET    11 ] [L0 46 ] [L1 ] [MD5:c8daad69ebfb8157df67c9f8aa372dd4,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
 POC   48 TId: 0 ( I-SLICE, nQP 32 QP 32 )      28776 bits [Y 47.6586 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:e0e97e33bd3292d97b7bec27b0e685d8,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   49 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2848 bits [Y 47.2694 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 48 ] [L1 ] [MD5:360590d867e83c8d7736b638332b6601,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+POC   50 TId: 0 ( I-SLICE, nQP 32 QP 32 )      29344 bits [Y 47.7724 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:11c7503576daee6af67066db67ed81ac,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   51 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2576 bits [Y 47.3555 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 50 ] [L1 ] [MD5:18a897650f6a29882f8bf64c16cc8b84,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+POC   52 TId: 0 ( I-SLICE, nQP 32 QP 32 )      29456 bits [Y 47.8417 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:a7f6fe6a3a9dd2a9b9b2602176c53e41,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   53 TId: 0 ( P-SLICE, nQP 32 QP 32 )       3448 bits [Y 47.4243 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 52 ] [L1 ] [MD5:8affd0d4b5516beab6fc8e884c181bd3,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+POC   54 TId: 0 ( I-SLICE, nQP 32 QP 32 )      30224 bits [Y 47.6201 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:caa6a8cc833f724284d54bd40ac5e20e,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   55 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2672 bits [Y 47.1772 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 54 ] [L1 ] [MD5:4c9308a45b8ef3165019f46920f0a0f3,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+POC   56 TId: 0 ( I-SLICE, nQP 32 QP 32 )      29632 bits [Y 47.6351 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:8bf2d022f8359ba0379dd8cb4444d3c1,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   57 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2816 bits [Y 47.0971 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 56 ] [L1 ] [MD5:ff8cedf3a0a8e23b03a82350e6c3ba25,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+POC   58 TId: 0 ( I-SLICE, nQP 32 QP 32 )      29368 bits [Y 47.7014 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:d4259a02e4b340ffde6a13531b0e2ebe,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   59 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2720 bits [Y 47.1599 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 58 ] [L1 ] [MD5:63ace13eab0e4ef5e023de3076236b50,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+POC   60 TId: 0 ( I-SLICE, nQP 32 QP 32 )      28792 bits [Y 47.6585 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:df34954909d23d3c83fa5b00017738a3,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   61 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2888 bits [Y 47.1803 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 60 ] [L1 ] [MD5:1ec93d9b856b955e03100dc0ac426bb4,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+POC   62 TId: 0 ( I-SLICE, nQP 32 QP 32 )      28368 bits [Y 47.8251 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:5b6108db63b21ec16e01c373a519e86f,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
