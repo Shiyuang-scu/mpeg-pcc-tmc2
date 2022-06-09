@@ -478,7 +478,7 @@ class PointBasedMetrics:
         self._get_quality_metrics()
         
         # ret = '\n'.join(self._results)
-        ret = self._results
+        ret = ''.join(self._results)
         
         return ret
 
