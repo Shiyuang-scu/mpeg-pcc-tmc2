@@ -13503,3 +13503,3130 @@ ColorConverter configuration : YUV420ToYUV444 bitdepth = 8 filter = 0 videoSrc 6
 attribute video ->395224 B (0.0605593 bpp)
 Color Point Clouds
 Post Processing Point Clouds
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+Post-Processing: attributeTransfer_ = 1 flagGeometrySmoothing_ = 1 flagColorSmoothing_ = 0 pbfEnableFlag = 0 
+createPatchFrameDataStructure 
+createPatchFrameDataStructure frameIndex = 0 / 32 
+createPatchFrameDataStructure frameIndex = 0 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 1 / 32 
+createPatchFrameDataStructure frameIndex = 1 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 2 / 32 
+createPatchFrameDataStructure frameIndex = 2 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 3 / 32 
+createPatchFrameDataStructure frameIndex = 3 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 4 / 32 
+createPatchFrameDataStructure frameIndex = 4 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 5 / 32 
+createPatchFrameDataStructure frameIndex = 5 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 6 / 32 
+createPatchFrameDataStructure frameIndex = 6 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 7 / 32 
+createPatchFrameDataStructure frameIndex = 7 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 8 / 32 
+createPatchFrameDataStructure frameIndex = 8 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 9 / 32 
+createPatchFrameDataStructure frameIndex = 9 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 10 / 32 
+createPatchFrameDataStructure frameIndex = 10 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 11 / 32 
+createPatchFrameDataStructure frameIndex = 11 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 12 / 32 
+createPatchFrameDataStructure frameIndex = 12 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 13 / 32 
+createPatchFrameDataStructure frameIndex = 13 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 14 / 32 
+createPatchFrameDataStructure frameIndex = 14 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 15 / 32 
+createPatchFrameDataStructure frameIndex = 15 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 16 / 32 
+createPatchFrameDataStructure frameIndex = 16 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 17 / 32 
+createPatchFrameDataStructure frameIndex = 17 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 18 / 32 
+createPatchFrameDataStructure frameIndex = 18 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 19 / 32 
+createPatchFrameDataStructure frameIndex = 19 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 20 / 32 
+createPatchFrameDataStructure frameIndex = 20 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 21 / 32 
+createPatchFrameDataStructure frameIndex = 21 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 22 / 32 
+createPatchFrameDataStructure frameIndex = 22 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 23 / 32 
+createPatchFrameDataStructure frameIndex = 23 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 24 / 32 
+createPatchFrameDataStructure frameIndex = 24 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 25 / 32 
+createPatchFrameDataStructure frameIndex = 25 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 26 / 32 
+createPatchFrameDataStructure frameIndex = 26 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 27 / 32 
+createPatchFrameDataStructure frameIndex = 27 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 28 / 32 
+createPatchFrameDataStructure frameIndex = 28 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 29 / 32 
+createPatchFrameDataStructure frameIndex = 29 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 30 / 32 
+createPatchFrameDataStructure frameIndex = 30 tile 0 / 1 
+createPatchFrameDataStructure frameIndex = 31 / 32 
+createPatchFrameDataStructure frameIndex = 31 tile 0 / 1 
+Done Encoder 
+      occupancy map video  ->81735 B 
+      geometry video  ->127190 B 
+      attribute video  ->395224 B 
+Compressing 2 frames 1115 -> 1147...
+
+============= FRAME 0 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 829165
+		 CC 0 -> 65334
+		 CC 1 -> 264070
+		 CC 2 -> 1350
+		 CC 3 -> 1576
+		 CC 4 -> 41137
+		 CC 5 -> 4223
+		 CC 6 -> 2728
+		 CC 7 -> 26875
+		 CC 8 -> 71626
+		 CC 9 -> 1570
+		 CC 10 -> 1234
+		 CC 11 -> 53647
+		 CC 12 -> 1922
+		 CC 13 -> 2179
+		 CC 14 -> 1678
+		 CC 15 -> 936
+		 CC 16 -> 372
+		 CC 17 -> 31
+		 CC 18 -> 24
+		 CC 19 -> 1600
+		 CC 20 -> 180931
+		 CC 21 -> 11335
+		 CC 22 -> 12105
+		 CC 23 -> 436
+		 CC 24 -> 9267
+		 CC 25 -> 618
+		 CC 26 -> 2186
+		 CC 27 -> 4865
+		 CC 28 -> 3601
+		 CC 29 -> 12867
+		 CC 30 -> 1395
+		 CC 31 -> 12500
+		 CC 32 -> 2416
+		 CC 33 -> 836
+		 CC 34 -> 2001
+		 CC 35 -> 1621
+		 CC 36 -> 20
+		 CC 37 -> 8861
+		 CC 38 -> 4454
+		 CC 39 -> 2923
+		 CC 40 -> 9590
+		 CC 41 -> 68
+ # CC 42
+		 Patch 0 ->(d1,u1,v1)=( 256 , 157 , 123 )(dd,du,dv)=( 191 , 186 , 540 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 128 , 246 , 10 )(dd,du,dv)=( 191 , 388 , 989 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 64 , 371 , 226 )(dd,du,dv)=( 127 , 34 , 47 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 0 , 390 , 254 )(dd,du,dv)=( 63 , 45 , 34 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 512 , 140 , 13 )(dd,du,dv)=( 127 , 155 , 461 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 384 , 242 , 16 )(dd,du,dv)=( 63 , 52 , 107 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 0 , 451 , 204 )(dd,du,dv)=( 63 , 51 , 63 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 384 , 208 , 11 )(dd,du,dv)=( 127 , 122 , 399 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 576 , 195 , 14 )(dd,du,dv)=( 127 , 151 , 640 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 128 , 321 , 176 )(dd,du,dv)=( 63 , 42 , 41 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 256 , 321 , 150 )(dd,du,dv)=( 127 , 36 , 34 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 384 , 346 , 14 )(dd,du,dv)=( 191 , 128 , 468 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 384 , 146 , 140 )(dd,du,dv)=( 63 , 29 , 74 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 128 , 402 , 157 )(dd,du,dv)=( 63 , 48 , 57 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 192 , 437 , 139 )(dd,du,dv)=( 63 , 25 , 75 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 256 , 410 , 134 )(dd,du,dv)=( 63 , 36 , 25 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 192 , 453 , 195 )(dd,du,dv)=( 63 , 14 , 36 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 512 , 250 , 195 )(dd,du,dv)=( 63 , 6 , 11 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 256 , 465 , 217 )(dd,du,dv)=( 63 , 5 , 8 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 256 , 409 , 55 )(dd,du,dv)=( 127 , 29 , 22 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 384 , 246 , 51 )(dd,du,dv)=( 191 , 384 , 943 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 256 , 410 , 140 )(dd,du,dv)=( 127 , 84 , 322 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 192 , 226 , 628 )(dd,du,dv)=( 191 , 57 , 195 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 640 , 335 , 214 )(dd,du,dv)=( 63 , 29 , 24 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 320 , 196 , 616 )(dd,du,dv)=( 127 , 63 , 142 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 576 , 311 , 243 )(dd,du,dv)=( 63 , 31 , 27 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 320 , 231 , 654 )(dd,du,dv)=( 63 , 51 , 44 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 704 , 490 , 184 )(dd,du,dv)=( 63 , 104 , 58 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 896 , 327 , 250 )(dd,du,dv)=( 127 , 83 , 53 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 384 , 232 , 846 )(dd,du,dv)=( 63 , 80 , 149 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 832 , 470 , 240 )(dd,du,dv)=( 63 , 36 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 576 , 226 , 846 )(dd,du,dv)=( 127 , 93 , 152 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 1024 , 425 , 253 )(dd,du,dv)=( 63 , 49 , 46 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 330 , 282 )(dd,du,dv)=( 127 , 40 , 24 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 832 , 490 , 276 )(dd,du,dv)=( 63 , 58 , 34 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 512 , 270 , 810 )(dd,du,dv)=( 63 , 40 , 43 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 320 , 503 , 932 )(dd,du,dv)=( 63 , 3 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 576 , 514 , 185 )(dd,du,dv)=( 127 , 120 , 95 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 576 , 526 , 250 )(dd,du,dv)=( 63 , 77 , 76 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 192 , 539 , 610 )(dd,du,dv)=( 127 , 87 , 42 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 704 , 237 , 639 )(dd,du,dv)=( 191 , 61 , 147 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 320 , 586 , 642 )(dd,du,dv)=( 63 , 11 , 7 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 42
+ # resampled 1095472
+ # raw points 29082
+		 CC 0 -> 108
+		 CC 1 -> 595
+		 CC 2 -> 738
+		 CC 3 -> 479
+		 CC 4 -> 508
+		 CC 5 -> 69
+		 CC 6 -> 1528
+		 CC 7 -> 1117
+		 CC 8 -> 1254
+		 CC 9 -> 1202
+		 CC 10 -> 87
+		 CC 11 -> 442
+		 CC 12 -> 1452
+		 CC 13 -> 1810
+		 CC 14 -> 96
+		 CC 15 -> 546
+		 CC 16 -> 57
+		 CC 17 -> 102
+		 CC 18 -> 1874
+		 CC 19 -> 2905
+		 CC 20 -> 2686
+		 CC 21 -> 394
+		 CC 22 -> 115
+		 CC 23 -> 24
+		 CC 24 -> 164
+		 CC 25 -> 202
+		 CC 26 -> 1505
+		 CC 27 -> 162
+		 CC 28 -> 263
+		 CC 29 -> 75
+		 CC 30 -> 717
+		 CC 31 -> 82
+		 CC 32 -> 1779
+		 CC 33 -> 69
+		 CC 34 -> 80
+		 CC 35 -> 338
+		 CC 36 -> 139
+		 CC 37 -> 100
+		 CC 38 -> 977
+		 CC 39 -> 38
+ # CC 40
+		 Patch 42 ->(d1,u1,v1)=( 192 , 405 , 10 )(dd,du,dv)=( 63 , 22 , 3 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 128 , 362 , 178 )(dd,du,dv)=( 63 , 39 , 32 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 128 , 398 , 142 )(dd,du,dv)=( 127 , 11 , 33 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 192 , 404 , 135 )(dd,du,dv)=( 63 , 26 , 23 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 192 , 446 , 139 )(dd,du,dv)=( 63 , 24 , 26 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 192 , 462 , 216 )(dd,du,dv)=( 63 , 8 , 12 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 192 , 452 , 234 )(dd,du,dv)=( 63 , 18 , 147 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 192 , 503 , 249 )(dd,du,dv)=( 63 , 18 , 97 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 128 , 443 , 415 )(dd,du,dv)=( 63 , 9 , 98 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 128 , 428 , 419 )(dd,du,dv)=( 63 , 12 , 79 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 512 , 168 , 375 )(dd,du,dv)=( 63 , 3 , 22 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 128 , 459 , 402 )(dd,du,dv)=( 63 , 6 , 80 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 128 , 470 , 394 )(dd,du,dv)=( 127 , 18 , 123 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 320 , 394 , 29 )(dd,du,dv)=( 63 , 33 , 33 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 320 , 490 , 99 )(dd,du,dv)=( 63 , 12 , 11 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 320 , 412 , 61 )(dd,du,dv)=( 63 , 25 , 15 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 320 , 402 , 127 )(dd,du,dv)=( 63 , 13 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 256 , 472 , 203 )(dd,du,dv)=( 63 , 10 , 8 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 320 , 274 , 611 )(dd,du,dv)=( 127 , 68 , 47 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 192 , 275 , 612 )(dd,du,dv)=( 127 , 76 , 86 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 320 , 300 , 595 )(dd,du,dv)=( 127 , 78 , 87 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 128 , 382 , 515 )(dd,du,dv)=( 127 , 20 , 48 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 128 , 482 , 618 )(dd,du,dv)=( 63 , 21 , 5 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 192 , 304 , 638 )(dd,du,dv)=( 63 , 6 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 192 , 349 , 754 )(dd,du,dv)=( 63 , 6 , 25 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 128 , 476 , 670 )(dd,du,dv)=( 127 , 12 , 30 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 128 , 481 , 665 )(dd,du,dv)=( 127 , 105 , 21 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 576 , 308 , 603 )(dd,du,dv)=( 127 , 15 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 384 , 491 , 610 )(dd,du,dv)=( 63 , 31 , 27 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 384 , 418 , 725 )(dd,du,dv)=( 63 , 10 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 320 , 454 , 867 )(dd,du,dv)=( 63 , 32 , 19 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 384 , 458 , 822 )(dd,du,dv)=( 127 , 10 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 384 , 470 , 898 )(dd,du,dv)=( 127 , 32 , 33 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 75 ->(d1,u1,v1)=( 512 , 304 , 930 )(dd,du,dv)=( 63 , 10 , 5 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 76 ->(d1,u1,v1)=( 384 , 482 , 911 )(dd,du,dv)=( 63 , 10 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 77 ->(d1,u1,v1)=( 576 , 229 , 610 )(dd,du,dv)=( 63 , 28 , 14 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 78 ->(d1,u1,v1)=( 192 , 590 , 682 )(dd,du,dv)=( 63 , 14 , 9 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 79 ->(d1,u1,v1)=( 192 , 582 , 689 )(dd,du,dv)=( 63 , 18 , 9 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 80 ->(d1,u1,v1)=( 704 , 249 , 656 )(dd,du,dv)=( 127 , 36 , 37 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 81 ->(d1,u1,v1)=( 640 , 538 , 259 )(dd,du,dv)=( 63 , 10 , 3 ),Normal: 1 Direction: 0 EOM: 0
+ # patches 82
+ # resampled 1122270
+ # raw points 4730
+		 CC 0 -> 234
+		 CC 1 -> 257
+		 CC 2 -> 127
+		 CC 3 -> 105
+		 CC 4 -> 452
+		 CC 5 -> 86
+ # CC 6
+		 Patch 82 ->(d1,u1,v1)=( 192 , 401 , 146 )(dd,du,dv)=( 63 , 5 , 28 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 83 ->(d1,u1,v1)=( 128 , 444 , 423 )(dd,du,dv)=( 63 , 7 , 63 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 84 ->(d1,u1,v1)=( 128 , 432 , 461 )(dd,du,dv)=( 63 , 7 , 30 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 85 ->(d1,u1,v1)=( 128 , 479 , 472 )(dd,du,dv)=( 127 , 7 , 32 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 86 ->(d1,u1,v1)=( 320 , 402 , 31 )(dd,du,dv)=( 63 , 24 , 23 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 87 ->(d1,u1,v1)=( 320 , 487 , 899 )(dd,du,dv)=( 63 , 15 , 7 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 88
+ # resampled 1123848
+ # raw points 3503
+ # CC 0
+[done]
+
+============= FRAME 1 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 824409
+		 CC 0 -> 65421
+		 CC 1 -> 259498
+		 CC 2 -> 1210
+		 CC 3 -> 1368
+		 CC 4 -> 47536
+		 CC 5 -> 4669
+		 CC 6 -> 2520
+		 CC 7 -> 23770
+		 CC 8 -> 69255
+		 CC 9 -> 529
+		 CC 10 -> 50586
+		 CC 11 -> 1847
+		 CC 12 -> 2214
+		 CC 13 -> 1116
+		 CC 14 -> 868
+		 CC 15 -> 1732
+		 CC 16 -> 1020
+		 CC 17 -> 173878
+		 CC 18 -> 11879
+		 CC 19 -> 13952
+		 CC 20 -> 3950
+		 CC 21 -> 5108
+		 CC 22 -> 2406
+		 CC 23 -> 6886
+		 CC 24 -> 5936
+		 CC 25 -> 2125
+		 CC 26 -> 4160
+		 CC 27 -> 11613
+		 CC 28 -> 1562
+		 CC 29 -> 13975
+		 CC 30 -> 2549
+		 CC 31 -> 1951
+		 CC 32 -> 1463
+		 CC 33 -> 8248
+		 CC 34 -> 10442
+		 CC 35 -> 3948
+		 CC 36 -> 3086
+		 CC 37 -> 57
+ # CC 38
+		 Patch 0 ->(d1,u1,v1)=( 256 , 157 , 122 )(dd,du,dv)=( 191 , 182 , 536 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 64 , 243 , 9 )(dd,du,dv)=( 191 , 387 , 989 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 64 , 367 , 219 )(dd,du,dv)=( 127 , 33 , 39 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 0 , 386 , 254 )(dd,du,dv)=( 63 , 45 , 32 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 512 , 129 , 13 )(dd,du,dv)=( 127 , 165 , 465 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 320 , 238 , 14 )(dd,du,dv)=( 127 , 58 , 109 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 0 , 451 , 205 )(dd,du,dv)=( 63 , 49 , 63 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 384 , 209 , 11 )(dd,du,dv)=( 127 , 98 , 391 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 576 , 201 , 14 )(dd,du,dv)=( 127 , 141 , 635 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 128 , 350 , 167 )(dd,du,dv)=( 63 , 20 , 25 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 384 , 350 , 14 )(dd,du,dv)=( 191 , 124 , 455 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 384 , 140 , 141 )(dd,du,dv)=( 63 , 27 , 69 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 128 , 402 , 146 )(dd,du,dv)=( 63 , 44 , 67 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 192 , 440 , 141 )(dd,du,dv)=( 63 , 20 , 57 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 256 , 409 , 134 )(dd,du,dv)=( 63 , 33 , 29 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 449 , 186 )(dd,du,dv)=( 127 , 25 , 68 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 128 , 391 , 311 )(dd,du,dv)=( 127 , 29 , 31 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 384 , 254 , 46 )(dd,du,dv)=( 127 , 372 , 947 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 256 , 414 , 110 )(dd,du,dv)=( 63 , 92 , 336 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 192 , 214 , 624 )(dd,du,dv)=( 191 , 74 , 197 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 256 , 270 , 583 )(dd,du,dv)=( 63 , 89 , 72 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 576 , 293 , 231 )(dd,du,dv)=( 127 , 89 , 67 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 320 , 216 , 650 )(dd,du,dv)=( 63 , 49 , 48 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 320 , 192 , 642 )(dd,du,dv)=( 63 , 63 , 116 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 704 , 482 , 190 )(dd,du,dv)=( 63 , 120 , 68 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 512 , 186 , 669 )(dd,du,dv)=( 63 , 40 , 49 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 896 , 325 , 240 )(dd,du,dv)=( 127 , 83 , 59 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 384 , 233 , 848 )(dd,du,dv)=( 63 , 77 , 143 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 832 , 466 , 240 )(dd,du,dv)=( 63 , 38 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 576 , 228 , 845 )(dd,du,dv)=( 127 , 127 , 150 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 1024 , 422 , 254 )(dd,du,dv)=( 63 , 52 , 48 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 512 , 267 , 806 )(dd,du,dv)=( 63 , 43 , 48 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 832 , 486 , 285 )(dd,du,dv)=( 63 , 49 , 29 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 518 , 190 )(dd,du,dv)=( 127 , 108 , 100 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 704 , 246 , 638 )(dd,du,dv)=( 191 , 60 , 156 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 576 , 520 , 258 )(dd,du,dv)=( 63 , 78 , 68 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 256 , 537 , 610 )(dd,du,dv)=( 63 , 85 , 40 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 320 , 582 , 641 )(dd,du,dv)=( 63 , 9 , 6 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 38
+ # resampled 1099240
+ # raw points 25364
+		 CC 0 -> 104
+		 CC 1 -> 428
+		 CC 2 -> 204
+		 CC 3 -> 328
+		 CC 4 -> 126
+		 CC 5 -> 120
+		 CC 6 -> 759
+		 CC 7 -> 283
+		 CC 8 -> 532
+		 CC 9 -> 543
+		 CC 10 -> 870
+		 CC 11 -> 126
+		 CC 12 -> 1267
+		 CC 13 -> 2517
+		 CC 14 -> 416
+		 CC 15 -> 2326
+		 CC 16 -> 210
+		 CC 17 -> 330
+		 CC 18 -> 569
+		 CC 19 -> 38
+		 CC 20 -> 2512
+		 CC 21 -> 253
+		 CC 22 -> 2523
+		 CC 23 -> 289
+		 CC 24 -> 218
+		 CC 25 -> 85
+		 CC 26 -> 294
+		 CC 27 -> 111
+		 CC 28 -> 83
+		 CC 29 -> 1033
+		 CC 30 -> 158
+		 CC 31 -> 592
+		 CC 32 -> 283
+		 CC 33 -> 281
+		 CC 34 -> 542
+		 CC 35 -> 156
+		 CC 36 -> 343
+		 CC 37 -> 979
+		 CC 38 -> 145
+ # CC 39
+		 Patch 38 ->(d1,u1,v1)=( 192 , 409 , 10 )(dd,du,dv)=( 63 , 18 , 3 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 320 , 165 , 158 )(dd,du,dv)=( 63 , 34 , 26 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 320 , 170 , 180 )(dd,du,dv)=( 63 , 12 , 20 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 128 , 367 , 177 )(dd,du,dv)=( 63 , 29 , 21 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 448 , 168 , 147 )(dd,du,dv)=( 63 , 10 , 14 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 128 , 429 , 210 )(dd,du,dv)=( 63 , 7 , 34 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 192 , 401 , 137 )(dd,du,dv)=( 63 , 29 , 25 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 512 , 199 , 155 )(dd,du,dv)=( 127 , 10 , 21 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 192 , 442 , 139 )(dd,du,dv)=( 63 , 25 , 26 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 192 , 451 , 195 )(dd,du,dv)=( 63 , 16 , 35 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 192 , 503 , 242 )(dd,du,dv)=( 63 , 18 , 80 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 512 , 147 , 283 )(dd,du,dv)=( 63 , 4 , 16 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 512 , 167 , 351 )(dd,du,dv)=( 63 , 16 , 99 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 128 , 453 , 382 )(dd,du,dv)=( 63 , 14 , 136 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 192 , 456 , 257 )(dd,du,dv)=( 63 , 11 , 51 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 128 , 474 , 377 )(dd,du,dv)=( 127 , 25 , 131 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 128 , 366 , 445 )(dd,du,dv)=( 63 , 8 , 30 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 128 , 378 , 499 )(dd,du,dv)=( 127 , 24 , 52 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 128 , 446 , 408 )(dd,du,dv)=( 63 , 6 , 87 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 128 , 464 , 493 )(dd,du,dv)=( 63 , 4 , 12 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 320 , 385 , 26 )(dd,du,dv)=( 63 , 40 , 52 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 320 , 494 , 108 )(dd,du,dv)=( 63 , 19 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 192 , 270 , 618 )(dd,du,dv)=( 127 , 64 , 81 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 192 , 340 , 610 )(dd,du,dv)=( 63 , 30 , 11 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 128 , 470 , 512 )(dd,du,dv)=( 63 , 10 , 37 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 128 , 485 , 615 )(dd,du,dv)=( 63 , 21 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 192 , 355 , 636 )(dd,du,dv)=( 63 , 9 , 28 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 192 , 349 , 755 )(dd,du,dv)=( 63 , 6 , 22 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 128 , 479 , 667 )(dd,du,dv)=( 63 , 7 , 15 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 192 , 499 , 665 )(dd,du,dv)=( 127 , 79 , 16 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 192 , 431 , 885 )(dd,du,dv)=( 63 , 19 , 16 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 384 , 478 , 606 )(dd,du,dv)=( 63 , 44 , 33 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 320 , 302 , 646 )(dd,du,dv)=( 63 , 20 , 21 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 384 , 407 , 709 )(dd,du,dv)=( 63 , 22 , 32 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 384 , 446 , 862 )(dd,du,dv)=( 127 , 17 , 27 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 512 , 308 , 927 )(dd,du,dv)=( 63 , 17 , 8 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 576 , 235 , 609 )(dd,du,dv)=( 63 , 30 , 15 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 75 ->(d1,u1,v1)=( 640 , 263 , 656 )(dd,du,dv)=( 63 , 35 , 35 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 76 ->(d1,u1,v1)=( 256 , 580 , 687 )(dd,du,dv)=( 63 , 20 , 10 ),Normal: 0 Direction: 0 EOM: 0
+ # patches 77
+ # resampled 1121890
+ # raw points 4553
+		 CC 0 -> 94
+		 CC 1 -> 79
+		 CC 2 -> 308
+		 CC 3 -> 422
+		 CC 4 -> 74
+ # CC 5
+		 Patch 77 ->(d1,u1,v1)=( 512 , 200 , 158 )(dd,du,dv)=( 127 , 7 , 14 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 78 ->(d1,u1,v1)=( 512 , 169 , 365 )(dd,du,dv)=( 63 , 10 , 17 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 79 ->(d1,u1,v1)=( 128 , 455 , 450 )(dd,du,dv)=( 63 , 11 , 36 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 80 ->(d1,u1,v1)=( 320 , 390 , 29 )(dd,du,dv)=( 63 , 24 , 34 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 81 ->(d1,u1,v1)=( 384 , 452 , 875 )(dd,du,dv)=( 127 , 6 , 8 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 82
+ # resampled 1123142
+ # raw points 3649
+ # CC 0
+[done]
+
+============= FRAME 2 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 820059
+		 CC 0 -> 243495
+		 CC 1 -> 2792
+		 CC 2 -> 55663
+		 CC 3 -> 1850
+		 CC 4 -> 4567
+		 CC 5 -> 87898
+		 CC 6 -> 2427
+		 CC 7 -> 49583
+		 CC 8 -> 2242
+		 CC 9 -> 20624
+		 CC 10 -> 69475
+		 CC 11 -> 4094
+		 CC 12 -> 639
+		 CC 13 -> 888
+		 CC 14 -> 31
+		 CC 15 -> 860
+		 CC 16 -> 2622
+		 CC 17 -> 1394
+		 CC 18 -> 11737
+		 CC 19 -> 165625
+		 CC 20 -> 4067
+		 CC 21 -> 5153
+		 CC 22 -> 5228
+		 CC 23 -> 2562
+		 CC 24 -> 10806
+		 CC 25 -> 5056
+		 CC 26 -> 3806
+		 CC 27 -> 11791
+		 CC 28 -> 1628
+		 CC 29 -> 11295
+		 CC 30 -> 2536
+		 CC 31 -> 1238
+		 CC 32 -> 1825
+		 CC 33 -> 7988
+		 CC 34 -> 3401
+		 CC 35 -> 2736
+		 CC 36 -> 10310
+ # CC 37
+		 Patch 0 ->(d1,u1,v1)=( 64 , 241 , 10 )(dd,du,dv)=( 191 , 386 , 988 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 384 , 124 , 154 )(dd,du,dv)=( 63 , 39 , 96 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 512 , 123 , 11 )(dd,du,dv)=( 127 , 170 , 487 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 0 , 381 , 238 )(dd,du,dv)=( 63 , 47 , 46 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 320 , 237 , 14 )(dd,du,dv)=( 127 , 54 , 112 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 192 , 149 , 122 )(dd,du,dv)=( 191 , 183 , 703 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 64 , 352 , 197 )(dd,du,dv)=( 127 , 47 , 53 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 384 , 353 , 13 )(dd,du,dv)=( 191 , 113 , 442 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 0 , 451 , 206 )(dd,du,dv)=( 63 , 49 , 54 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 448 , 210 , 11 )(dd,du,dv)=( 63 , 93 , 363 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 576 , 206 , 12 )(dd,du,dv)=( 127 , 136 , 635 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 128 , 410 , 128 )(dd,du,dv)=( 63 , 50 , 82 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 192 , 441 , 149 )(dd,du,dv)=( 63 , 19 , 37 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 256 , 450 , 136 )(dd,du,dv)=( 63 , 25 , 24 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 512 , 247 , 172 )(dd,du,dv)=( 63 , 3 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 451 , 199 )(dd,du,dv)=( 127 , 25 , 38 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 320 , 464 , 14 )(dd,du,dv)=( 63 , 41 , 76 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 64 , 480 , 285 )(dd,du,dv)=( 63 , 46 , 34 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 256 , 414 , 113 )(dd,du,dv)=( 63 , 82 , 333 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 384 , 298 , 109 )(dd,du,dv)=( 127 , 324 , 883 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 256 , 266 , 585 )(dd,du,dv)=( 63 , 95 , 75 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 576 , 285 , 220 )(dd,du,dv)=( 127 , 87 , 66 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 320 , 187 , 658 )(dd,du,dv)=( 63 , 55 , 96 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 320 , 204 , 650 )(dd,du,dv)=( 63 , 54 , 52 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 576 , 189 , 667 )(dd,du,dv)=( 127 , 125 , 183 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 704 , 486 , 195 )(dd,du,dv)=( 63 , 104 , 69 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 896 , 330 , 234 )(dd,du,dv)=( 127 , 76 , 61 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 384 , 232 , 850 )(dd,du,dv)=( 63 , 78 , 141 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 832 , 462 , 241 )(dd,du,dv)=( 63 , 40 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 576 , 230 , 845 )(dd,du,dv)=( 127 , 80 , 150 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 1024 , 422 , 251 )(dd,du,dv)=( 63 , 50 , 51 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 320 , 267 , 643 )(dd,du,dv)=( 63 , 43 , 32 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 832 , 483 , 284 )(dd,du,dv)=( 63 , 55 , 31 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 521 , 199 )(dd,du,dv)=( 127 , 101 , 104 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 576 , 518 , 270 )(dd,du,dv)=( 63 , 72 , 60 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 256 , 542 , 610 )(dd,du,dv)=( 63 , 75 , 38 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 704 , 260 , 633 )(dd,du,dv)=( 191 , 59 , 153 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 37
+ # resampled 1094686
+ # raw points 25455
+		 CC 0 -> 81
+		 CC 1 -> 312
+		 CC 2 -> 94
+		 CC 3 -> 1085
+		 CC 4 -> 194
+		 CC 5 -> 231
+		 CC 6 -> 41
+		 CC 7 -> 221
+		 CC 8 -> 179
+		 CC 9 -> 101
+		 CC 10 -> 548
+		 CC 11 -> 1651
+		 CC 12 -> 145
+		 CC 13 -> 455
+		 CC 14 -> 2604
+		 CC 15 -> 2855
+		 CC 16 -> 116
+		 CC 17 -> 1780
+		 CC 18 -> 970
+		 CC 19 -> 84
+		 CC 20 -> 2667
+		 CC 21 -> 115
+		 CC 22 -> 83
+		 CC 23 -> 97
+		 CC 24 -> 1457
+		 CC 25 -> 127
+		 CC 26 -> 580
+		 CC 27 -> 140
+		 CC 28 -> 149
+		 CC 29 -> 342
+		 CC 30 -> 2846
+		 CC 31 -> 358
+		 CC 32 -> 884
+ # CC 33
+		 Patch 37 ->(d1,u1,v1)=( 320 , 162 , 164 )(dd,du,dv)=( 63 , 16 , 3 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 128 , 350 , 165 )(dd,du,dv)=( 63 , 38 , 18 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 320 , 162 , 185 )(dd,du,dv)=( 63 , 9 , 10 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 128 , 394 , 129 )(dd,du,dv)=( 127 , 24 , 33 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 512 , 143 , 232 )(dd,du,dv)=( 127 , 6 , 24 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 512 , 162 , 217 )(dd,du,dv)=( 63 , 6 , 20 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 128 , 432 , 196 )(dd,du,dv)=( 63 , 8 , 6 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 448 , 205 , 155 )(dd,du,dv)=( 63 , 14 , 12 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 512 , 243 , 141 )(dd,du,dv)=( 127 , 9 , 20 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 512 , 198 , 156 )(dd,du,dv)=( 127 , 6 , 16 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 192 , 451 , 199 )(dd,du,dv)=( 127 , 14 , 35 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 512 , 170 , 352 )(dd,du,dv)=( 63 , 16 , 123 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 192 , 458 , 261 )(dd,du,dv)=( 63 , 7 , 34 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 192 , 510 , 251 )(dd,du,dv)=( 63 , 12 , 47 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 128 , 470 , 314 )(dd,du,dv)=( 127 , 29 , 196 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 128 , 462 , 390 )(dd,du,dv)=( 63 , 23 , 166 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 128 , 452 , 446 )(dd,du,dv)=( 63 , 2 , 32 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 320 , 379 , 24 )(dd,du,dv)=( 63 , 25 , 69 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 384 , 371 , 49 )(dd,du,dv)=( 127 , 28 , 27 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 384 , 286 , 452 )(dd,du,dv)=( 63 , 5 , 15 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 192 , 266 , 614 )(dd,du,dv)=( 127 , 80 , 83 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 192 , 346 , 612 )(dd,du,dv)=( 63 , 22 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 128 , 490 , 616 )(dd,du,dv)=( 127 , 14 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 192 , 353 , 649 )(dd,du,dv)=( 63 , 5 , 16 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 192 , 506 , 664 )(dd,du,dv)=( 127 , 97 , 25 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 192 , 429 , 884 )(dd,du,dv)=( 63 , 20 , 17 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 384 , 467 , 607 )(dd,du,dv)=( 63 , 43 , 30 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 384 , 406 , 708 )(dd,du,dv)=( 63 , 15 , 24 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 384 , 292 , 882 )(dd,du,dv)=( 63 , 14 , 14 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 384 , 444 , 874 )(dd,du,dv)=( 127 , 18 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 384 , 458 , 893 )(dd,du,dv)=( 127 , 44 , 48 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 576 , 241 , 607 )(dd,du,dv)=( 63 , 36 , 17 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 640 , 278 , 656 )(dd,du,dv)=( 63 , 35 , 34 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 70
+ # resampled 1118778
+ # raw points 4320
+		 CC 0 -> 109
+		 CC 1 -> 174
+		 CC 2 -> 344
+		 CC 3 -> 119
+		 CC 4 -> 288
+		 CC 5 -> 536
+ # CC 6
+		 Patch 70 ->(d1,u1,v1)=( 192 , 406 , 137 )(dd,du,dv)=( 63 , 11 , 8 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 512 , 172 , 366 )(dd,du,dv)=( 63 , 11 , 24 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 128 , 466 , 499 )(dd,du,dv)=( 63 , 16 , 42 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 192 , 491 , 467 )(dd,du,dv)=( 63 , 7 , 32 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 320 , 381 , 27 )(dd,du,dv)=( 63 , 20 , 19 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 75 ->(d1,u1,v1)=( 384 , 476 , 893 )(dd,du,dv)=( 127 , 19 , 26 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 76
+ # resampled 1120504
+ # raw points 2851
+ # CC 0
+[done]
+
+============= FRAME 3 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 816375
+		 CC 0 -> 3812
+		 CC 1 -> 59401
+		 CC 2 -> 233179
+		 CC 3 -> 5343
+		 CC 4 -> 87613
+		 CC 5 -> 1972
+		 CC 6 -> 4804
+		 CC 7 -> 8069
+		 CC 8 -> 44728
+		 CC 9 -> 2975
+		 CC 10 -> 23449
+		 CC 11 -> 67621
+		 CC 12 -> 361
+		 CC 13 -> 1419
+		 CC 14 -> 1156
+		 CC 15 -> 2579
+		 CC 16 -> 981
+		 CC 17 -> 167177
+		 CC 18 -> 20
+		 CC 19 -> 8631
+		 CC 20 -> 1227
+		 CC 21 -> 3213
+		 CC 22 -> 1765
+		 CC 23 -> 3775
+		 CC 24 -> 3350
+		 CC 25 -> 2569
+		 CC 26 -> 4656
+		 CC 27 -> 13774
+		 CC 28 -> 3823
+		 CC 29 -> 12081
+		 CC 30 -> 1618
+		 CC 31 -> 11174
+		 CC 32 -> 2422
+		 CC 33 -> 2399
+		 CC 34 -> 8324
+		 CC 35 -> 3060
+		 CC 36 -> 2489
+		 CC 37 -> 9184
+		 CC 38 -> 20
+ # CC 39
+		 Patch 0 ->(d1,u1,v1)=( 384 , 116 , 150 )(dd,du,dv)=( 63 , 44 , 92 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 512 , 116 , 11 )(dd,du,dv)=( 127 , 171 , 483 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 64 , 242 , 10 )(dd,du,dv)=( 191 , 377 , 988 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 64 , 344 , 172 )(dd,du,dv)=( 127 , 103 , 62 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 192 , 144 , 122 )(dd,du,dv)=( 191 , 183 , 703 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 0 , 375 , 236 )(dd,du,dv)=( 63 , 52 , 46 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 192 , 375 , 10 )(dd,du,dv)=( 63 , 51 , 120 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 320 , 214 , 14 )(dd,du,dv)=( 127 , 74 , 172 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 320 , 346 , 14 )(dd,du,dv)=( 127 , 132 , 440 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 0 , 450 , 206 )(dd,du,dv)=( 63 , 53 , 58 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 384 , 210 , 11 )(dd,du,dv)=( 127 , 105 , 400 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 576 , 209 , 16 )(dd,du,dv)=( 127 , 133 , 631 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 256 , 365 , 38 )(dd,du,dv)=( 63 , 23 , 18 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 128 , 353 , 290 )(dd,du,dv)=( 127 , 35 , 39 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 0 , 354 , 292 )(dd,du,dv)=( 127 , 31 , 37 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 473 , 20 )(dd,du,dv)=( 63 , 32 , 82 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 64 , 486 , 286 )(dd,du,dv)=( 63 , 36 , 32 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 384 , 290 , 107 )(dd,du,dv)=( 127 , 329 , 886 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 448 , 261 , 234 )(dd,du,dv)=( 63 , 3 , 7 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 256 , 406 , 209 )(dd,du,dv)=( 63 , 74 , 233 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 640 , 247 , 190 )(dd,du,dv)=( 63 , 32 , 44 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 256 , 274 , 588 )(dd,du,dv)=( 127 , 80 , 78 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 320 , 269 , 637 )(dd,du,dv)=( 127 , 55 , 37 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 576 , 290 , 218 )(dd,du,dv)=( 127 , 76 , 52 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 320 , 185 , 682 )(dd,du,dv)=( 63 , 49 , 72 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 320 , 194 , 654 )(dd,du,dv)=( 63 , 55 , 53 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 704 , 494 , 202 )(dd,du,dv)=( 63 , 92 , 72 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 576 , 195 , 666 )(dd,du,dv)=( 127 , 119 , 184 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 896 , 328 , 226 )(dd,du,dv)=( 127 , 74 , 67 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 384 , 232 , 850 )(dd,du,dv)=( 63 , 79 , 140 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 832 , 458 , 241 )(dd,du,dv)=( 63 , 42 , 37 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 576 , 231 , 844 )(dd,du,dv)=( 127 , 75 , 152 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 1024 , 418 , 252 )(dd,du,dv)=( 63 , 49 , 48 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 832 , 476 , 283 )(dd,du,dv)=( 63 , 61 , 38 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 576 , 520 , 208 )(dd,du,dv)=( 127 , 100 , 111 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 576 , 512 , 282 )(dd,du,dv)=( 63 , 75 , 50 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 256 , 548 , 610 )(dd,du,dv)=( 63 , 70 , 43 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 704 , 272 , 642 )(dd,du,dv)=( 191 , 60 , 136 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 320 , 604 , 648 )(dd,du,dv)=( 63 , 6 , 3 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 39
+ # resampled 1091268
+ # raw points 22734
+		 CC 0 -> 205
+		 CC 1 -> 914
+		 CC 2 -> 116
+		 CC 3 -> 105
+		 CC 4 -> 268
+		 CC 5 -> 925
+		 CC 6 -> 4345
+		 CC 7 -> 2737
+		 CC 8 -> 1051
+		 CC 9 -> 228
+		 CC 10 -> 72
+		 CC 11 -> 3035
+		 CC 12 -> 95
+		 CC 13 -> 163
+		 CC 14 -> 146
+		 CC 15 -> 46
+		 CC 16 -> 616
+		 CC 17 -> 850
+		 CC 18 -> 49
+		 CC 19 -> 124
+		 CC 20 -> 2210
+		 CC 21 -> 128
+		 CC 22 -> 148
+		 CC 23 -> 1181
+		 CC 24 -> 403
+		 CC 25 -> 606
+ # CC 26
+		 Patch 39 ->(d1,u1,v1)=( 512 , 118 , 153 )(dd,du,dv)=( 127 , 11 , 30 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 512 , 161 , 168 )(dd,du,dv)=( 127 , 11 , 60 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 512 , 139 , 192 )(dd,du,dv)=( 127 , 6 , 25 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 448 , 203 , 155 )(dd,du,dv)=( 63 , 9 , 11 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 192 , 444 , 138 )(dd,du,dv)=( 63 , 22 , 21 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 512 , 176 , 360 )(dd,du,dv)=( 63 , 14 , 113 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 128 , 452 , 259 )(dd,du,dv)=( 191 , 62 , 255 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 128 , 470 , 386 )(dd,du,dv)=( 63 , 20 , 172 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 320 , 372 , 25 )(dd,du,dv)=( 63 , 22 , 37 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 448 , 295 , 120 )(dd,du,dv)=( 63 , 4 , 38 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 192 , 455 , 196 )(dd,du,dv)=( 127 , 8 , 11 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 192 , 269 , 611 )(dd,du,dv)=( 63 , 88 , 79 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 192 , 349 , 610 )(dd,du,dv)=( 63 , 23 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 320 , 226 , 607 )(dd,du,dv)=( 63 , 29 , 18 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 192 , 361 , 649 )(dd,du,dv)=( 63 , 6 , 20 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 192 , 439 , 885 )(dd,du,dv)=( 63 , 6 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 384 , 457 , 604 )(dd,du,dv)=( 63 , 55 , 32 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 384 , 434 , 859 )(dd,du,dv)=( 127 , 23 , 32 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 384 , 290 , 870 )(dd,du,dv)=( 63 , 6 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 384 , 284 , 890 )(dd,du,dv)=( 63 , 13 , 10 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 384 , 450 , 891 )(dd,du,dv)=( 127 , 48 , 41 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 384 , 442 , 897 )(dd,du,dv)=( 127 , 20 , 8 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 384 , 464 , 898 )(dd,du,dv)=( 63 , 9 , 13 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 192 , 525 , 666 )(dd,du,dv)=( 127 , 78 , 23 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 576 , 252 , 606 )(dd,du,dv)=( 63 , 33 , 16 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 640 , 297 , 655 )(dd,du,dv)=( 63 , 31 , 31 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 65
+ # resampled 1113358
+ # raw points 3916
+		 CC 0 -> 39
+		 CC 1 -> 132
+		 CC 2 -> 418
+		 CC 3 -> 174
+		 CC 4 -> 62
+		 CC 5 -> 50
+		 CC 6 -> 263
+ # CC 7
+		 Patch 65 ->(d1,u1,v1)=( 448 , 162 , 194 )(dd,du,dv)=( 63 , 7 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 512 , 163 , 204 )(dd,du,dv)=( 63 , 9 , 18 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 128 , 476 , 491 )(dd,du,dv)=( 63 , 12 , 62 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 375 , 26 )(dd,du,dv)=( 63 , 15 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 320 , 492 , 891 )(dd,du,dv)=( 63 , 6 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 320 , 476 , 892 )(dd,du,dv)=( 63 , 6 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 384 , 471 , 902 )(dd,du,dv)=( 127 , 20 , 13 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 72
+ # resampled 1114398
+ # raw points 2936
+ # CC 0
+[done]
+
+============= FRAME 4 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 813981
+		 CC 0 -> 2826
+		 CC 1 -> 59465
+		 CC 2 -> 225892
+		 CC 3 -> 128935
+		 CC 4 -> 5946
+		 CC 5 -> 4777
+		 CC 6 -> 2101
+		 CC 7 -> 2306
+		 CC 8 -> 67771
+		 CC 9 -> 39524
+		 CC 10 -> 1885
+		 CC 11 -> 2723
+		 CC 12 -> 884
+		 CC 13 -> 168905
+		 CC 14 -> 3410
+		 CC 15 -> 3871
+		 CC 16 -> 1425
+		 CC 17 -> 2486
+		 CC 18 -> 410
+		 CC 19 -> 2471
+		 CC 20 -> 16385
+		 CC 21 -> 5211
+		 CC 22 -> 4509
+		 CC 23 -> 10807
+		 CC 24 -> 1658
+		 CC 25 -> 11127
+		 CC 26 -> 2609
+		 CC 27 -> 3379
+		 CC 28 -> 7236
+		 CC 29 -> 2398
+		 CC 30 -> 7785
+		 CC 31 -> 10765
+		 CC 32 -> 1871
+		 CC 33 -> 30
+ # CC 34
+		 Patch 0 ->(d1,u1,v1)=( 384 , 104 , 155 )(dd,du,dv)=( 63 , 49 , 55 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 512 , 104 , 10 )(dd,du,dv)=( 127 , 174 , 500 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 64 , 246 , 10 )(dd,du,dv)=( 191 , 338 , 987 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 192 , 141 , 11 )(dd,du,dv)=( 191 , 181 , 814 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 64 , 347 , 162 )(dd,du,dv)=( 127 , 104 , 65 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 192 , 372 , 12 )(dd,du,dv)=( 63 , 54 , 110 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 0 , 370 , 234 )(dd,du,dv)=( 63 , 56 , 46 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 0 , 451 , 205 )(dd,du,dv)=( 63 , 50 , 55 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 576 , 213 , 12 )(dd,du,dv)=( 127 , 129 , 634 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 320 , 357 , 12 )(dd,du,dv)=( 127 , 122 , 425 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 0 , 340 , 282 )(dd,du,dv)=( 127 , 28 , 35 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 320 , 463 , 14 )(dd,du,dv)=( 63 , 42 , 84 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 64 , 486 , 290 )(dd,du,dv)=( 63 , 34 , 29 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 384 , 290 , 108 )(dd,du,dv)=( 127 , 328 , 884 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 256 , 430 , 214 )(dd,du,dv)=( 63 , 47 , 136 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 256 , 273 , 584 )(dd,du,dv)=( 127 , 81 , 82 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 576 , 310 , 210 )(dd,du,dv)=( 63 , 48 , 31 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 256 , 270 , 626 )(dd,du,dv)=( 63 , 64 , 48 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 640 , 261 , 180 )(dd,du,dv)=( 63 , 17 , 34 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 320 , 181 , 654 )(dd,du,dv)=( 63 , 52 , 52 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 576 , 205 , 664 )(dd,du,dv)=( 191 , 110 , 186 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 704 , 500 , 213 )(dd,du,dv)=( 63 , 102 , 84 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 896 , 330 , 215 )(dd,du,dv)=( 127 , 71 , 75 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 320 , 232 , 847 )(dd,du,dv)=( 127 , 76 , 143 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 832 , 454 , 241 )(dd,du,dv)=( 63 , 43 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 576 , 234 , 844 )(dd,du,dv)=( 127 , 68 , 151 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 1024 , 414 , 249 )(dd,du,dv)=( 63 , 50 , 50 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 576 , 502 , 290 )(dd,du,dv)=( 63 , 80 , 48 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 256 , 498 , 666 )(dd,du,dv)=( 63 , 100 , 120 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 832 , 466 , 289 )(dd,du,dv)=( 63 , 59 , 38 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 576 , 518 , 215 )(dd,du,dv)=( 127 , 96 , 116 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 640 , 253 , 645 )(dd,du,dv)=( 127 , 91 , 137 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 256 , 554 , 614 )(dd,du,dv)=( 127 , 60 , 36 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 605 , 331 )(dd,du,dv)=( 127 , 9 , 4 ),Normal: 1 Direction: 0 EOM: 0
+ # patches 34
+ # resampled 1044652
+ # raw points 45121
+		 CC 0 -> 395
+		 CC 1 -> 19894
+		 CC 2 -> 151
+		 CC 3 -> 1154
+		 CC 4 -> 156
+		 CC 5 -> 103
+		 CC 6 -> 930
+		 CC 7 -> 315
+		 CC 8 -> 1532
+		 CC 9 -> 5930
+		 CC 10 -> 109
+		 CC 11 -> 358
+		 CC 12 -> 1755
+		 CC 13 -> 1130
+		 CC 14 -> 497
+		 CC 15 -> 19
+		 CC 16 -> 81
+		 CC 17 -> 157
+		 CC 18 -> 134
+		 CC 19 -> 3878
+		 CC 20 -> 287
+		 CC 21 -> 97
+		 CC 22 -> 74
+		 CC 23 -> 757
+		 CC 24 -> 140
+		 CC 25 -> 360
+		 CC 26 -> 155
+		 CC 27 -> 131
+		 CC 28 -> 1929
+		 CC 29 -> 242
+		 CC 30 -> 291
+ # CC 31
+		 Patch 34 ->(d1,u1,v1)=( 64 , 434 , 219 )(dd,du,dv)=( 127 , 18 , 31 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 384 , 210 , 11 )(dd,du,dv)=( 127 , 103 , 348 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 448 , 152 , 170 )(dd,du,dv)=( 63 , 8 , 20 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 512 , 162 , 178 )(dd,du,dv)=( 127 , 15 , 58 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 256 , 444 , 221 )(dd,du,dv)=( 63 , 8 , 26 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 320 , 453 , 185 )(dd,du,dv)=( 127 , 8 , 17 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 192 , 447 , 185 )(dd,du,dv)=( 127 , 25 , 58 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 320 , 449 , 236 )(dd,du,dv)=( 127 , 16 , 28 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 512 , 182 , 372 )(dd,du,dv)=( 63 , 16 , 85 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 192 , 461 , 250 )(dd,du,dv)=( 127 , 57 , 273 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 128 , 358 , 470 )(dd,du,dv)=( 63 , 8 , 22 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 128 , 486 , 406 )(dd,du,dv)=( 127 , 16 , 20 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 128 , 479 , 426 )(dd,du,dv)=( 127 , 22 , 128 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 320 , 360 , 21 )(dd,du,dv)=( 63 , 30 , 37 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 0 , 342 , 285 )(dd,du,dv)=( 127 , 20 , 30 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 256 , 463 , 176 )(dd,du,dv)=( 63 , 7 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 256 , 475 , 201 )(dd,du,dv)=( 63 , 4 , 19 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 256 , 469 , 213 )(dd,du,dv)=( 63 , 9 , 22 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 192 , 279 , 634 )(dd,du,dv)=( 63 , 10 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 128 , 270 , 610 )(dd,du,dv)=( 127 , 98 , 94 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 320 , 237 , 618 )(dd,du,dv)=( 63 , 23 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 256 , 246 , 651 )(dd,du,dv)=( 63 , 7 , 9 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 192 , 301 , 698 )(dd,du,dv)=( 63 , 9 , 11 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 576 , 259 , 604 )(dd,du,dv)=( 127 , 50 , 18 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 384 , 489 , 602 )(dd,du,dv)=( 63 , 14 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 384 , 449 , 606 )(dd,du,dv)=( 63 , 39 , 27 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 384 , 285 , 893 )(dd,du,dv)=( 63 , 12 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 320 , 442 , 875 )(dd,du,dv)=( 63 , 14 , 13 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 384 , 434 , 892 )(dd,du,dv)=( 127 , 51 , 24 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 384 , 485 , 921 )(dd,du,dv)=( 127 , 7 , 11 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 640 , 318 , 659 )(dd,du,dv)=( 63 , 23 , 19 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 65
+ # resampled 1095734
+ # raw points 4648
+		 CC 0 -> 315
+		 CC 1 -> 173
+		 CC 2 -> 123
+		 CC 3 -> 202
+		 CC 4 -> 166
+		 CC 5 -> 634
+		 CC 6 -> 49
+		 CC 7 -> 52
+		 CC 8 -> 86
+		 CC 9 -> 217
+ # CC 10
+		 Patch 65 ->(d1,u1,v1)=( 512 , 164 , 187 )(dd,du,dv)=( 127 , 12 , 45 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 512 , 184 , 392 )(dd,du,dv)=( 63 , 13 , 17 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 192 , 507 , 447 )(dd,du,dv)=( 63 , 5 , 30 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 371 , 24 )(dd,du,dv)=( 63 , 14 , 18 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 128 , 485 , 506 )(dd,du,dv)=( 63 , 8 , 33 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 384 , 450 , 892 )(dd,du,dv)=( 127 , 32 , 16 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 384 , 450 , 901 )(dd,du,dv)=( 127 , 8 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 320 , 477 , 907 )(dd,du,dv)=( 63 , 7 , 8 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 320 , 486 , 924 )(dd,du,dv)=( 63 , 6 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 576 , 262 , 606 )(dd,du,dv)=( 63 , 29 , 15 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 75
+ # resampled 1097762
+ # raw points 2856
+		 CC 0 -> 112
+ # CC 1
+		 Patch 75 ->(d1,u1,v1)=( 384 , 458 , 899 )(dd,du,dv)=( 127 , 16 , 5 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 76
+ # resampled 1097830
+ # raw points 2770
+ # CC 0
+[done]
+
+============= FRAME 5 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 808442
+		 CC 0 -> 2810
+		 CC 1 -> 127976
+		 CC 2 -> 178854
+		 CC 3 -> 134291
+		 CC 4 -> 6371
+		 CC 5 -> 5151
+		 CC 6 -> 1899
+		 CC 7 -> 29666
+		 CC 8 -> 2662
+		 CC 9 -> 34835
+		 CC 10 -> 766
+		 CC 11 -> 2059
+		 CC 12 -> 618
+		 CC 13 -> 675
+		 CC 14 -> 826
+		 CC 15 -> 2190
+		 CC 16 -> 895
+		 CC 17 -> 171031
+		 CC 18 -> 2977
+		 CC 19 -> 103
+		 CC 20 -> 19
+		 CC 21 -> 29
+		 CC 22 -> 4213
+		 CC 23 -> 6290
+		 CC 24 -> 8097
+		 CC 25 -> 3719
+		 CC 26 -> 773
+		 CC 27 -> 34527
+		 CC 28 -> 5944
+		 CC 29 -> 4859
+		 CC 30 -> 1563
+		 CC 31 -> 10366
+		 CC 32 -> 10273
+		 CC 33 -> 2602
+		 CC 34 -> 1122
+		 CC 35 -> 4336
+		 CC 36 -> 1742
+		 CC 37 -> 1134
+ # CC 38
+		 Patch 0 ->(d1,u1,v1)=( 384 , 94 , 158 )(dd,du,dv)=( 63 , 56 , 55 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 576 , 94 , 10 )(dd,du,dv)=( 191 , 252 , 635 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 64 , 248 , 130 )(dd,du,dv)=( 191 , 321 , 867 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 192 , 139 , 11 )(dd,du,dv)=( 191 , 176 , 814 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 64 , 350 , 158 )(dd,du,dv)=( 127 , 108 , 68 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 192 , 373 , 10 )(dd,du,dv)=( 63 , 49 , 116 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 0 , 370 , 236 )(dd,du,dv)=( 63 , 52 , 41 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 192 , 446 , 10 )(dd,du,dv)=( 127 , 108 , 388 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 0 , 451 , 210 )(dd,du,dv)=( 63 , 53 , 54 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 320 , 346 , 14 )(dd,du,dv)=( 127 , 160 , 389 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 384 , 159 , 480 )(dd,du,dv)=( 63 , 22 , 38 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 128 , 489 , 418 )(dd,du,dv)=( 127 , 30 , 68 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 256 , 342 , 32 )(dd,du,dv)=( 63 , 32 , 32 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 0 , 330 , 274 )(dd,du,dv)=( 127 , 24 , 30 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 128 , 330 , 274 )(dd,du,dv)=( 127 , 24 , 30 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 471 , 22 )(dd,du,dv)=( 63 , 33 , 64 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 64 , 486 , 290 )(dd,du,dv)=( 63 , 36 , 28 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 384 , 293 , 110 )(dd,du,dv)=( 191 , 321 , 882 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 256 , 434 , 210 )(dd,du,dv)=( 63 , 41 , 121 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 320 , 469 , 221 )(dd,du,dv)=( 63 , 6 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 448 , 262 , 238 )(dd,du,dv)=( 63 , 3 , 7 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 320 , 466 , 253 )(dd,du,dv)=( 63 , 4 , 11 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 256 , 273 , 584 )(dd,du,dv)=( 127 , 89 , 82 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 576 , 288 , 190 )(dd,du,dv)=( 127 , 87 , 72 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 576 , 508 , 202 )(dd,du,dv)=( 127 , 95 , 144 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 320 , 162 , 656 )(dd,du,dv)=( 63 , 60 , 60 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 256 , 278 , 641 )(dd,du,dv)=( 63 , 31 , 27 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 640 , 210 , 640 )(dd,du,dv)=( 191 , 149 , 206 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 704 , 507 , 222 )(dd,du,dv)=( 63 , 90 , 95 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 896 , 329 , 204 )(dd,du,dv)=( 127 , 69 , 82 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 832 , 453 , 242 )(dd,du,dv)=( 63 , 41 , 36 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 576 , 233 , 844 )(dd,du,dv)=( 127 , 63 , 150 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 384 , 233 , 848 )(dd,du,dv)=( 63 , 77 , 141 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 1024 , 410 , 250 )(dd,du,dv)=( 63 , 51 , 48 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 640 , 482 , 305 )(dd,du,dv)=( 63 , 31 , 45 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 576 , 486 , 298 )(dd,du,dv)=( 63 , 102 , 52 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 832 , 462 , 298 )(dd,du,dv)=( 63 , 48 , 32 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 320 , 556 , 619 )(dd,du,dv)=( 63 , 47 , 31 ),Normal: 0 Direction: 0 EOM: 0
+ # patches 38
+ # resampled 1040296
+ # raw points 40501
+		 CC 0 -> 826
+		 CC 1 -> 3268
+		 CC 2 -> 19585
+		 CC 3 -> 1169
+		 CC 4 -> 328
+		 CC 5 -> 485
+		 CC 6 -> 215
+		 CC 7 -> 483
+		 CC 8 -> 2438
+		 CC 9 -> 85
+		 CC 10 -> 93
+		 CC 11 -> 39
+		 CC 12 -> 3641
+		 CC 13 -> 41
+		 CC 14 -> 2601
+		 CC 15 -> 58
+		 CC 16 -> 68
+		 CC 17 -> 269
+		 CC 18 -> 119
+		 CC 19 -> 162
+		 CC 20 -> 1813
+		 CC 21 -> 111
+		 CC 22 -> 729
+ # CC 23
+		 Patch 38 ->(d1,u1,v1)=( 64 , 434 , 199 )(dd,du,dv)=( 127 , 31 , 50 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 448 , 238 , 10 )(dd,du,dv)=( 63 , 36 , 96 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 384 , 211 , 12 )(dd,du,dv)=( 127 , 103 , 331 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 512 , 162 , 166 )(dd,du,dv)=( 63 , 20 , 66 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 128 , 460 , 226 )(dd,du,dv)=( 63 , 24 , 33 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 256 , 442 , 209 )(dd,du,dv)=( 63 , 28 , 45 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 320 , 449 , 210 )(dd,du,dv)=( 127 , 12 , 25 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 256 , 449 , 250 )(dd,du,dv)=( 63 , 17 , 51 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 512 , 187 , 355 )(dd,du,dv)=( 63 , 19 , 143 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 320 , 257 , 29 )(dd,du,dv)=( 63 , 9 , 6 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 320 , 374 , 30 )(dd,du,dv)=( 63 , 10 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 448 , 254 , 159 )(dd,du,dv)=( 63 , 3 , 12 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 128 , 274 , 614 )(dd,du,dv)=( 127 , 77 , 76 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 192 , 306 , 706 )(dd,du,dv)=( 63 , 6 , 8 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 640 , 242 , 662 )(dd,du,dv)=( 191 , 81 , 42 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 192 , 430 , 885 )(dd,du,dv)=( 63 , 10 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 192 , 415 , 901 )(dd,du,dv)=( 63 , 14 , 8 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 384 , 443 , 601 )(dd,du,dv)=( 63 , 46 , 28 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 512 , 290 , 791 )(dd,du,dv)=( 63 , 12 , 9 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 320 , 439 , 874 )(dd,du,dv)=( 63 , 13 , 14 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 384 , 431 , 892 )(dd,du,dv)=( 127 , 54 , 24 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 576 , 523 , 244 )(dd,du,dv)=( 63 , 11 , 6 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 576 , 262 , 602 )(dd,du,dv)=( 127 , 52 , 24 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 61
+ # resampled 1084384
+ # raw points 4068
+		 CC 0 -> 234
+		 CC 1 -> 251
+		 CC 2 -> 259
+		 CC 3 -> 650
+ # CC 4
+		 Patch 61 ->(d1,u1,v1)=( 128 , 439 , 207 )(dd,du,dv)=( 63 , 17 , 30 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 512 , 163 , 170 )(dd,du,dv)=( 63 , 18 , 53 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 512 , 192 , 379 )(dd,du,dv)=( 63 , 12 , 42 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 384 , 447 , 894 )(dd,du,dv)=( 127 , 32 , 19 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 65
+ # resampled 1085902
+ # raw points 2741
+ # CC 0
+[done]
+
+============= FRAME 6 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 806629
+		 CC 0 -> 82089
+		 CC 1 -> 2144
+		 CC 2 -> 21145
+		 CC 3 -> 8356
+		 CC 4 -> 58800
+		 CC 5 -> 2098
+		 CC 6 -> 28362
+		 CC 7 -> 5731
+		 CC 8 -> 3222
+		 CC 9 -> 55880
+		 CC 10 -> 13811
+		 CC 11 -> 15531
+		 CC 12 -> 4933
+		 CC 13 -> 9456
+		 CC 14 -> 56474
+		 CC 15 -> 43
+		 CC 16 -> 947
+		 CC 17 -> 16
+		 CC 18 -> 1179
+		 CC 19 -> 59408
+		 CC 20 -> 216
+		 CC 21 -> 1215
+		 CC 22 -> 533
+		 CC 23 -> 377
+		 CC 24 -> 1000
+		 CC 25 -> 963
+		 CC 26 -> 180825
+		 CC 27 -> 584
+		 CC 28 -> 20
+		 CC 29 -> 1757
+		 CC 30 -> 24
+		 CC 31 -> 96984
+		 CC 32 -> 3713
+		 CC 33 -> 672
+		 CC 34 -> 500
+		 CC 35 -> 6513
+		 CC 36 -> 509
+		 CC 37 -> 714
+		 CC 38 -> 4286
+		 CC 39 -> 397
+		 CC 40 -> 39532
+		 CC 41 -> 5275
+		 CC 42 -> 3858
+		 CC 43 -> 1526
+		 CC 44 -> 8459
+		 CC 45 -> 3888
+		 CC 46 -> 4248
+		 CC 47 -> 188
+		 CC 48 -> 209
+		 CC 49 -> 1093
+		 CC 50 -> 385
+		 CC 51 -> 5831
+		 CC 52 -> 560
+ # CC 53
+		 Patch 0 ->(d1,u1,v1)=( 256 , 364 , 141 )(dd,du,dv)=( 191 , 191 , 510 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 512 , 106 , 186 )(dd,du,dv)=( 127 , 38 , 52 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 384 , 114 , 142 )(dd,du,dv)=( 191 , 96 , 344 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 192 , 350 , 135 )(dd,du,dv)=( 127 , 120 , 87 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 448 , 138 , 14 )(dd,du,dv)=( 127 , 138 , 592 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 64 , 369 , 232 )(dd,du,dv)=( 63 , 49 , 45 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 256 , 373 , 12 )(dd,du,dv)=( 127 , 156 , 470 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 384 , 214 , 9 )(dd,du,dv)=( 63 , 60 , 154 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 0 , 452 , 204 )(dd,du,dv)=( 63 , 52 , 71 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 192 , 359 , 10 )(dd,du,dv)=( 127 , 196 , 502 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 448 , 206 , 11 )(dd,du,dv)=( 63 , 108 , 205 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 576 , 232 , 18 )(dd,du,dv)=( 127 , 92 , 248 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 512 , 192 , 142 )(dd,du,dv)=( 127 , 55 , 84 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 512 , 242 , 196 )(dd,du,dv)=( 127 , 48 , 230 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 640 , 185 , 314 )(dd,du,dv)=( 191 , 168 , 331 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 448 , 204 , 354 )(dd,du,dv)=( 63 , 6 , 12 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 512 , 227 , 326 )(dd,du,dv)=( 63 , 13 , 55 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 448 , 234 , 330 )(dd,du,dv)=( 63 , 3 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 320 , 154 , 450 )(dd,du,dv)=( 127 , 26 , 48 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 192 , 146 , 418 )(dd,du,dv)=( 191 , 161 , 572 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 512 , 188 , 449 )(dd,du,dv)=( 63 , 14 , 25 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 128 , 501 , 462 )(dd,du,dv)=( 127 , 19 , 48 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 0 , 323 , 265 )(dd,du,dv)=( 127 , 21 , 27 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 128 , 323 , 269 )(dd,du,dv)=( 127 , 20 , 23 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 320 , 478 , 52 )(dd,du,dv)=( 63 , 25 , 38 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 64 , 482 , 290 )(dd,du,dv)=( 63 , 40 , 26 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 384 , 293 , 113 )(dd,du,dv)=( 191 , 310 , 880 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 320 , 450 , 141 )(dd,du,dv)=( 63 , 22 , 41 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 512 , 262 , 202 )(dd,du,dv)=( 63 , 2 , 8 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 576 , 193 , 289 )(dd,du,dv)=( 63 , 25 , 89 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 512 , 190 , 510 )(dd,du,dv)=( 63 , 3 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 128 , 252 , 542 )(dd,du,dv)=( 191 , 261 , 455 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 192 , 276 , 591 )(dd,du,dv)=( 63 , 86 , 75 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 342 , 162 )(dd,du,dv)=( 63 , 37 , 24 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 320 , 179 , 582 )(dd,du,dv)=( 63 , 21 , 31 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 576 , 290 , 182 )(dd,du,dv)=( 127 , 91 , 66 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 640 , 509 , 214 )(dd,du,dv)=( 63 , 28 , 32 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 640 , 257 , 149 )(dd,du,dv)=( 63 , 29 , 37 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 320 , 150 , 656 )(dd,du,dv)=( 63 , 57 , 70 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 256 , 290 , 642 )(dd,du,dv)=( 63 , 22 , 20 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 640 , 202 , 631 )(dd,du,dv)=( 191 , 173 , 219 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 704 , 510 , 238 )(dd,du,dv)=( 63 , 79 , 92 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 896 , 329 , 193 )(dd,du,dv)=( 127 , 58 , 73 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 832 , 450 , 242 )(dd,du,dv)=( 63 , 40 , 37 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 512 , 234 , 844 )(dd,du,dv)=( 63 , 60 , 127 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 1024 , 406 , 249 )(dd,du,dv)=( 63 , 80 , 49 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 576 , 470 , 302 )(dd,du,dv)=( 63 , 96 , 54 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 640 , 476 , 311 )(dd,du,dv)=( 63 , 26 , 11 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 576 , 476 , 311 )(dd,du,dv)=( 63 , 24 , 11 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 640 , 466 , 322 )(dd,du,dv)=( 63 , 36 , 36 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 832 , 458 , 313 )(dd,du,dv)=( 63 , 28 , 17 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 576 , 519 , 225 )(dd,du,dv)=( 127 , 71 , 136 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 320 , 562 , 628 )(dd,du,dv)=( 63 , 29 , 21 ),Normal: 0 Direction: 0 EOM: 0
+ # patches 53
+ # resampled 1050324
+ # raw points 23199
+		 CC 0 -> 497
+		 CC 1 -> 1316
+		 CC 2 -> 41
+		 CC 3 -> 1698
+		 CC 4 -> 874
+		 CC 5 -> 535
+		 CC 6 -> 51
+		 CC 7 -> 95
+		 CC 8 -> 118
+		 CC 9 -> 1231
+		 CC 10 -> 92
+		 CC 11 -> 1131
+		 CC 12 -> 226
+		 CC 13 -> 3415
+		 CC 14 -> 70
+		 CC 15 -> 4402
+		 CC 16 -> 273
+		 CC 17 -> 107
+		 CC 18 -> 2055
+		 CC 19 -> 55
+		 CC 20 -> 466
+		 CC 21 -> 43
+		 CC 22 -> 345
+		 CC 23 -> 57
+		 CC 24 -> 1463
+		 CC 25 -> 229
+ # CC 26
+		 Patch 53 ->(d1,u1,v1)=( 128 , 424 , 180 )(dd,du,dv)=( 63 , 24 , 35 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 384 , 251 , 29 )(dd,du,dv)=( 63 , 22 , 33 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 0 , 487 , 251 )(dd,du,dv)=( 63 , 3 , 8 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 192 , 471 , 165 )(dd,du,dv)=( 63 , 38 , 88 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 192 , 415 , 132 )(dd,du,dv)=( 127 , 34 , 69 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 192 , 453 , 252 )(dd,du,dv)=( 127 , 18 , 32 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 256 , 501 , 356 )(dd,du,dv)=( 63 , 6 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 512 , 232 , 338 )(dd,du,dv)=( 63 , 5 , 20 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 192 , 373 , 495 )(dd,du,dv)=( 63 , 8 , 18 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 192 , 368 , 402 )(dd,du,dv)=( 127 , 39 , 98 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 192 , 385 , 410 )(dd,du,dv)=( 63 , 5 , 22 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 256 , 500 , 367 )(dd,du,dv)=( 63 , 28 , 63 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 192 , 503 , 470 )(dd,du,dv)=( 63 , 11 , 36 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 320 , 384 , 207 )(dd,du,dv)=( 63 , 90 , 213 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 256 , 469 , 220 )(dd,du,dv)=( 63 , 7 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 128 , 279 , 610 )(dd,du,dv)=( 127 , 95 , 81 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 576 , 367 , 207 )(dd,du,dv)=( 63 , 12 , 31 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 192 , 307 , 702 )(dd,du,dv)=( 63 , 9 , 17 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 576 , 234 , 663 )(dd,du,dv)=( 127 , 102 , 48 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 192 , 416 , 900 )(dd,du,dv)=( 63 , 11 , 8 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 576 , 276 , 602 )(dd,du,dv)=( 127 , 46 , 17 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 320 , 384 , 703 )(dd,du,dv)=( 63 , 7 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 75 ->(d1,u1,v1)=( 320 , 425 , 865 )(dd,du,dv)=( 63 , 22 , 22 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 76 ->(d1,u1,v1)=( 384 , 426 , 873 )(dd,du,dv)=( 127 , 7 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 77 ->(d1,u1,v1)=( 384 , 435 , 895 )(dd,du,dv)=( 127 , 38 , 33 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 78 ->(d1,u1,v1)=( 576 , 315 , 632 )(dd,du,dv)=( 63 , 26 , 10 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 79
+ # resampled 1075412
+ # raw points 3225
+		 CC 0 -> 267
+		 CC 1 -> 419
+ # CC 2
+		 Patch 79 ->(d1,u1,v1)=( 384 , 254 , 31 )(dd,du,dv)=( 63 , 17 , 30 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 80 ->(d1,u1,v1)=( 384 , 451 , 895 )(dd,du,dv)=( 127 , 20 , 19 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 81
+ # resampled 1076038
+ # raw points 2585
+ # CC 0
+[done]
+
+============= FRAME 7 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 803189
+		 CC 0 -> 179303
+		 CC 1 -> 166608
+		 CC 2 -> 1639
+		 CC 3 -> 164449
+		 CC 4 -> 8757
+		 CC 5 -> 2364
+		 CC 6 -> 4698
+		 CC 7 -> 19
+		 CC 8 -> 29072
+		 CC 9 -> 1024
+		 CC 10 -> 7689
+		 CC 11 -> 16209
+		 CC 12 -> 3265
+		 CC 13 -> 780
+		 CC 14 -> 1325
+		 CC 15 -> 551
+		 CC 16 -> 164
+		 CC 17 -> 1289
+		 CC 18 -> 960
+		 CC 19 -> 165088
+		 CC 20 -> 3134
+		 CC 21 -> 3281
+		 CC 22 -> 4543
+		 CC 23 -> 5351
+		 CC 24 -> 4218
+		 CC 25 -> 1661
+		 CC 26 -> 7591
+		 CC 27 -> 4497
+		 CC 28 -> 4475
+		 CC 29 -> 23
+		 CC 30 -> 1218
+		 CC 31 -> 901
+		 CC 32 -> 4890
+		 CC 33 -> 2056
+ # CC 34
+		 Patch 0 ->(d1,u1,v1)=( 64 , 259 , 132 )(dd,du,dv)=( 191 , 265 , 866 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 640 , 124 , 22 )(dd,du,dv)=( 191 , 266 , 828 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 256 , 453 , 123 )(dd,du,dv)=( 63 , 53 , 40 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 192 , 129 , 13 )(dd,du,dv)=( 191 , 185 , 977 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 64 , 359 , 139 )(dd,du,dv)=( 127 , 119 , 83 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 0 , 369 , 231 )(dd,du,dv)=( 63 , 58 , 42 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 192 , 372 , 13 )(dd,du,dv)=( 63 , 50 , 121 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 64 , 336 , 254 )(dd,du,dv)=( 63 , 6 , 3 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 320 , 363 , 13 )(dd,du,dv)=( 191 , 154 , 309 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 64 , 402 , 234 )(dd,du,dv)=( 63 , 25 , 33 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 512 , 192 , 30 )(dd,du,dv)=( 127 , 70 , 160 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 192 , 426 , 11 )(dd,du,dv)=( 127 , 89 , 273 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 0 , 456 , 204 )(dd,du,dv)=( 63 , 51 , 68 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 448 , 238 , 258 )(dd,du,dv)=( 63 , 13 , 53 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 512 , 236 , 266 )(dd,du,dv)=( 63 , 15 , 76 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 128 , 320 , 260 )(dd,du,dv)=( 63 , 18 , 23 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 64 , 321 , 266 )(dd,du,dv)=( 63 , 16 , 16 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 320 , 478 , 50 )(dd,du,dv)=( 63 , 26 , 42 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 64 , 479 , 290 )(dd,du,dv)=( 63 , 43 , 26 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 448 , 301 , 115 )(dd,du,dv)=( 191 , 289 , 878 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 256 , 431 , 206 )(dd,du,dv)=( 63 , 38 , 97 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 192 , 290 , 595 )(dd,du,dv)=( 63 , 68 , 71 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 576 , 306 , 178 )(dd,du,dv)=( 127 , 68 , 64 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 384 , 134 , 657 )(dd,du,dv)=( 127 , 63 , 81 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 896 , 334 , 183 )(dd,du,dv)=( 127 , 60 , 75 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 832 , 446 , 242 )(dd,du,dv)=( 63 , 41 , 40 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 512 , 234 , 845 )(dd,du,dv)=( 63 , 59 , 123 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 1024 , 401 , 243 )(dd,du,dv)=( 63 , 87 , 55 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 576 , 457 , 314 )(dd,du,dv)=( 63 , 93 , 49 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 640 , 481 , 319 )(dd,du,dv)=( 63 , 8 , 4 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 640 , 455 , 327 )(dd,du,dv)=( 63 , 39 , 31 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 832 , 449 , 310 )(dd,du,dv)=( 63 , 37 , 26 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 704 , 512 , 250 )(dd,du,dv)=( 63 , 66 , 92 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 520 , 258 )(dd,du,dv)=( 63 , 41 , 60 ),Normal: 1 Direction: 0 EOM: 0
+ # patches 34
+ # resampled 1021236
+ # raw points 40382
+		 CC 0 -> 1322
+		 CC 1 -> 18961
+		 CC 2 -> 63
+		 CC 3 -> 1484
+		 CC 4 -> 1093
+		 CC 5 -> 529
+		 CC 6 -> 472
+		 CC 7 -> 81
+		 CC 8 -> 190
+		 CC 9 -> 119
+		 CC 10 -> 1619
+		 CC 11 -> 168
+		 CC 12 -> 171
+		 CC 13 -> 504
+		 CC 14 -> 425
+		 CC 15 -> 78
+		 CC 16 -> 4893
+		 CC 17 -> 248
+		 CC 18 -> 63
+		 CC 19 -> 48
+		 CC 20 -> 34
+		 CC 21 -> 112
+		 CC 22 -> 92
+		 CC 23 -> 711
+		 CC 24 -> 98
+		 CC 25 -> 49
+		 CC 26 -> 1802
+		 CC 27 -> 124
+		 CC 28 -> 1283
+		 CC 29 -> 42
+		 CC 30 -> 198
+		 CC 31 -> 192
+		 CC 32 -> 456
+		 CC 33 -> 796
+ # CC 34
+		 Patch 34 ->(d1,u1,v1)=( 320 , 241 , 31 )(dd,du,dv)=( 63 , 24 , 40 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 384 , 211 , 18 )(dd,du,dv)=( 127 , 102 , 303 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 0 , 485 , 247 )(dd,du,dv)=( 63 , 4 , 15 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 64 , 426 , 186 )(dd,du,dv)=( 127 , 38 , 42 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 256 , 452 , 143 )(dd,du,dv)=( 127 , 23 , 47 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 512 , 168 , 173 )(dd,du,dv)=( 63 , 19 , 48 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 256 , 435 , 174 )(dd,du,dv)=( 63 , 11 , 39 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 256 , 445 , 218 )(dd,du,dv)=( 63 , 5 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 256 , 448 , 231 )(dd,du,dv)=( 63 , 10 , 35 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 512 , 253 , 261 )(dd,du,dv)=( 63 , 8 , 17 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 576 , 206 , 361 )(dd,du,dv)=( 127 , 13 , 104 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 512 , 232 , 327 )(dd,du,dv)=( 63 , 3 , 31 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 512 , 230 , 369 )(dd,du,dv)=( 63 , 7 , 21 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 128 , 383 , 389 )(dd,du,dv)=( 63 , 8 , 73 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 128 , 383 , 453 )(dd,du,dv)=( 63 , 5 , 53 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 0 , 474 , 259 )(dd,du,dv)=( 63 , 13 , 5 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 128 , 290 , 610 )(dd,du,dv)=( 127 , 87 , 82 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 320 , 225 , 605 )(dd,du,dv)=( 63 , 9 , 17 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 256 , 156 , 653 )(dd,du,dv)=( 63 , 11 , 6 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 128 , 316 , 708 )(dd,du,dv)=( 127 , 7 , 9 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 192 , 332 , 724 )(dd,du,dv)=( 63 , 7 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 128 , 458 , 676 )(dd,du,dv)=( 63 , 6 , 24 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 384 , 239 , 916 )(dd,du,dv)=( 63 , 12 , 21 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 576 , 292 , 598 )(dd,du,dv)=( 127 , 38 , 16 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 320 , 379 , 683 )(dd,du,dv)=( 63 , 7 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 320 , 380 , 705 )(dd,du,dv)=( 63 , 3 , 16 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 576 , 250 , 662 )(dd,du,dv)=( 127 , 95 , 35 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 320 , 428 , 872 )(dd,du,dv)=( 63 , 13 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 384 , 429 , 896 )(dd,du,dv)=( 127 , 38 , 34 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 320 , 471 , 899 )(dd,du,dv)=( 63 , 6 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 384 , 464 , 932 )(dd,du,dv)=( 127 , 16 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 320 , 477 , 931 )(dd,du,dv)=( 63 , 13 , 16 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 576 , 227 , 617 )(dd,du,dv)=( 63 , 49 , 20 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 576 , 293 , 630 )(dd,du,dv)=( 63 , 59 , 10 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 68
+ # resampled 1062316
+ # raw points 4654
+		 CC 0 -> 296
+		 CC 1 -> 519
+		 CC 2 -> 191
+		 CC 3 -> 204
+		 CC 4 -> 36
+		 CC 5 -> 324
+		 CC 6 -> 190
+ # CC 7
+		 Patch 68 ->(d1,u1,v1)=( 320 , 248 , 33 )(dd,du,dv)=( 63 , 15 , 30 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 128 , 429 , 189 )(dd,du,dv)=( 63 , 25 , 29 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 576 , 208 , 397 )(dd,du,dv)=( 127 , 7 , 50 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 576 , 297 , 606 )(dd,du,dv)=( 127 , 20 , 5 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 512 , 319 , 601 )(dd,du,dv)=( 63 , 5 , 6 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 384 , 429 , 896 )(dd,du,dv)=( 127 , 32 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 576 , 315 , 636 )(dd,du,dv)=( 63 , 19 , 3 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 75
+ # resampled 1063762
+ # raw points 3224
+		 CC 0 -> 136
+ # CC 1
+		 Patch 75 ->(d1,u1,v1)=( 128 , 431 , 191 )(dd,du,dv)=( 63 , 23 , 23 ),Normal: 0 Direction: 0 EOM: 0
+ # patches 76
+ # resampled 1063860
+ # raw points 3098
+ # CC 0
+[done]
+
+============= FRAME 8 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 803638
+		 CC 0 -> 9945
+		 CC 1 -> 4662
+		 CC 2 -> 2433
+		 CC 3 -> 6841
+		 CC 4 -> 1001
+		 CC 5 -> 30373
+		 CC 6 -> 165520
+		 CC 7 -> 174763
+		 CC 8 -> 986
+		 CC 9 -> 5252
+		 CC 10 -> 2213
+		 CC 11 -> 11511
+		 CC 12 -> 479
+		 CC 13 -> 3792
+		 CC 14 -> 166748
+		 CC 15 -> 1014
+		 CC 16 -> 2844
+		 CC 17 -> 657
+		 CC 18 -> 1097
+		 CC 19 -> 4198
+		 CC 20 -> 160941
+		 CC 21 -> 493
+		 CC 22 -> 6377
+		 CC 23 -> 3727
+		 CC 24 -> 4640
+		 CC 25 -> 578
+		 CC 26 -> 4166
+		 CC 27 -> 1379
+		 CC 28 -> 7582
+		 CC 29 -> 4321
+		 CC 30 -> 5258
+		 CC 31 -> 1900
+		 CC 32 -> 4516
+		 CC 33 -> 1334
+ # CC 34
+		 Patch 0 ->(d1,u1,v1)=( 64 , 368 , 132 )(dd,du,dv)=( 127 , 122 , 86 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 320 , 228 , 14 )(dd,du,dv)=( 63 , 39 , 94 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 0 , 368 , 230 )(dd,du,dv)=( 63 , 58 , 45 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 192 , 358 , 11 )(dd,du,dv)=( 63 , 63 , 119 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 0 , 316 , 245 )(dd,du,dv)=( 127 , 26 , 27 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 320 , 355 , 13 )(dd,du,dv)=( 191 , 171 , 281 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 256 , 114 , 16 )(dd,du,dv)=( 191 , 216 , 976 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 64 , 265 , 127 )(dd,du,dv)=( 191 , 265 , 873 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 64 , 401 , 239 )(dd,du,dv)=( 63 , 25 , 31 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 512 , 214 , 42 )(dd,du,dv)=( 127 , 48 , 132 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 0 , 456 , 204 )(dd,du,dv)=( 63 , 47 , 52 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 192 , 441 , 11 )(dd,du,dv)=( 127 , 73 , 227 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 64 , 456 , 206 )(dd,du,dv)=( 63 , 18 , 25 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 320 , 459 , 11 )(dd,du,dv)=( 127 , 46 , 87 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 640 , 140 , 14 )(dd,du,dv)=( 191 , 262 , 836 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 256 , 482 , 140 )(dd,du,dv)=( 63 , 36 , 31 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 448 , 142 , 378 )(dd,du,dv)=( 127 , 32 , 100 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 448 , 242 , 270 )(dd,du,dv)=( 63 , 9 , 45 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 64 , 458 , 292 )(dd,du,dv)=( 63 , 60 , 22 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 256 , 431 , 123 )(dd,du,dv)=( 63 , 43 , 167 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 448 , 335 , 116 )(dd,du,dv)=( 191 , 240 , 879 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 576 , 297 , 126 )(dd,du,dv)=( 127 , 21 , 21 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 384 , 118 , 647 )(dd,du,dv)=( 127 , 66 , 99 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 192 , 290 , 596 )(dd,du,dv)=( 63 , 82 , 75 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 576 , 315 , 166 )(dd,du,dv)=( 127 , 64 , 68 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 576 , 351 , 142 )(dd,du,dv)=( 63 , 32 , 20 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 896 , 338 , 177 )(dd,du,dv)=( 127 , 57 , 77 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 832 , 442 , 243 )(dd,du,dv)=( 63 , 41 , 37 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 512 , 234 , 846 )(dd,du,dv)=( 63 , 58 , 124 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 1024 , 398 , 244 )(dd,du,dv)=( 63 , 85 , 52 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 576 , 434 , 315 )(dd,du,dv)=( 63 , 106 , 52 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 640 , 434 , 322 )(dd,du,dv)=( 63 , 61 , 39 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 704 , 508 , 258 )(dd,du,dv)=( 63 , 59 , 92 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 516 , 270 )(dd,du,dv)=( 63 , 34 , 44 ),Normal: 1 Direction: 0 EOM: 0
+ # patches 34
+ # resampled 1054016
+ # raw points 19075
+		 CC 0 -> 839
+		 CC 1 -> 255
+		 CC 2 -> 1977
+		 CC 3 -> 645
+		 CC 4 -> 432
+		 CC 5 -> 22
+		 CC 6 -> 935
+		 CC 7 -> 147
+		 CC 8 -> 333
+		 CC 9 -> 265
+		 CC 10 -> 137
+		 CC 11 -> 5580
+		 CC 12 -> 76
+		 CC 13 -> 70
+		 CC 14 -> 64
+		 CC 15 -> 69
+		 CC 16 -> 55
+		 CC 17 -> 73
+		 CC 18 -> 981
+		 CC 19 -> 409
+		 CC 20 -> 1400
+		 CC 21 -> 88
+		 CC 22 -> 144
+		 CC 23 -> 38
+		 CC 24 -> 1194
+		 CC 25 -> 455
+ # CC 26
+		 Patch 34 ->(d1,u1,v1)=( 320 , 241 , 32 )(dd,du,dv)=( 63 , 22 , 30 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 320 , 379 , 31 )(dd,du,dv)=( 127 , 22 , 8 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 128 , 442 , 184 )(dd,du,dv)=( 63 , 49 , 56 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 512 , 168 , 165 )(dd,du,dv)=( 63 , 31 , 62 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 256 , 438 , 141 )(dd,du,dv)=( 63 , 14 , 25 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 448 , 247 , 139 )(dd,du,dv)=( 63 , 5 , 4 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 256 , 435 , 170 )(dd,du,dv)=( 63 , 32 , 92 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 576 , 237 , 331 )(dd,du,dv)=( 127 , 3 , 41 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 128 , 384 , 475 )(dd,du,dv)=( 63 , 7 , 34 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 128 , 498 , 464 )(dd,du,dv)=( 127 , 5 , 54 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 576 , 215 , 379 )(dd,du,dv)=( 63 , 6 , 21 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 128 , 290 , 614 )(dd,du,dv)=( 127 , 90 , 82 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 320 , 226 , 608 )(dd,du,dv)=( 63 , 7 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 128 , 472 , 664 )(dd,du,dv)=( 63 , 4 , 14 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 512 , 204 , 689 )(dd,du,dv)=( 63 , 6 , 13 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 192 , 483 , 675 )(dd,du,dv)=( 63 , 6 , 12 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 192 , 385 , 809 )(dd,du,dv)=( 63 , 8 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 192 , 419 , 889 )(dd,du,dv)=( 63 , 12 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 576 , 231 , 619 )(dd,du,dv)=( 127 , 80 , 15 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 320 , 369 , 682 )(dd,du,dv)=( 63 , 9 , 53 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 576 , 268 , 664 )(dd,du,dv)=( 127 , 88 , 38 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 320 , 428 , 873 )(dd,du,dv)=( 63 , 9 , 14 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 320 , 421 , 870 )(dd,du,dv)=( 63 , 10 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 320 , 274 , 896 )(dd,du,dv)=( 63 , 6 , 4 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 384 , 431 , 896 )(dd,du,dv)=( 127 , 33 , 22 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 576 , 310 , 632 )(dd,du,dv)=( 63 , 35 , 8 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 60
+ # resampled 1068242
+ # raw points 4628
+		 CC 0 -> 195
+		 CC 1 -> 585
+		 CC 2 -> 112
+		 CC 3 -> 401
+		 CC 4 -> 16
+		 CC 5 -> 75
+ # CC 6
+		 Patch 60 ->(d1,u1,v1)=( 320 , 242 , 34 )(dd,du,dv)=( 63 , 17 , 23 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 128 , 443 , 187 )(dd,du,dv)=( 63 , 41 , 40 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 128 , 299 , 631 )(dd,du,dv)=( 63 , 23 , 16 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 384 , 432 , 896 )(dd,du,dv)=( 127 , 31 , 19 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 384 , 445 , 903 )(dd,du,dv)=( 63 , 6 , 2 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 576 , 314 , 633 )(dd,du,dv)=( 63 , 13 , 2 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 66
+ # resampled 1069486
+ # raw points 3373
+		 CC 0 -> 46
+ # CC 1
+		 Patch 66 ->(d1,u1,v1)=( 320 , 447 , 901 )(dd,du,dv)=( 63 , 7 , 5 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 67
+ # resampled 1069510
+ # raw points 3334
+ # CC 0
+[done]
+
+============= FRAME 9 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 809783
+		 CC 0 -> 5229
+		 CC 1 -> 6276
+		 CC 2 -> 2318
+		 CC 3 -> 395
+		 CC 4 -> 40
+		 CC 5 -> 366
+		 CC 6 -> 28901
+		 CC 7 -> 171349
+		 CC 8 -> 152412
+		 CC 9 -> 8600
+		 CC 10 -> 169855
+		 CC 11 -> 8189
+		 CC 12 -> 4825
+		 CC 13 -> 9262
+		 CC 14 -> 677
+		 CC 15 -> 784
+		 CC 16 -> 479
+		 CC 17 -> 588
+		 CC 18 -> 362
+		 CC 19 -> 4402
+		 CC 20 -> 1201
+		 CC 21 -> 4332
+		 CC 22 -> 713
+		 CC 23 -> 158563
+		 CC 24 -> 4254
+		 CC 25 -> 8320
+		 CC 26 -> 5235
+		 CC 27 -> 397
+		 CC 28 -> 5970
+		 CC 29 -> 19918
+		 CC 30 -> 1539
+		 CC 31 -> 8338
+		 CC 32 -> 4443
+		 CC 33 -> 4732
+		 CC 34 -> 1252
+		 CC 35 -> 43
+		 CC 36 -> 172
+		 CC 37 -> 25
+		 CC 38 -> 38
+		 CC 39 -> 328
+		 CC 40 -> 4551
+ # CC 41
+		 Patch 0 ->(d1,u1,v1)=( 192 , 354 , 14 )(dd,du,dv)=( 63 , 64 , 119 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 320 , 225 , 13 )(dd,du,dv)=( 127 , 45 , 94 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 0 , 368 , 230 )(dd,du,dv)=( 63 , 53 , 45 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 128 , 316 , 232 )(dd,du,dv)=( 127 , 17 , 29 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 320 , 233 , 61 )(dd,du,dv)=( 63 , 15 , 7 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 0 , 316 , 232 )(dd,du,dv)=( 127 , 17 , 29 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 320 , 354 , 13 )(dd,du,dv)=( 191 , 177 , 353 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 256 , 102 , 26 )(dd,du,dv)=( 191 , 238 , 968 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 64 , 273 , 118 )(dd,du,dv)=( 191 , 264 , 712 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 64 , 376 , 140 )(dd,du,dv)=( 127 , 130 , 82 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 576 , 142 , 27 )(dd,du,dv)=( 191 , 272 , 826 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 448 , 218 , 9 )(dd,du,dv)=( 63 , 56 , 165 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 0 , 456 , 204 )(dd,du,dv)=( 63 , 51 , 74 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 192 , 439 , 11 )(dd,du,dv)=( 127 , 68 , 191 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 64 , 456 , 206 )(dd,du,dv)=( 63 , 22 , 32 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 448 , 143 , 204 )(dd,du,dv)=( 63 , 31 , 23 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 256 , 498 , 151 )(dd,du,dv)=( 63 , 25 , 24 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 320 , 439 , 131 )(dd,du,dv)=( 127 , 23 , 23 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 448 , 245 , 234 )(dd,du,dv)=( 63 , 7 , 36 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 448 , 138 , 354 )(dd,du,dv)=( 127 , 33 , 124 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 320 , 478 , 49 )(dd,du,dv)=( 63 , 25 , 43 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 256 , 428 , 121 )(dd,du,dv)=( 63 , 47 , 159 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 64 , 464 , 294 )(dd,du,dv)=( 63 , 48 , 18 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 448 , 333 , 117 )(dd,du,dv)=( 191 , 226 , 879 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 192 , 302 , 594 )(dd,du,dv)=( 127 , 77 , 76 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 384 , 102 , 638 )(dd,du,dv)=( 127 , 72 , 112 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 576 , 316 , 158 )(dd,du,dv)=( 127 , 66 , 71 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 192 , 342 , 602 )(dd,du,dv)=( 63 , 28 , 16 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 896 , 342 , 168 )(dd,du,dv)=( 127 , 69 , 80 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 192 , 378 , 830 )(dd,du,dv)=( 127 , 112 , 172 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 832 , 438 , 241 )(dd,du,dv)=( 63 , 41 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 512 , 230 , 847 )(dd,du,dv)=( 63 , 58 , 124 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 1024 , 394 , 242 )(dd,du,dv)=( 63 , 87 , 52 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 438 , 315 )(dd,du,dv)=( 63 , 89 , 57 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 576 , 510 , 278 )(dd,du,dv)=( 63 , 32 , 44 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 640 , 448 , 316 )(dd,du,dv)=( 63 , 5 , 15 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 384 , 421 , 595 )(dd,du,dv)=( 63 , 13 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 576 , 426 , 328 )(dd,du,dv)=( 63 , 11 , 4 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 384 , 436 , 599 )(dd,du,dv)=( 63 , 14 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 640 , 438 , 330 )(dd,du,dv)=( 63 , 24 , 16 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 704 , 502 , 266 )(dd,du,dv)=( 63 , 56 , 92 ),Normal: 1 Direction: 1 EOM: 0
+ # patches 41
+ # resampled 1058504
+ # raw points 22028
+		 CC 0 -> 1528
+		 CC 1 -> 676
+		 CC 2 -> 90
+		 CC 3 -> 438
+		 CC 4 -> 457
+		 CC 5 -> 1631
+		 CC 6 -> 787
+		 CC 7 -> 431
+		 CC 8 -> 499
+		 CC 9 -> 35
+		 CC 10 -> 190
+		 CC 11 -> 435
+		 CC 12 -> 317
+		 CC 13 -> 40
+		 CC 14 -> 341
+		 CC 15 -> 50
+		 CC 16 -> 797
+		 CC 17 -> 4773
+		 CC 18 -> 79
+		 CC 19 -> 102
+		 CC 20 -> 57
+		 CC 21 -> 47
+		 CC 22 -> 495
+		 CC 23 -> 62
+		 CC 24 -> 1280
+		 CC 25 -> 110
+		 CC 26 -> 1260
+		 CC 27 -> 95
+		 CC 28 -> 1592
+		 CC 29 -> 96
+		 CC 30 -> 55
+		 CC 31 -> 89
+		 CC 32 -> 81
+		 CC 33 -> 524
+ # CC 34
+		 Patch 41 ->(d1,u1,v1)=( 320 , 234 , 31 )(dd,du,dv)=( 127 , 24 , 30 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 128 , 445 , 124 )(dd,du,dv)=( 63 , 20 , 29 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 448 , 240 , 45 )(dd,du,dv)=( 63 , 14 , 6 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 0 , 467 , 237 )(dd,du,dv)=( 63 , 37 , 9 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 0 , 465 , 252 )(dd,du,dv)=( 63 , 21 , 12 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 128 , 457 , 173 )(dd,du,dv)=( 63 , 38 , 57 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 576 , 175 , 154 )(dd,du,dv)=( 127 , 35 , 74 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 256 , 434 , 168 )(dd,du,dv)=( 63 , 12 , 44 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 256 , 445 , 210 )(dd,du,dv)=( 63 , 14 , 28 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 512 , 245 , 332 )(dd,du,dv)=( 63 , 7 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 576 , 239 , 354 )(dd,du,dv)=( 127 , 4 , 25 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 128 , 385 , 473 )(dd,du,dv)=( 63 , 8 , 44 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 192 , 504 , 457 )(dd,du,dv)=( 63 , 5 , 64 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 576 , 215 , 276 )(dd,du,dv)=( 63 , 3 , 14 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 576 , 217 , 291 )(dd,du,dv)=( 63 , 11 , 35 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 576 , 221 , 327 )(dd,du,dv)=( 63 , 4 , 10 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 576 , 233 , 373 )(dd,du,dv)=( 63 , 9 , 66 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 128 , 298 , 618 )(dd,du,dv)=( 63 , 90 , 80 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 192 , 369 , 605 )(dd,du,dv)=( 63 , 6 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 192 , 328 , 616 )(dd,du,dv)=( 63 , 16 , 17 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 320 , 140 , 662 )(dd,du,dv)=( 63 , 10 , 8 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 256 , 136 , 666 )(dd,du,dv)=( 63 , 8 , 5 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 512 , 204 , 660 )(dd,du,dv)=( 63 , 23 , 37 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 192 , 417 , 891 )(dd,du,dv)=( 63 , 12 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 576 , 247 , 603 )(dd,du,dv)=( 127 , 79 , 29 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 320 , 359 , 709 )(dd,du,dv)=( 63 , 6 , 16 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 576 , 283 , 663 )(dd,du,dv)=( 127 , 81 , 36 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 423 , 870 )(dd,du,dv)=( 63 , 9 , 13 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 384 , 413 , 885 )(dd,du,dv)=( 127 , 46 , 35 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 320 , 421 , 873 )(dd,du,dv)=( 63 , 10 , 7 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 320 , 272 , 898 )(dd,du,dv)=( 63 , 9 , 5 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 320 , 460 , 924 )(dd,du,dv)=( 63 , 7 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 384 , 427 , 900 )(dd,du,dv)=( 63 , 7 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 576 , 319 , 632 )(dd,du,dv)=( 63 , 45 , 10 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 75
+ # resampled 1073988
+ # raw points 5376
+		 CC 0 -> 683
+		 CC 1 -> 199
+		 CC 2 -> 280
+		 CC 3 -> 157
+		 CC 4 -> 42
+		 CC 5 -> 247
+		 CC 6 -> 70
+		 CC 7 -> 123
+ # CC 8
+		 Patch 75 ->(d1,u1,v1)=( 320 , 235 , 34 )(dd,du,dv)=( 127 , 22 , 20 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 76 ->(d1,u1,v1)=( 128 , 449 , 126 )(dd,du,dv)=( 63 , 16 , 25 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 77 ->(d1,u1,v1)=( 128 , 458 , 178 )(dd,du,dv)=( 63 , 28 , 29 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 78 ->(d1,u1,v1)=( 512 , 180 , 163 )(dd,du,dv)=( 63 , 16 , 29 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 79 ->(d1,u1,v1)=( 576 , 241 , 367 )(dd,du,dv)=( 127 , 1 , 10 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 80 ->(d1,u1,v1)=( 576 , 235 , 376 )(dd,du,dv)=( 63 , 6 , 49 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 81 ->(d1,u1,v1)=( 512 , 310 , 607 )(dd,du,dv)=( 63 , 11 , 3 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 82 ->(d1,u1,v1)=( 384 , 441 , 899 )(dd,du,dv)=( 127 , 8 , 8 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 83
+ # resampled 1075212
+ # raw points 3846
+		 CC 0 -> 56
+ # CC 1
+		 Patch 83 ->(d1,u1,v1)=( 320 , 442 , 902 )(dd,du,dv)=( 63 , 6 , 4 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 84
+ # resampled 1075236
+ # raw points 3805
+ # CC 0
+[done]
+
+============= FRAME 10 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 821060
+		 CC 0 -> 5838
+		 CC 1 -> 6678
+		 CC 2 -> 2330
+		 CC 3 -> 309
+		 CC 4 -> 509
+		 CC 5 -> 8813
+		 CC 6 -> 14678
+		 CC 7 -> 171823
+		 CC 8 -> 9245
+		 CC 9 -> 146272
+		 CC 10 -> 170479
+		 CC 11 -> 1439
+		 CC 12 -> 1115
+		 CC 13 -> 688
+		 CC 14 -> 7526
+		 CC 15 -> 4272
+		 CC 16 -> 1153
+		 CC 17 -> 16650
+		 CC 18 -> 29
+		 CC 19 -> 5897
+		 CC 20 -> 3531
+		 CC 21 -> 1078
+		 CC 22 -> 296
+		 CC 23 -> 390
+		 CC 24 -> 1272
+		 CC 25 -> 161626
+		 CC 26 -> 5195
+		 CC 27 -> 4387
+		 CC 28 -> 885
+		 CC 29 -> 16
+		 CC 30 -> 500
+		 CC 31 -> 3877
+		 CC 32 -> 8423
+		 CC 33 -> 5674
+		 CC 34 -> 1624
+		 CC 35 -> 4654
+		 CC 36 -> 19871
+		 CC 37 -> 1438
+		 CC 38 -> 8161
+		 CC 39 -> 4816
+		 CC 40 -> 3103
+		 CC 41 -> 4395
+ # CC 42
+		 Patch 0 ->(d1,u1,v1)=( 192 , 354 , 13 )(dd,du,dv)=( 63 , 64 , 123 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 320 , 222 , 12 )(dd,du,dv)=( 63 , 48 , 96 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 0 , 369 , 228 )(dd,du,dv)=( 63 , 50 , 48 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 0 , 317 , 223 )(dd,du,dv)=( 127 , 21 , 24 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 128 , 316 , 223 )(dd,du,dv)=( 127 , 22 , 27 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 512 , 216 , 9 )(dd,du,dv)=( 191 , 58 , 201 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 320 , 354 , 12 )(dd,du,dv)=( 127 , 94 , 282 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 256 , 90 , 37 )(dd,du,dv)=( 191 , 248 , 959 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 64 , 387 , 139 )(dd,du,dv)=( 127 , 140 , 82 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 64 , 280 , 114 )(dd,du,dv)=( 191 , 259 , 716 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 576 , 148 , 25 )(dd,du,dv)=( 191 , 276 , 829 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 64 , 456 , 204 )(dd,du,dv)=( 63 , 43 , 30 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 0 , 455 , 204 )(dd,du,dv)=( 63 , 41 , 26 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 192 , 458 , 10 )(dd,du,dv)=( 63 , 41 , 17 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 192 , 458 , 12 )(dd,du,dv)=( 127 , 49 , 162 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 458 , 13 )(dd,du,dv)=( 127 , 48 , 97 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 448 , 150 , 179 )(dd,du,dv)=( 63 , 28 , 39 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 256 , 438 , 130 )(dd,du,dv)=( 63 , 106 , 256 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 256 , 445 , 202 )(dd,du,dv)=( 63 , 6 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 448 , 137 , 322 )(dd,du,dv)=( 127 , 37 , 152 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 512 , 170 , 434 )(dd,du,dv)=( 63 , 47 , 60 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 448 , 193 , 442 )(dd,du,dv)=( 127 , 24 , 52 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 512 , 209 , 464 )(dd,du,dv)=( 63 , 7 , 30 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 192 , 488 , 490 )(dd,du,dv)=( 63 , 5 , 39 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 64 , 444 , 290 )(dd,du,dv)=( 127 , 62 , 21 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 448 , 330 , 118 )(dd,du,dv)=( 191 , 212 , 880 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 256 , 401 , 128 )(dd,du,dv)=( 63 , 62 , 178 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 128 , 512 , 142 )(dd,du,dv)=( 127 , 32 , 177 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 576 , 192 , 141 )(dd,du,dv)=( 63 , 27 , 53 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 576 , 210 , 320 )(dd,du,dv)=( 63 , 3 , 3 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 576 , 215 , 359 )(dd,du,dv)=( 63 , 8 , 51 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 192 , 311 , 609 )(dd,du,dv)=( 127 , 71 , 69 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 384 , 94 , 654 )(dd,du,dv)=( 127 , 73 , 104 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 576 , 314 , 146 )(dd,du,dv)=( 127 , 74 , 73 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 192 , 326 , 590 )(dd,du,dv)=( 63 , 55 , 32 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 896 , 345 , 158 )(dd,du,dv)=( 127 , 57 , 84 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 192 , 377 , 836 )(dd,du,dv)=( 63 , 109 , 168 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 832 , 434 , 240 )(dd,du,dv)=( 63 , 41 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 512 , 230 , 850 )(dd,du,dv)=( 63 , 57 , 122 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 1024 , 389 , 242 )(dd,du,dv)=( 63 , 89 , 52 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 576 , 454 , 317 )(dd,du,dv)=( 63 , 61 , 65 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 704 , 495 , 274 )(dd,du,dv)=( 63 , 51 , 92 ),Normal: 1 Direction: 1 EOM: 0
+ # patches 42
+ # resampled 1076918
+ # raw points 23777
+		 CC 0 -> 1591
+		 CC 1 -> 26
+		 CC 2 -> 861
+		 CC 3 -> 1229
+		 CC 4 -> 56
+		 CC 5 -> 792
+		 CC 6 -> 174
+		 CC 7 -> 493
+		 CC 8 -> 175
+		 CC 9 -> 1072
+		 CC 10 -> 144
+		 CC 11 -> 179
+		 CC 12 -> 659
+		 CC 13 -> 5325
+		 CC 14 -> 46
+		 CC 15 -> 92
+		 CC 16 -> 339
+		 CC 17 -> 63
+		 CC 18 -> 48
+		 CC 19 -> 318
+		 CC 20 -> 2153
+		 CC 21 -> 609
+		 CC 22 -> 44
+		 CC 23 -> 47
+		 CC 24 -> 455
+		 CC 25 -> 427
+		 CC 26 -> 81
+		 CC 27 -> 1543
+		 CC 28 -> 91
+		 CC 29 -> 1553
+		 CC 30 -> 330
+		 CC 31 -> 150
+		 CC 32 -> 77
+ # CC 33
+		 Patch 42 ->(d1,u1,v1)=( 320 , 226 , 30 )(dd,du,dv)=( 127 , 28 , 30 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 192 , 382 , 44 )(dd,du,dv)=( 63 , 6 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 128 , 476 , 159 )(dd,du,dv)=( 63 , 18 , 35 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 448 , 231 , 137 )(dd,du,dv)=( 63 , 26 , 74 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 576 , 211 , 213 )(dd,du,dv)=( 127 , 5 , 8 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 512 , 242 , 329 )(dd,du,dv)=( 63 , 18 , 55 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 128 , 385 , 471 )(dd,du,dv)=( 63 , 5 , 27 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 192 , 508 , 402 )(dd,du,dv)=( 63 , 9 , 36 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 192 , 495 , 417 )(dd,du,dv)=( 63 , 9 , 21 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 576 , 239 , 384 )(dd,du,dv)=( 63 , 7 , 63 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 512 , 209 , 443 )(dd,du,dv)=( 63 , 6 , 17 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 320 , 492 , 55 )(dd,du,dv)=( 63 , 10 , 11 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 384 , 491 , 242 )(dd,du,dv)=( 127 , 15 , 76 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 128 , 313 , 621 )(dd,du,dv)=( 63 , 83 , 85 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 192 , 490 , 555 )(dd,du,dv)=( 63 , 3 , 9 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 128 , 351 , 738 )(dd,du,dv)=( 63 , 9 , 12 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 512 , 216 , 666 )(dd,du,dv)=( 63 , 18 , 28 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 192 , 395 , 913 )(dd,du,dv)=( 63 , 7 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 192 , 415 , 894 )(dd,du,dv)=( 63 , 9 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 384 , 433 , 607 )(dd,du,dv)=( 127 , 20 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 576 , 251 , 608 )(dd,du,dv)=( 127 , 92 , 27 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 384 , 409 , 594 )(dd,du,dv)=( 63 , 31 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 384 , 409 , 603 )(dd,du,dv)=( 63 , 9 , 5 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 384 , 459 , 607 )(dd,du,dv)=( 63 , 10 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 576 , 345 , 633 )(dd,du,dv)=( 127 , 25 , 9 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 320 , 356 , 674 )(dd,du,dv)=( 63 , 9 , 48 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 272 , 743 )(dd,du,dv)=( 63 , 10 , 13 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 576 , 279 , 664 )(dd,du,dv)=( 127 , 84 , 33 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 320 , 416 , 854 )(dd,du,dv)=( 63 , 10 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 384 , 410 , 886 )(dd,du,dv)=( 127 , 45 , 34 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 320 , 419 , 869 )(dd,du,dv)=( 63 , 11 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 320 , 454 , 921 )(dd,du,dv)=( 63 , 12 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 384 , 417 , 896 )(dd,du,dv)=( 63 , 7 , 12 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 75
+ # resampled 1094694
+ # raw points 5719
+		 CC 0 -> 567
+		 CC 1 -> 199
+		 CC 2 -> 43
+		 CC 3 -> 242
+		 CC 4 -> 123
+		 CC 5 -> 536
+		 CC 6 -> 94
+		 CC 7 -> 131
+		 CC 8 -> 149
+		 CC 9 -> 92
+ # CC 10
+		 Patch 75 ->(d1,u1,v1)=( 320 , 228 , 33 )(dd,du,dv)=( 127 , 24 , 18 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 76 ->(d1,u1,v1)=( 128 , 478 , 161 )(dd,du,dv)=( 63 , 13 , 21 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 77 ->(d1,u1,v1)=( 128 , 484 , 180 )(dd,du,dv)=( 63 , 6 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 78 ->(d1,u1,v1)=( 576 , 241 , 385 )(dd,du,dv)=( 127 , 5 , 54 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 79 ->(d1,u1,v1)=( 512 , 289 , 616 )(dd,du,dv)=( 63 , 14 , 10 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 80 ->(d1,u1,v1)=( 576 , 268 , 621 )(dd,du,dv)=( 127 , 65 , 13 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 81 ->(d1,u1,v1)=( 384 , 420 , 597 )(dd,du,dv)=( 63 , 14 , 6 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 82 ->(d1,u1,v1)=( 320 , 421 , 870 )(dd,du,dv)=( 63 , 8 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 83 ->(d1,u1,v1)=( 320 , 431 , 898 )(dd,du,dv)=( 63 , 19 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 84 ->(d1,u1,v1)=( 576 , 348 , 637 )(dd,du,dv)=( 127 , 12 , 3 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 85
+ # resampled 1096034
+ # raw points 3985
+		 CC 0 -> 124
+ # CC 1
+		 Patch 85 ->(d1,u1,v1)=( 320 , 231 , 38 )(dd,du,dv)=( 127 , 15 , 12 ),Normal: 2 Direction: 0 EOM: 0
+ # patches 86
+ # resampled 1096114
+ # raw points 3863
+ # CC 0
+[done]
+
+============= FRAME 11 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 825080
+		 CC 0 -> 9260
+		 CC 1 -> 575
+		 CC 2 -> 603
+		 CC 3 -> 2343
+		 CC 4 -> 19273
+		 CC 5 -> 16
+		 CC 6 -> 1030
+		 CC 7 -> 162176
+		 CC 8 -> 10964
+		 CC 9 -> 132690
+		 CC 10 -> 4109
+		 CC 11 -> 800
+		 CC 12 -> 1043
+		 CC 13 -> 2082
+		 CC 14 -> 6828
+		 CC 15 -> 15712
+		 CC 16 -> 179150
+		 CC 17 -> 740
+		 CC 18 -> 18911
+		 CC 19 -> 5696
+		 CC 20 -> 3504
+		 CC 21 -> 7704
+		 CC 22 -> 2970
+		 CC 23 -> 734
+		 CC 24 -> 157958
+		 CC 25 -> 4699
+		 CC 26 -> 121
+		 CC 27 -> 3199
+		 CC 28 -> 3318
+		 CC 29 -> 9661
+		 CC 30 -> 4966
+		 CC 31 -> 3154
+		 CC 32 -> 4227
+		 CC 33 -> 19796
+		 CC 34 -> 1505
+		 CC 35 -> 7916
+		 CC 36 -> 4194
+		 CC 37 -> 7128
+		 CC 38 -> 4190
+ # CC 39
+		 Patch 0 ->(d1,u1,v1)=( 192 , 338 , 12 )(dd,du,dv)=( 63 , 72 , 124 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 128 , 317 , 215 )(dd,du,dv)=( 127 , 25 , 28 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 0 , 317 , 215 )(dd,du,dv)=( 127 , 21 , 28 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 0 , 360 , 233 )(dd,du,dv)=( 63 , 58 , 43 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 320 , 334 , 12 )(dd,du,dv)=( 127 , 112 , 290 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 192 , 330 , 59 )(dd,du,dv)=( 63 , 7 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 320 , 221 , 62 )(dd,du,dv)=( 63 , 23 , 40 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 256 , 75 , 122 )(dd,du,dv)=( 191 , 270 , 877 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 64 , 393 , 145 )(dd,du,dv)=( 127 , 149 , 102 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 64 , 294 , 119 )(dd,du,dv)=( 191 , 245 , 711 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 448 , 216 , 10 )(dd,du,dv)=( 63 , 58 , 121 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 64 , 456 , 202 )(dd,du,dv)=( 63 , 39 , 26 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 0 , 456 , 202 )(dd,du,dv)=( 63 , 39 , 23 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 0 , 458 , 236 )(dd,du,dv)=( 63 , 46 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 192 , 458 , 10 )(dd,du,dv)=( 63 , 47 , 148 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 384 , 236 , 18 )(dd,du,dv)=( 127 , 76 , 246 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 576 , 154 , 18 )(dd,du,dv)=( 191 , 277 , 839 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 448 , 159 , 169 )(dd,du,dv)=( 127 , 26 , 33 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 256 , 470 , 130 )(dd,du,dv)=( 63 , 79 , 300 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 448 , 138 , 318 )(dd,du,dv)=( 127 , 44 , 144 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 192 , 387 , 218 )(dd,du,dv)=( 127 , 51 , 88 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 192 , 474 , 450 )(dd,du,dv)=( 63 , 52 , 132 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 320 , 466 , 38 )(dd,du,dv)=( 63 , 38 , 77 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 64 , 454 , 289 )(dd,du,dv)=( 63 , 46 , 22 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 448 , 328 , 117 )(dd,du,dv)=( 191 , 203 , 885 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 192 , 524 , 137 )(dd,du,dv)=( 63 , 25 , 169 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 576 , 214 , 275 )(dd,du,dv)=( 63 , 10 , 26 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 512 , 198 , 366 )(dd,du,dv)=( 63 , 32 , 114 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 192 , 317 , 616 )(dd,du,dv)=( 127 , 73 , 64 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 384 , 79 , 650 )(dd,du,dv)=( 127 , 81 , 116 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 576 , 317 , 140 )(dd,du,dv)=( 127 , 73 , 62 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 128 , 322 , 574 )(dd,du,dv)=( 127 , 60 , 50 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 896 , 350 , 152 )(dd,du,dv)=( 127 , 50 , 88 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 192 , 377 , 838 )(dd,du,dv)=( 63 , 105 , 168 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 832 , 433 , 237 )(dd,du,dv)=( 63 , 40 , 40 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 512 , 227 , 853 )(dd,du,dv)=( 63 , 57 , 123 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 1024 , 386 , 240 )(dd,du,dv)=( 63 , 87 , 48 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 576 , 454 , 278 )(dd,du,dv)=( 63 , 73 , 116 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 704 , 489 , 281 )(dd,du,dv)=( 63 , 46 , 90 ),Normal: 1 Direction: 1 EOM: 0
+ # patches 39
+ # resampled 1087302
+ # raw points 25542
+		 CC 0 -> 189
+		 CC 1 -> 67
+		 CC 2 -> 216
+		 CC 3 -> 38
+		 CC 4 -> 274
+		 CC 5 -> 8393
+		 CC 6 -> 113
+		 CC 7 -> 67
+		 CC 8 -> 396
+		 CC 9 -> 967
+		 CC 10 -> 395
+		 CC 11 -> 82
+		 CC 12 -> 127
+		 CC 13 -> 32
+		 CC 14 -> 223
+		 CC 15 -> 5607
+		 CC 16 -> 120
+		 CC 17 -> 50
+		 CC 18 -> 227
+		 CC 19 -> 57
+		 CC 20 -> 39
+		 CC 21 -> 226
+		 CC 22 -> 58
+		 CC 23 -> 590
+		 CC 24 -> 239
+		 CC 25 -> 88
+		 CC 26 -> 261
+		 CC 27 -> 353
+		 CC 28 -> 132
+		 CC 29 -> 123
+		 CC 30 -> 370
+		 CC 31 -> 316
+		 CC 32 -> 2782
+ # CC 33
+		 Patch 39 ->(d1,u1,v1)=( 192 , 369 , 35 )(dd,du,dv)=( 63 , 21 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 128 , 503 , 162 )(dd,du,dv)=( 63 , 7 , 8 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 192 , 464 , 131 )(dd,du,dv)=( 63 , 15 , 18 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 512 , 227 , 178 )(dd,du,dv)=( 63 , 6 , 8 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 512 , 249 , 306 )(dd,du,dv)=( 63 , 17 , 16 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 576 , 186 , 311 )(dd,du,dv)=( 127 , 44 , 191 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 192 , 501 , 361 )(dd,du,dv)=( 63 , 5 , 13 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 512 , 253 , 370 )(dd,du,dv)=( 63 , 8 , 12 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 576 , 244 , 394 )(dd,du,dv)=( 127 , 8 , 61 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 192 , 491 , 502 )(dd,du,dv)=( 63 , 8 , 68 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 320 , 488 , 51 )(dd,du,dv)=( 63 , 16 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 192 , 513 , 261 )(dd,du,dv)=( 63 , 4 , 9 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 576 , 240 , 301 )(dd,du,dv)=( 63 , 3 , 17 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 256 , 113 , 668 )(dd,du,dv)=( 63 , 9 , 5 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 384 , 114 , 664 )(dd,du,dv)=( 127 , 13 , 18 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 64 , 314 , 625 )(dd,du,dv)=( 127 , 92 , 82 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 320 , 187 , 618 )(dd,du,dv)=( 127 , 10 , 10 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 128 , 351 , 728 )(dd,du,dv)=( 63 , 7 , 9 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 512 , 224 , 670 )(dd,du,dv)=( 63 , 16 , 21 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 192 , 392 , 914 )(dd,du,dv)=( 63 , 11 , 5 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 576 , 269 , 620 )(dd,du,dv)=( 127 , 9 , 3 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 320 , 473 , 613 )(dd,du,dv)=( 63 , 10 , 14 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 320 , 485 , 613 )(dd,du,dv)=( 63 , 3 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 384 , 390 , 594 )(dd,du,dv)=( 63 , 35 , 20 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 384 , 427 , 607 )(dd,du,dv)=( 63 , 16 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 576 , 499 , 319 )(dd,du,dv)=( 63 , 4 , 19 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 512 , 357 , 635 )(dd,du,dv)=( 63 , 15 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 320 , 350 , 675 )(dd,du,dv)=( 63 , 8 , 28 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 320 , 358 , 705 )(dd,du,dv)=( 63 , 3 , 21 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 273 , 729 )(dd,du,dv)=( 63 , 9 , 17 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 512 , 282 , 665 )(dd,du,dv)=( 63 , 57 , 9 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 576 , 346 , 678 )(dd,du,dv)=( 127 , 29 , 16 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 320 , 408 , 853 )(dd,du,dv)=( 63 , 53 , 81 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 72
+ # resampled 1109576
+ # raw points 4579
+		 CC 0 -> 343
+		 CC 1 -> 652
+		 CC 2 -> 188
+		 CC 3 -> 115
+ # CC 4
+		 Patch 72 ->(d1,u1,v1)=( 512 , 213 , 381 )(dd,du,dv)=( 63 , 11 , 32 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 512 , 215 , 415 )(dd,du,dv)=( 63 , 10 , 42 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 384 , 401 , 596 )(dd,du,dv)=( 63 , 22 , 8 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 75 ->(d1,u1,v1)=( 320 , 417 , 868 )(dd,du,dv)=( 63 , 16 , 11 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 76
+ # resampled 1110610
+ # raw points 3364
+ # CC 0
+[done]
+
+============= FRAME 12 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 831113
+		 CC 0 -> 7611
+		 CC 1 -> 672
+		 CC 2 -> 475
+		 CC 3 -> 5016
+		 CC 4 -> 2016
+		 CC 5 -> 15570
+		 CC 6 -> 155216
+		 CC 7 -> 9918
+		 CC 8 -> 148304
+		 CC 9 -> 4355
+		 CC 10 -> 1036
+		 CC 11 -> 1523
+		 CC 12 -> 7114
+		 CC 13 -> 14658
+		 CC 14 -> 171938
+		 CC 15 -> 22778
+		 CC 16 -> 2792
+		 CC 17 -> 5923
+		 CC 18 -> 4348
+		 CC 19 -> 852
+		 CC 20 -> 159197
+		 CC 21 -> 4755
+		 CC 22 -> 5440
+		 CC 23 -> 33
+		 CC 24 -> 50
+		 CC 25 -> 3890
+		 CC 26 -> 11302
+		 CC 27 -> 5544
+		 CC 28 -> 4612
+		 CC 29 -> 4108
+		 CC 30 -> 19331
+		 CC 31 -> 1554
+		 CC 32 -> 7748
+		 CC 33 -> 4315
+		 CC 34 -> 12410
+		 CC 35 -> 4563
+ # CC 36
+		 Patch 0 ->(d1,u1,v1)=( 192 , 350 , 12 )(dd,du,dv)=( 63 , 60 , 130 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 0 , 318 , 208 )(dd,du,dv)=( 127 , 24 , 30 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 128 , 318 , 208 )(dd,du,dv)=( 127 , 19 , 30 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 320 , 214 , 10 )(dd,du,dv)=( 63 , 56 , 96 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 0 , 368 , 230 )(dd,du,dv)=( 63 , 47 , 45 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 320 , 350 , 11 )(dd,du,dv)=( 127 , 94 , 276 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 256 , 66 , 126 )(dd,du,dv)=( 191 , 271 , 876 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 64 , 391 , 159 )(dd,du,dv)=( 127 , 151 , 86 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 0 , 302 , 122 )(dd,du,dv)=( 191 , 241 , 712 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 448 , 213 , 10 )(dd,du,dv)=( 63 , 61 , 125 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 192 , 457 , 10 )(dd,du,dv)=( 63 , 32 , 12 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 0 , 456 , 227 )(dd,du,dv)=( 63 , 45 , 35 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 192 , 455 , 9 )(dd,du,dv)=( 63 , 47 , 149 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 384 , 230 , 15 )(dd,du,dv)=( 127 , 80 , 220 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 576 , 151 , 14 )(dd,du,dv)=( 191 , 285 , 844 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 472 , 130 )(dd,du,dv)=( 127 , 90 , 312 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 192 , 386 , 229 )(dd,du,dv)=( 127 , 45 , 63 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 448 , 140 , 299 )(dd,du,dv)=( 127 , 50 , 131 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 320 , 459 , 17 )(dd,du,dv)=( 63 , 40 , 101 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 64 , 454 , 284 )(dd,du,dv)=( 63 , 44 , 27 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 448 , 326 , 117 )(dd,du,dv)=( 191 , 198 , 888 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 192 , 527 , 134 )(dd,du,dv)=( 127 , 35 , 152 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 512 , 194 , 306 )(dd,du,dv)=( 63 , 40 , 176 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 576 , 226 , 259 )(dd,du,dv)=( 63 , 9 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 576 , 227 , 282 )(dd,du,dv)=( 63 , 4 , 16 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 192 , 326 , 623 )(dd,du,dv)=( 127 , 72 , 63 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 448 , 72 , 643 )(dd,du,dv)=( 127 , 84 , 131 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 576 , 314 , 133 )(dd,du,dv)=( 127 , 80 , 71 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 128 , 314 , 546 )(dd,du,dv)=( 127 , 70 , 77 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 896 , 352 , 149 )(dd,du,dv)=( 127 , 50 , 88 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 192 , 373 , 842 )(dd,du,dv)=( 63 , 105 , 167 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 832 , 428 , 234 )(dd,du,dv)=( 63 , 42 , 40 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 512 , 226 , 857 )(dd,du,dv)=( 63 , 56 , 121 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 1024 , 382 , 238 )(dd,du,dv)=( 63 , 89 , 45 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 576 , 442 , 283 )(dd,du,dv)=( 127 , 78 , 148 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 704 , 479 , 285 )(dd,du,dv)=( 63 , 47 , 93 ),Normal: 1 Direction: 1 EOM: 0
+ # patches 36
+ # resampled 1092160
+ # raw points 31216
+		 CC 0 -> 623
+		 CC 1 -> 329
+		 CC 2 -> 184
+		 CC 3 -> 301
+		 CC 4 -> 908
+		 CC 5 -> 193
+		 CC 6 -> 261
+		 CC 7 -> 789
+		 CC 8 -> 1275
+		 CC 9 -> 370
+		 CC 10 -> 8879
+		 CC 11 -> 118
+		 CC 12 -> 561
+		 CC 13 -> 154
+		 CC 14 -> 413
+		 CC 15 -> 61
+		 CC 16 -> 5911
+		 CC 17 -> 60
+		 CC 18 -> 305
+		 CC 19 -> 159
+		 CC 20 -> 54
+		 CC 21 -> 76
+		 CC 22 -> 108
+		 CC 23 -> 96
+		 CC 24 -> 402
+		 CC 25 -> 210
+		 CC 26 -> 611
+		 CC 27 -> 116
+		 CC 28 -> 112
+		 CC 29 -> 103
+		 CC 30 -> 1495
+		 CC 31 -> 125
+		 CC 32 -> 127
+		 CC 33 -> 409
+		 CC 34 -> 3036
+ # CC 35
+		 Patch 36 ->(d1,u1,v1)=( 320 , 223 , 36 )(dd,du,dv)=( 63 , 24 , 29 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 192 , 459 , 11 )(dd,du,dv)=( 63 , 27 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 128 , 406 , 139 )(dd,du,dv)=( 63 , 33 , 15 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 192 , 459 , 126 )(dd,du,dv)=( 63 , 21 , 17 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 512 , 224 , 156 )(dd,du,dv)=( 63 , 23 , 53 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 128 , 402 , 250 )(dd,du,dv)=( 127 , 15 , 41 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 384 , 227 , 286 )(dd,du,dv)=( 63 , 15 , 12 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 192 , 494 , 296 )(dd,du,dv)=( 63 , 9 , 42 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 512 , 245 , 263 )(dd,du,dv)=( 63 , 18 , 103 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 192 , 510 , 288 )(dd,du,dv)=( 63 , 11 , 26 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 512 , 199 , 330 )(dd,du,dv)=( 63 , 36 , 218 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 512 , 250 , 387 )(dd,du,dv)=( 63 , 7 , 25 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 320 , 480 , 48 )(dd,du,dv)=( 63 , 17 , 17 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 320 , 406 , 222 )(dd,du,dv)=( 63 , 18 , 16 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 192 , 514 , 233 )(dd,du,dv)=( 63 , 6 , 30 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 576 , 241 , 296 )(dd,du,dv)=( 63 , 4 , 10 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 64 , 326 , 626 )(dd,du,dv)=( 127 , 88 , 88 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 256 , 102 , 669 )(dd,du,dv)=( 127 , 12 , 6 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 384 , 104 , 668 )(dd,du,dv)=( 127 , 16 , 22 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 128 , 335 , 646 )(dd,du,dv)=( 63 , 17 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 384 , 116 , 662 )(dd,du,dv)=( 63 , 5 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 128 , 354 , 641 )(dd,du,dv)=( 63 , 10 , 8 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 320 , 210 , 546 )(dd,du,dv)=( 63 , 5 , 19 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 384 , 178 , 622 )(dd,du,dv)=( 63 , 13 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 192 , 492 , 534 )(dd,du,dv)=( 63 , 6 , 43 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 512 , 230 , 671 )(dd,du,dv)=( 63 , 16 , 20 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 384 , 373 , 597 )(dd,du,dv)=( 127 , 38 , 24 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 576 , 262 , 621 )(dd,du,dv)=( 127 , 23 , 3 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 320 , 464 , 613 )(dd,du,dv)=( 63 , 6 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 384 , 417 , 610 )(dd,du,dv)=( 63 , 11 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 576 , 484 , 325 )(dd,du,dv)=( 127 , 14 , 99 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 320 , 353 , 687 )(dd,du,dv)=( 63 , 4 , 23 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 342 , 713 )(dd,du,dv)=( 63 , 10 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 512 , 343 , 674 )(dd,du,dv)=( 63 , 29 , 28 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 320 , 406 , 854 )(dd,du,dv)=( 63 , 50 , 79 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 71
+ # resampled 1122178
+ # raw points 4751
+		 CC 0 -> 93
+		 CC 1 -> 132
+		 CC 2 -> 452
+		 CC 3 -> 109
+		 CC 4 -> 117
+		 CC 5 -> 295
+		 CC 6 -> 351
+		 CC 7 -> 95
+ # CC 8
+		 Patch 71 ->(d1,u1,v1)=( 320 , 230 , 39 )(dd,du,dv)=( 63 , 16 , 14 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 192 , 495 , 297 )(dd,du,dv)=( 63 , 7 , 33 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 512 , 224 , 343 )(dd,du,dv)=( 63 , 10 , 29 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 320 , 483 , 50 )(dd,du,dv)=( 63 , 11 , 14 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 75 ->(d1,u1,v1)=( 192 , 515 , 244 )(dd,du,dv)=( 63 , 5 , 18 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 76 ->(d1,u1,v1)=( 128 , 380 , 640 )(dd,du,dv)=( 63 , 26 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 77 ->(d1,u1,v1)=( 576 , 485 , 359 )(dd,du,dv)=( 127 , 12 , 54 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 78 ->(d1,u1,v1)=( 320 , 422 , 870 )(dd,du,dv)=( 63 , 13 , 8 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 79
+ # resampled 1123824
+ # raw points 3245
+		 CC 0 -> 58
+ # CC 1
+		 Patch 79 ->(d1,u1,v1)=( 512 , 227 , 352 )(dd,du,dv)=( 63 , 6 , 17 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 80
+ # resampled 1123930
+ # raw points 3187
+ # CC 0
+[done]
+
+============= FRAME 13 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 825753
+		 CC 0 -> 7989
+		 CC 1 -> 796
+		 CC 2 -> 4362
+		 CC 3 -> 1959
+		 CC 4 -> 13179
+		 CC 5 -> 163710
+		 CC 6 -> 4526
+		 CC 7 -> 533
+		 CC 8 -> 241
+		 CC 9 -> 4955
+		 CC 10 -> 1416
+		 CC 11 -> 14220
+		 CC 12 -> 172192
+		 CC 13 -> 10951
+		 CC 14 -> 145327
+		 CC 15 -> 21819
+		 CC 16 -> 1380
+		 CC 17 -> 17
+		 CC 18 -> 573
+		 CC 19 -> 5311
+		 CC 20 -> 5001
+		 CC 21 -> 729
+		 CC 22 -> 114110
+		 CC 23 -> 8385
+		 CC 24 -> 3211
+		 CC 25 -> 73
+		 CC 26 -> 2781
+		 CC 27 -> 3255
+		 CC 28 -> 13973
+		 CC 29 -> 5853
+		 CC 30 -> 5590
+		 CC 31 -> 3813
+		 CC 32 -> 18888
+		 CC 33 -> 1720
+		 CC 34 -> 8154
+		 CC 35 -> 4529
+		 CC 36 -> 11454
+		 CC 37 -> 1030
+		 CC 38 -> 4093
+		 CC 39 -> 33545
+ # CC 40
+		 Patch 0 ->(d1,u1,v1)=( 192 , 348 , 12 )(dd,du,dv)=( 63 , 59 , 142 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 256 , 204 , 62 )(dd,du,dv)=( 127 , 23 , 11 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 320 , 210 , 11 )(dd,du,dv)=( 63 , 58 , 92 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 0 , 367 , 230 )(dd,du,dv)=( 63 , 47 , 46 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 320 , 346 , 12 )(dd,du,dv)=( 127 , 93 , 250 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 256 , 58 , 126 )(dd,du,dv)=( 191 , 376 , 878 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 448 , 213 , 10 )(dd,du,dv)=( 63 , 63 , 131 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 0 , 462 , 201 )(dd,du,dv)=( 63 , 24 , 18 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 64 , 464 , 201 )(dd,du,dv)=( 63 , 21 , 18 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 192 , 457 , 10 )(dd,du,dv)=( 63 , 42 , 136 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 0 , 458 , 222 )(dd,du,dv)=( 63 , 42 , 41 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 384 , 226 , 16 )(dd,du,dv)=( 127 , 83 , 219 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 576 , 149 , 13 )(dd,du,dv)=( 191 , 284 , 848 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 64 , 387 , 155 )(dd,du,dv)=( 127 , 155 , 94 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 0 , 314 , 129 )(dd,du,dv)=( 191 , 246 , 705 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 475 , 129 )(dd,du,dv)=( 127 , 97 , 309 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 192 , 385 , 218 )(dd,du,dv)=( 127 , 34 , 44 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 384 , 242 , 255 )(dd,du,dv)=( 63 , 4 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 192 , 487 , 194 )(dd,du,dv)=( 127 , 19 , 36 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 384 , 143 , 290 )(dd,du,dv)=( 63 , 45 , 124 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 320 , 454 , 18 )(dd,du,dv)=( 63 , 38 , 101 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 64 , 458 , 282 )(dd,du,dv)=( 63 , 36 , 24 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 448 , 325 , 119 )(dd,du,dv)=( 191 , 190 , 607 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 512 , 191 , 206 )(dd,du,dv)=( 63 , 48 , 248 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 192 , 538 , 140 )(dd,du,dv)=( 127 , 34 , 102 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 576 , 234 , 276 )(dd,du,dv)=( 63 , 6 , 10 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 576 , 349 , 80 )(dd,du,dv)=( 127 , 66 , 54 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 192 , 337 , 622 )(dd,du,dv)=( 127 , 71 , 68 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 448 , 65 , 644 )(dd,du,dv)=( 127 , 86 , 139 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 576 , 314 , 117 )(dd,du,dv)=( 127 , 88 , 75 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 128 , 314 , 542 )(dd,du,dv)=( 127 , 72 , 84 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 896 , 356 , 143 )(dd,du,dv)=( 127 , 42 , 87 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 192 , 370 , 844 )(dd,du,dv)=( 63 , 104 , 168 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 832 , 424 , 230 )(dd,du,dv)=( 63 , 42 , 43 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 512 , 222 , 860 )(dd,du,dv)=( 63 , 59 , 119 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 1024 , 378 , 234 )(dd,du,dv)=( 63 , 89 , 45 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 576 , 434 , 288 )(dd,du,dv)=( 127 , 78 , 146 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 512 , 382 , 632 )(dd,du,dv)=( 63 , 48 , 25 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 704 , 474 , 290 )(dd,du,dv)=( 63 , 42 , 88 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 448 , 373 , 652 )(dd,du,dv)=( 191 , 125 , 355 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 40
+ # resampled 1090074
+ # raw points 28525
+		 CC 0 -> 303
+		 CC 1 -> 224
+		 CC 2 -> 2299
+		 CC 3 -> 526
+		 CC 4 -> 7888
+		 CC 5 -> 66
+		 CC 6 -> 841
+		 CC 7 -> 3039
+		 CC 8 -> 186
+		 CC 9 -> 224
+		 CC 10 -> 64
+		 CC 11 -> 4675
+		 CC 12 -> 555
+		 CC 13 -> 63
+		 CC 14 -> 129
+		 CC 15 -> 124
+		 CC 16 -> 306
+		 CC 17 -> 164
+		 CC 18 -> 867
+		 CC 19 -> 89
+		 CC 20 -> 105
+		 CC 21 -> 109
+		 CC 22 -> 764
+		 CC 23 -> 150
+		 CC 24 -> 288
+		 CC 25 -> 58
+		 CC 26 -> 238
+		 CC 27 -> 74
+		 CC 28 -> 87
+		 CC 29 -> 2167
+ # CC 30
+		 Patch 40 ->(d1,u1,v1)=( 320 , 226 , 37 )(dd,du,dv)=( 63 , 18 , 16 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 320 , 205 , 63 )(dd,du,dv)=( 63 , 19 , 9 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 512 , 229 , 125 )(dd,du,dv)=( 63 , 32 , 82 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 192 , 488 , 295 )(dd,du,dv)=( 63 , 13 , 38 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 512 , 197 , 322 )(dd,du,dv)=( 63 , 42 , 250 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 192 , 486 , 350 )(dd,du,dv)=( 63 , 4 , 28 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 320 , 468 , 46 )(dd,du,dv)=( 63 , 23 , 19 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 576 , 254 , 235 )(dd,du,dv)=( 127 , 23 , 219 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 576 , 210 , 143 )(dd,du,dv)=( 63 , 22 , 10 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 192 , 518 , 233 )(dd,du,dv)=( 63 , 8 , 25 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 576 , 393 , 120 )(dd,du,dv)=( 63 , 5 , 8 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 64 , 350 , 629 )(dd,du,dv)=( 127 , 76 , 87 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 384 , 97 , 658 )(dd,du,dv)=( 63 , 17 , 33 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 320 , 94 , 672 )(dd,du,dv)=( 63 , 8 , 6 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 128 , 414 , 601 )(dd,du,dv)=( 63 , 27 , 5 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 384 , 170 , 622 )(dd,du,dv)=( 63 , 15 , 9 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 576 , 219 , 558 )(dd,du,dv)=( 127 , 8 , 34 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 512 , 238 , 672 )(dd,du,dv)=( 63 , 13 , 20 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 384 , 361 , 598 )(dd,du,dv)=( 127 , 44 , 25 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 512 , 271 , 621 )(dd,du,dv)=( 63 , 19 , 2 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 384 , 415 , 611 )(dd,du,dv)=( 63 , 17 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 576 , 483 , 330 )(dd,du,dv)=( 63 , 3 , 20 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 576 , 468 , 352 )(dd,du,dv)=( 127 , 19 , 64 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 320 , 348 , 686 )(dd,du,dv)=( 63 , 2 , 20 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 320 , 262 , 714 )(dd,du,dv)=( 63 , 11 , 27 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 512 , 302 , 670 )(dd,du,dv)=( 63 , 7 , 9 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 512 , 341 , 673 )(dd,du,dv)=( 63 , 27 , 12 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 512 , 375 , 686 )(dd,du,dv)=( 63 , 15 , 15 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 448 , 480 , 660 )(dd,du,dv)=( 63 , 11 , 10 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 320 , 418 , 860 )(dd,du,dv)=( 63 , 37 , 77 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 70
+ # resampled 1121296
+ # raw points 3251
+		 CC 0 -> 227
+		 CC 1 -> 144
+ # CC 2
+		 Patch 70 ->(d1,u1,v1)=( 320 , 470 , 48 )(dd,du,dv)=( 63 , 19 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 320 , 430 , 877 )(dd,du,dv)=( 63 , 10 , 13 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 72
+ # resampled 1121666
+ # raw points 2893
+ # CC 0
+[done]
+
+============= FRAME 14 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 819541
+		 CC 0 -> 150400
+		 CC 1 -> 180682
+		 CC 2 -> 2061
+		 CC 3 -> 11832
+		 CC 4 -> 4902
+		 CC 5 -> 5173
+		 CC 6 -> 1621
+		 CC 7 -> 186555
+		 CC 8 -> 12040
+		 CC 9 -> 23562
+		 CC 10 -> 3223
+		 CC 11 -> 114271
+		 CC 12 -> 4653
+		 CC 13 -> 944
+		 CC 14 -> 32
+		 CC 15 -> 8755
+		 CC 16 -> 1027
+		 CC 17 -> 2556
+		 CC 18 -> 3688
+		 CC 19 -> 6270
+		 CC 20 -> 356
+		 CC 21 -> 6660
+		 CC 22 -> 3831
+		 CC 23 -> 19831
+		 CC 24 -> 1554
+		 CC 25 -> 7934
+		 CC 26 -> 4601
+		 CC 27 -> 10905
+		 CC 28 -> 4021
+		 CC 29 -> 34458
+		 CC 30 -> 984
+		 CC 31 -> 16
+ # CC 32
+		 Patch 0 ->(d1,u1,v1)=( 0 , 325 , 12 )(dd,du,dv)=( 191 , 237 , 822 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 256 , 50 , 11 )(dd,du,dv)=( 191 , 388 , 995 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 0 , 366 , 226 )(dd,du,dv)=( 63 , 45 , 51 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 320 , 346 , 13 )(dd,du,dv)=( 127 , 85 , 205 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 448 , 205 , 9 )(dd,du,dv)=( 63 , 72 , 141 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 192 , 454 , 10 )(dd,du,dv)=( 63 , 43 , 140 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 0 , 456 , 214 )(dd,du,dv)=( 63 , 42 , 46 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 640 , 61 , 13 )(dd,du,dv)=( 191 , 377 , 853 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 128 , 393 , 156 )(dd,du,dv)=( 63 , 171 , 114 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 320 , 481 , 133 )(dd,du,dv)=( 127 , 96 , 377 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 384 , 149 , 290 )(dd,du,dv)=( 63 , 36 , 88 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 384 , 318 , 120 )(dd,du,dv)=( 191 , 192 , 598 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 320 , 448 , 14 )(dd,du,dv)=( 63 , 46 , 108 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 64 , 450 , 274 )(dd,du,dv)=( 63 , 44 , 27 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 256 , 498 , 302 )(dd,du,dv)=( 63 , 5 , 11 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 512 , 202 , 161 )(dd,du,dv)=( 63 , 45 , 245 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 576 , 230 , 187 )(dd,du,dv)=( 63 , 25 , 42 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 576 , 350 , 71 )(dd,du,dv)=( 127 , 68 , 59 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 192 , 346 , 622 )(dd,du,dv)=( 127 , 71 , 72 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 576 , 322 , 108 )(dd,du,dv)=( 127 , 87 , 73 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 704 , 366 , 119 )(dd,du,dv)=( 63 , 20 , 19 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 128 , 310 , 534 )(dd,du,dv)=( 127 , 78 , 94 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 896 , 357 , 138 )(dd,du,dv)=( 127 , 38 , 88 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 192 , 361 , 849 )(dd,du,dv)=( 63 , 109 , 164 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 832 , 423 , 230 )(dd,du,dv)=( 63 , 40 , 40 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 512 , 218 , 862 )(dd,du,dv)=( 63 , 57 , 120 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 1024 , 372 , 230 )(dd,du,dv)=( 63 , 90 , 46 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 576 , 433 , 294 )(dd,du,dv)=( 127 , 70 , 141 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 704 , 462 , 298 )(dd,du,dv)=( 63 , 45 , 84 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 448 , 366 , 655 )(dd,du,dv)=( 191 , 116 , 355 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 512 , 390 , 634 )(dd,du,dv)=( 63 , 48 , 28 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 640 , 458 , 427 )(dd,du,dv)=( 63 , 3 , 7 ),Normal: 1 Direction: 0 EOM: 0
+ # patches 32
+ # resampled 1052560
+ # raw points 44647
+		 CC 0 -> 1436
+		 CC 1 -> 327
+		 CC 2 -> 138
+		 CC 3 -> 129
+		 CC 4 -> 476
+		 CC 5 -> 7065
+		 CC 6 -> 113
+		 CC 7 -> 4856
+		 CC 8 -> 223
+		 CC 9 -> 1881
+		 CC 10 -> 404
+		 CC 11 -> 16
+		 CC 12 -> 66
+		 CC 13 -> 85
+		 CC 14 -> 27
+		 CC 15 -> 168
+		 CC 16 -> 5019
+		 CC 17 -> 63
+		 CC 18 -> 13379
+		 CC 19 -> 45
+		 CC 20 -> 50
+		 CC 21 -> 44
+		 CC 22 -> 387
+		 CC 23 -> 240
+		 CC 24 -> 192
+		 CC 25 -> 207
+		 CC 26 -> 80
+		 CC 27 -> 82
+		 CC 28 -> 996
+		 CC 29 -> 82
+		 CC 30 -> 1140
+		 CC 31 -> 289
+		 CC 32 -> 380
+		 CC 33 -> 99
+		 CC 34 -> 290
+		 CC 35 -> 43
+		 CC 36 -> 2275
+ # CC 37
+		 Patch 32 ->(d1,u1,v1)=( 448 , 227 , 18 )(dd,du,dv)=( 63 , 43 , 66 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 128 , 389 , 156 )(dd,du,dv)=( 127 , 21 , 15 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 128 , 434 , 166 )(dd,du,dv)=( 63 , 23 , 20 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 128 , 383 , 174 )(dd,du,dv)=( 63 , 13 , 10 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 384 , 230 , 137 )(dd,du,dv)=( 127 , 12 , 50 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 576 , 234 , 141 )(dd,du,dv)=( 127 , 67 , 171 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 192 , 456 , 131 )(dd,du,dv)=( 63 , 17 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 512 , 205 , 306 )(dd,du,dv)=( 63 , 46 , 139 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 192 , 492 , 276 )(dd,du,dv)=( 63 , 10 , 30 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 192 , 493 , 272 )(dd,du,dv)=( 127 , 28 , 133 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 192 , 478 , 359 )(dd,du,dv)=( 63 , 7 , 86 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 320 , 465 , 46 )(dd,du,dv)=( 63 , 7 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 320 , 476 , 43 )(dd,du,dv)=( 63 , 10 , 14 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 128 , 547 , 227 )(dd,du,dv)=( 63 , 3 , 11 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 192 , 543 , 167 )(dd,du,dv)=( 63 , 4 , 4 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 576 , 240 , 206 )(dd,du,dv)=( 63 , 10 , 21 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 64 , 359 , 633 )(dd,du,dv)=( 127 , 78 , 97 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 320 , 85 , 674 )(dd,du,dv)=( 63 , 9 , 6 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 448 , 62 , 649 )(dd,du,dv)=( 127 , 88 , 157 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 128 , 382 , 640 )(dd,du,dv)=( 63 , 6 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 128 , 413 , 604 )(dd,du,dv)=( 63 , 11 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 128 , 425 , 604 )(dd,du,dv)=( 63 , 12 , 3 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 320 , 162 , 603 )(dd,du,dv)=( 127 , 24 , 31 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 512 , 221 , 542 )(dd,du,dv)=( 63 , 12 , 31 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 576 , 227 , 551 )(dd,du,dv)=( 127 , 11 , 42 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 448 , 141 , 765 )(dd,du,dv)=( 63 , 6 , 31 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 512 , 245 , 675 )(dd,du,dv)=( 63 , 10 , 19 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 192 , 371 , 905 )(dd,du,dv)=( 63 , 16 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 384 , 349 , 601 )(dd,du,dv)=( 127 , 42 , 28 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 384 , 412 , 609 )(dd,du,dv)=( 63 , 19 , 6 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 576 , 454 , 335 )(dd,du,dv)=( 127 , 23 , 73 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 320 , 259 , 705 )(dd,du,dv)=( 63 , 15 , 32 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 512 , 306 , 671 )(dd,du,dv)=( 63 , 27 , 14 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 512 , 291 , 671 )(dd,du,dv)=( 63 , 11 , 5 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 512 , 349 , 678 )(dd,du,dv)=( 63 , 31 , 23 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 448 , 467 , 667 )(dd,du,dv)=( 63 , 8 , 5 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 414 , 869 )(dd,du,dv)=( 63 , 45 , 71 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 69
+ # resampled 1105972
+ # raw points 3202
+		 CC 0 -> 241
+		 CC 1 -> 179
+		 CC 2 -> 139
+ # CC 3
+		 Patch 69 ->(d1,u1,v1)=( 320 , 359 , 601 )(dd,du,dv)=( 63 , 29 , 13 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 576 , 458 , 363 )(dd,du,dv)=( 127 , 17 , 31 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 320 , 438 , 886 )(dd,du,dv)=( 63 , 12 , 15 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 72
+ # resampled 1106608
+ # raw points 2649
+ # CC 0
+[done]
+
+============= FRAME 15 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 830175
+		 CC 0 -> 163809
+		 CC 1 -> 2203
+		 CC 2 -> 165547
+		 CC 3 -> 12840
+		 CC 4 -> 4350
+		 CC 5 -> 5043
+		 CC 6 -> 31
+		 CC 7 -> 1940
+		 CC 8 -> 11910
+		 CC 9 -> 8942
+		 CC 10 -> 7744
+		 CC 11 -> 139859
+		 CC 12 -> 913
+		 CC 13 -> 146558
+		 CC 14 -> 6597
+		 CC 15 -> 628
+		 CC 16 -> 27778
+		 CC 17 -> 759
+		 CC 18 -> 6220
+		 CC 19 -> 2670
+		 CC 20 -> 868
+		 CC 21 -> 12263
+		 CC 22 -> 774
+		 CC 23 -> 2786
+		 CC 24 -> 8922
+		 CC 25 -> 1254
+		 CC 26 -> 4130
+		 CC 27 -> 19845
+		 CC 28 -> 1372
+		 CC 29 -> 8052
+		 CC 30 -> 4606
+		 CC 31 -> 10077
+		 CC 32 -> 1764
+		 CC 33 -> 3360
+		 CC 34 -> 49
+		 CC 35 -> 22
+		 CC 36 -> 31499
+		 CC 37 -> 22
+		 CC 38 -> 16
+		 CC 39 -> 2010
+ # CC 40
+		 Patch 0 ->(d1,u1,v1)=( 64 , 306 , 14 )(dd,du,dv)=( 191 , 262 , 776 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 0 , 364 , 223 )(dd,du,dv)=( 63 , 48 , 55 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 256 , 42 , 13 )(dd,du,dv)=( 191 , 400 , 996 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 320 , 343 , 12 )(dd,du,dv)=( 127 , 86 , 201 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 448 , 210 , 9 )(dd,du,dv)=( 63 , 69 , 122 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 192 , 455 , 9 )(dd,du,dv)=( 63 , 42 , 131 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 0 , 472 , 205 )(dd,du,dv)=( 63 , 10 , 3 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 0 , 455 , 209 )(dd,du,dv)=( 63 , 44 , 52 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 384 , 223 , 17 )(dd,du,dv)=( 127 , 72 , 187 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 512 , 220 , 12 )(dd,du,dv)=( 63 , 77 , 182 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 128 , 410 , 181 )(dd,du,dv)=( 63 , 136 , 75 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 384 , 313 , 120 )(dd,du,dv)=( 191 , 254 , 590 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 192 , 389 , 184 )(dd,du,dv)=( 127 , 25 , 28 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 576 , 54 , 298 )(dd,du,dv)=( 191 , 388 , 568 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 320 , 443 , 14 )(dd,du,dv)=( 63 , 51 , 108 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 64 , 450 , 277 )(dd,du,dv)=( 63 , 33 , 21 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 640 , 212 , 137 )(dd,du,dv)=( 127 , 100 , 257 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 512 , 212 , 166 )(dd,du,dv)=( 63 , 22 , 50 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 512 , 216 , 202 )(dd,du,dv)=( 63 , 42 , 180 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 512 , 270 , 148 )(dd,du,dv)=( 63 , 42 , 50 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 320 , 519 , 208 )(dd,du,dv)=( 63 , 17 , 50 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 576 , 320 , 61 )(dd,du,dv)=( 127 , 118 , 117 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 384 , 118 , 611 )(dd,du,dv)=( 63 , 30 , 28 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 192 , 354 , 634 )(dd,du,dv)=( 127 , 69 , 60 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 0 , 337 , 660 )(dd,du,dv)=( 191 , 58 , 170 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 704 , 371 , 108 )(dd,du,dv)=( 63 , 36 , 39 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 896 , 357 , 130 )(dd,du,dv)=( 127 , 41 , 92 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 192 , 358 , 850 )(dd,du,dv)=( 63 , 109 , 164 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 832 , 422 , 230 )(dd,du,dv)=( 63 , 38 , 34 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 512 , 217 , 864 )(dd,du,dv)=( 63 , 57 , 120 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 1024 , 369 , 225 )(dd,du,dv)=( 63 , 93 , 49 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 576 , 425 , 295 )(dd,du,dv)=( 127 , 73 , 147 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 512 , 374 , 624 )(dd,du,dv)=( 127 , 65 , 40 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 704 , 453 , 298 )(dd,du,dv)=( 63 , 45 , 76 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 384 , 381 , 645 )(dd,du,dv)=( 63 , 11 , 6 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 384 , 377 , 640 )(dd,du,dv)=( 63 , 5 , 4 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 512 , 359 , 656 )(dd,du,dv)=( 191 , 110 , 354 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 640 , 444 , 430 )(dd,du,dv)=( 63 , 4 , 8 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 320 , 441 , 886 )(dd,du,dv)=( 63 , 2 , 6 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 384 , 286 , 884 )(dd,du,dv)=( 127 , 33 , 40 ),Normal: 2 Direction: 0 EOM: 0
+ # patches 40
+ # resampled 1097224
+ # raw points 14353
+		 CC 0 -> 113
+		 CC 1 -> 97
+		 CC 2 -> 937
+		 CC 3 -> 318
+		 CC 4 -> 376
+		 CC 5 -> 246
+		 CC 6 -> 1306
+		 CC 7 -> 37
+		 CC 8 -> 70
+		 CC 9 -> 2631
+		 CC 10 -> 157
+		 CC 11 -> 77
+		 CC 12 -> 41
+		 CC 13 -> 87
+		 CC 14 -> 1005
+		 CC 15 -> 36
+		 CC 16 -> 76
+		 CC 17 -> 60
+		 CC 18 -> 958
+		 CC 19 -> 734
+		 CC 20 -> 139
+		 CC 21 -> 182
+		 CC 22 -> 555
+		 CC 23 -> 143
+		 CC 24 -> 351
+		 CC 25 -> 96
+		 CC 26 -> 628
+		 CC 27 -> 133
+		 CC 28 -> 43
+ # CC 29
+		 Patch 40 ->(d1,u1,v1)=( 192 , 467 , 10 )(dd,du,dv)=( 63 , 15 , 6 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 256 , 498 , 154 )(dd,du,dv)=( 63 , 7 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 128 , 410 , 358 )(dd,du,dv)=( 63 , 21 , 108 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 192 , 500 , 260 )(dd,du,dv)=( 127 , 12 , 29 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 192 , 490 , 385 )(dd,du,dv)=( 63 , 12 , 58 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 192 , 475 , 414 )(dd,du,dv)=( 63 , 7 , 44 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 320 , 452 , 44 )(dd,du,dv)=( 63 , 30 , 33 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 320 , 500 , 182 )(dd,du,dv)=( 63 , 5 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 320 , 501 , 195 )(dd,du,dv)=( 63 , 3 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 576 , 231 , 150 )(dd,du,dv)=( 63 , 43 , 65 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 320 , 527 , 210 )(dd,du,dv)=( 63 , 9 , 14 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 576 , 398 , 104 )(dd,du,dv)=( 63 , 9 , 10 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 576 , 411 , 113 )(dd,du,dv)=( 63 , 5 , 9 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 320 , 81 , 669 )(dd,du,dv)=( 63 , 11 , 12 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 384 , 84 , 653 )(dd,du,dv)=( 63 , 34 , 45 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 640 , 381 , 97 )(dd,du,dv)=( 63 , 6 , 7 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 320 , 186 , 589 )(dd,du,dv)=( 63 , 8 , 13 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 128 , 403 , 650 )(dd,du,dv)=( 63 , 17 , 2 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 320 , 344 , 603 )(dd,du,dv)=( 63 , 28 , 25 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 576 , 446 , 339 )(dd,du,dv)=( 127 , 21 , 51 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 320 , 329 , 688 )(dd,du,dv)=( 63 , 7 , 22 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 320 , 258 , 710 )(dd,du,dv)=( 63 , 9 , 22 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 512 , 306 , 672 )(dd,du,dv)=( 63 , 83 , 25 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 320 , 408 , 877 )(dd,du,dv)=( 63 , 23 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 384 , 296 , 885 )(dd,du,dv)=( 127 , 16 , 21 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 320 , 434 , 894 )(dd,du,dv)=( 63 , 8 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 320 , 427 , 913 )(dd,du,dv)=( 63 , 18 , 31 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 320 , 446 , 912 )(dd,du,dv)=( 63 , 9 , 15 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 384 , 292 , 903 )(dd,du,dv)=( 127 , 6 , 7 ),Normal: 2 Direction: 0 EOM: 0
+ # patches 69
+ # resampled 1105928
+ # raw points 4695
+		 CC 0 -> 341
+		 CC 1 -> 482
+		 CC 2 -> 319
+		 CC 3 -> 108
+ # CC 4
+		 Patch 69 ->(d1,u1,v1)=( 320 , 453 , 47 )(dd,du,dv)=( 63 , 26 , 16 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 576 , 244 , 180 )(dd,du,dv)=( 63 , 27 , 34 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 320 , 345 , 604 )(dd,du,dv)=( 63 , 25 , 20 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 72 ->(d1,u1,v1)=( 320 , 433 , 922 )(dd,du,dv)=( 63 , 10 , 13 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 73
+ # resampled 1107416
+ # raw points 3464
+ # CC 0
+[done]
+
+============= FRAME 16 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 845531
+		 CC 0 -> 157024
+		 CC 1 -> 2095
+		 CC 2 -> 5350
+		 CC 3 -> 12043
+		 CC 4 -> 4671
+		 CC 5 -> 9699
+		 CC 6 -> 6695
+		 CC 7 -> 4587
+		 CC 8 -> 8216
+		 CC 9 -> 164823
+		 CC 10 -> 6323
+		 CC 11 -> 1639
+		 CC 12 -> 150763
+		 CC 13 -> 8017
+		 CC 14 -> 133633
+		 CC 15 -> 2015
+		 CC 16 -> 466
+		 CC 17 -> 22762
+		 CC 18 -> 7652
+		 CC 19 -> 4058
+		 CC 20 -> 494
+		 CC 21 -> 14660
+		 CC 22 -> 3643
+		 CC 23 -> 9170
+		 CC 24 -> 2064
+		 CC 25 -> 16272
+		 CC 26 -> 4359
+		 CC 27 -> 19594
+		 CC 28 -> 1510
+		 CC 29 -> 31164
+		 CC 30 -> 8188
+		 CC 31 -> 4285
+		 CC 32 -> 10668
+		 CC 33 -> 1619
+		 CC 34 -> 2956
+		 CC 35 -> 152
+		 CC 36 -> 1948
+ # CC 37
+		 Patch 0 ->(d1,u1,v1)=( 128 , 302 , 14 )(dd,du,dv)=( 191 , 273 , 624 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 0 , 362 , 223 )(dd,du,dv)=( 63 , 45 , 56 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 320 , 198 , 13 )(dd,du,dv)=( 63 , 69 , 138 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 320 , 333 , 12 )(dd,du,dv)=( 127 , 95 , 186 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 448 , 205 , 10 )(dd,du,dv)=( 63 , 73 , 136 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 384 , 219 , 18 )(dd,du,dv)=( 127 , 67 , 160 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 0 , 443 , 199 )(dd,du,dv)=( 127 , 54 , 110 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 192 , 456 , 10 )(dd,du,dv)=( 63 , 39 , 129 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 512 , 216 , 12 )(dd,du,dv)=( 63 , 79 , 154 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 256 , 38 , 170 )(dd,du,dv)=( 191 , 405 , 841 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 128 , 409 , 198 )(dd,du,dv)=( 63 , 139 , 71 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 128 , 392 , 236 )(dd,du,dv)=( 127 , 34 , 41 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 384 , 306 , 120 )(dd,du,dv)=( 191 , 268 , 582 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 576 , 231 , 230 )(dd,du,dv)=( 127 , 53 , 196 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 576 , 50 , 350 )(dd,du,dv)=( 191 , 387 , 517 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 320 , 443 , 62 )(dd,du,dv)=( 63 , 35 , 61 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 64 , 446 , 275 )(dd,du,dv)=( 63 , 25 , 20 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 640 , 219 , 143 )(dd,du,dv)=( 127 , 101 , 179 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 18 ->(d1,u1,v1)=( 512 , 225 , 218 )(dd,du,dv)=( 63 , 57 , 105 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 512 , 274 , 153 )(dd,du,dv)=( 63 , 48 , 65 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 320 , 527 , 210 )(dd,du,dv)=( 63 , 10 , 31 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 576 , 318 , 58 )(dd,du,dv)=( 127 , 132 , 125 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 704 , 378 , 103 )(dd,du,dv)=( 127 , 72 , 49 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 0 , 345 , 657 )(dd,du,dv)=( 127 , 63 , 169 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 128 , 365 , 649 )(dd,du,dv)=( 63 , 49 , 45 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 128 , 374 , 646 )(dd,du,dv)=( 127 , 116 , 144 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 896 , 358 , 123 )(dd,du,dv)=( 127 , 44 , 95 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 192 , 359 , 850 )(dd,du,dv)=( 63 , 105 , 166 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 832 , 418 , 226 )(dd,du,dv)=( 63 , 40 , 38 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 512 , 358 , 659 )(dd,du,dv)=( 191 , 104 , 354 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 512 , 213 , 866 )(dd,du,dv)=( 63 , 57 , 120 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 1024 , 370 , 221 )(dd,du,dv)=( 63 , 88 , 46 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 576 , 418 , 298 )(dd,du,dv)=( 127 , 72 , 140 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 448 , 376 , 626 )(dd,du,dv)=( 63 , 65 , 41 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 704 , 446 , 302 )(dd,du,dv)=( 63 , 44 , 68 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 384 , 366 , 642 )(dd,du,dv)=( 63 , 20 , 7 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 512 , 286 , 887 )(dd,du,dv)=( 127 , 34 , 47 ),Normal: 2 Direction: 1 EOM: 0
+ # patches 37
+ # resampled 1106014
+ # raw points 18241
+		 CC 0 -> 439
+		 CC 1 -> 129
+		 CC 2 -> 91
+		 CC 3 -> 187
+		 CC 4 -> 23
+		 CC 5 -> 1320
+		 CC 6 -> 54
+		 CC 7 -> 84
+		 CC 8 -> 97
+		 CC 9 -> 341
+		 CC 10 -> 635
+		 CC 11 -> 1328
+		 CC 12 -> 2284
+		 CC 13 -> 286
+		 CC 14 -> 181
+		 CC 15 -> 400
+		 CC 16 -> 117
+		 CC 17 -> 1072
+		 CC 18 -> 355
+		 CC 19 -> 289
+		 CC 20 -> 135
+		 CC 21 -> 48
+		 CC 22 -> 134
+		 CC 23 -> 879
+		 CC 24 -> 876
+		 CC 25 -> 909
+		 CC 26 -> 398
+		 CC 27 -> 64
+		 CC 28 -> 391
+		 CC 29 -> 98
+		 CC 30 -> 106
+		 CC 31 -> 77
+		 CC 32 -> 399
+		 CC 33 -> 547
+		 CC 34 -> 224
+ # CC 35
+		 Patch 37 ->(d1,u1,v1)=( 128 , 385 , 180 )(dd,du,dv)=( 127 , 37 , 25 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 192 , 429 , 157 )(dd,du,dv)=( 63 , 15 , 21 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 192 , 418 , 179 )(dd,du,dv)=( 63 , 12 , 11 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 192 , 453 , 181 )(dd,du,dv)=( 63 , 11 , 20 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 448 , 252 , 140 )(dd,du,dv)=( 63 , 3 , 4 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 128 , 409 , 359 )(dd,du,dv)=( 63 , 30 , 136 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 43 ->(d1,u1,v1)=( 192 , 460 , 341 )(dd,du,dv)=( 63 , 2 , 16 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 192 , 470 , 315 )(dd,du,dv)=( 63 , 3 , 22 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 192 , 466 , 335 )(dd,du,dv)=( 63 , 5 , 26 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 46 ->(d1,u1,v1)=( 192 , 466 , 414 )(dd,du,dv)=( 63 , 12 , 48 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 47 ->(d1,u1,v1)=( 192 , 496 , 423 )(dd,du,dv)=( 127 , 8 , 63 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 48 ->(d1,u1,v1)=( 0 , 449 , 266 )(dd,du,dv)=( 127 , 31 , 30 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 49 ->(d1,u1,v1)=( 576 , 245 , 155 )(dd,du,dv)=( 63 , 45 , 67 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 50 ->(d1,u1,v1)=( 576 , 220 , 168 )(dd,du,dv)=( 63 , 18 , 42 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 51 ->(d1,u1,v1)=( 512 , 246 , 263 )(dd,du,dv)=( 63 , 13 , 42 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 52 ->(d1,u1,v1)=( 320 , 530 , 168 )(dd,du,dv)=( 63 , 13 , 32 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 53 ->(d1,u1,v1)=( 256 , 510 , 228 )(dd,du,dv)=( 63 , 13 , 13 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 54 ->(d1,u1,v1)=( 512 , 252 , 224 )(dd,du,dv)=( 63 , 21 , 80 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 55 ->(d1,u1,v1)=( 320 , 545 , 235 )(dd,du,dv)=( 63 , 15 , 28 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 56 ->(d1,u1,v1)=( 512 , 289 , 193 )(dd,du,dv)=( 63 , 15 , 19 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 57 ->(d1,u1,v1)=( 320 , 538 , 267 )(dd,du,dv)=( 63 , 6 , 42 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 58 ->(d1,u1,v1)=( 576 , 408 , 106 )(dd,du,dv)=( 63 , 7 , 8 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 59 ->(d1,u1,v1)=( 576 , 420 , 115 )(dd,du,dv)=( 63 , 7 , 15 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 60 ->(d1,u1,v1)=( 384 , 80 , 655 )(dd,du,dv)=( 63 , 34 , 47 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 61 ->(d1,u1,v1)=( 320 , 326 , 607 )(dd,du,dv)=( 63 , 31 , 26 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 62 ->(d1,u1,v1)=( 576 , 431 , 341 )(dd,du,dv)=( 127 , 26 , 56 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 63 ->(d1,u1,v1)=( 256 , 257 , 684 )(dd,du,dv)=( 127 , 16 , 41 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 64 ->(d1,u1,v1)=( 512 , 297 , 670 )(dd,du,dv)=( 63 , 11 , 5 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 65 ->(d1,u1,v1)=( 512 , 354 , 678 )(dd,du,dv)=( 127 , 31 , 13 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 66 ->(d1,u1,v1)=( 320 , 411 , 862 )(dd,du,dv)=( 127 , 15 , 12 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 67 ->(d1,u1,v1)=( 320 , 411 , 879 )(dd,du,dv)=( 63 , 17 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 68 ->(d1,u1,v1)=( 320 , 375 , 829 )(dd,du,dv)=( 63 , 15 , 6 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 69 ->(d1,u1,v1)=( 512 , 293 , 894 )(dd,du,dv)=( 127 , 18 , 29 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 70 ->(d1,u1,v1)=( 320 , 425 , 914 )(dd,du,dv)=( 63 , 16 , 30 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 71 ->(d1,u1,v1)=( 320 , 409 , 978 )(dd,du,dv)=( 127 , 45 , 28 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 72
+ # resampled 1119258
+ # raw points 5194
+		 CC 0 -> 119
+		 CC 1 -> 362
+		 CC 2 -> 189
+		 CC 3 -> 135
+		 CC 4 -> 231
+		 CC 5 -> 67
+ # CC 6
+		 Patch 72 ->(d1,u1,v1)=( 192 , 496 , 427 )(dd,du,dv)=( 127 , 5 , 31 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 73 ->(d1,u1,v1)=( 0 , 451 , 267 )(dd,du,dv)=( 127 , 27 , 17 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 74 ->(d1,u1,v1)=( 576 , 258 , 174 )(dd,du,dv)=( 63 , 17 , 22 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 75 ->(d1,u1,v1)=( 576 , 260 , 160 )(dd,du,dv)=( 63 , 22 , 11 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 76 ->(d1,u1,v1)=( 320 , 333 , 609 )(dd,du,dv)=( 63 , 23 , 19 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 77 ->(d1,u1,v1)=( 576 , 442 , 366 )(dd,du,dv)=( 127 , 9 , 13 ),Normal: 1 Direction: 0 EOM: 0
+ # patches 78
+ # resampled 1120370
+ # raw points 4146
+ # CC 0
+[done]
+
+============= FRAME 17 ============= 
