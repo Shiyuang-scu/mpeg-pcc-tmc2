@@ -599,8 +599,8 @@ if __name__ == '__main__':
     dataset_name = 'longdress'
     vpcc = VPCC(dataset_name)
 
-    # for rate in range(5):
-    #     vpcc.rate = f'r{rate+1}'
-    #     vpcc.run_experiment()
-    vpcc.rate = 'r2'
-    vpcc.run_experiment()
+    for rate in range(5):
+        vpcc.rate = f'r{rate+1}'
+        vpcc.run_experiment()
+    # vpcc.rate = 'r2'
+    # vpcc.run_experiment()
