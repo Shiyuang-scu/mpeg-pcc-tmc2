@@ -1,12 +1,15 @@
-ds_rootdir: &ds_rootdir /mnt/data6/chenghao/PCC_datasets/
 
-8i_longdress:
+
+longdress:
     dataset_cfg: cfg/sequence/longdress_vox10.cfg
     dataset_dir: mpeg_datasets/8iVFBv2/longdress/Ply/
     dataset_w_normal_dir: /mnt/data5/chenghao/longdress_vox10_normal_sample25
     test_pattern: '*.ply'
     scale: 1024
     color: True
+    startFrameNumber: 1051
+
+
 
 8i_loot_25:
     dataset_dir: /mnt/data5/chenghao/loot_vox10_sample25
