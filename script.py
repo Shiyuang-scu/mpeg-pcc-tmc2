@@ -330,7 +330,7 @@ class VPCC:
             Path(exp_dir)
             .joinpath('bin', self.ds_name).with_suffix(self._algs_cfg['bin_suffix'])
         )
-        out_file = Path(exp_dir).joinpath('dec', '%i.ply')
+        out_file = Path(exp_dir).joinpath('dec', '%04d.ply')
         evl_log = Path(exp_dir).joinpath('evl', self.ds_name).with_suffix('.log')
         
         bin_file.parent.mkdir(parents=True, exist_ok=True)
