@@ -13,7 +13,6 @@ import yaml
 from functools import partial
 from multiprocessing import Pool
 from tqdm import tqdm
-import open3d as o3d
 import re
 
 logger = logging.getLogger(__name__)
