@@ -12950,3 +12950,368 @@ copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 )
 	PCC ME GOP #1 ACTIVE
 POC   61 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2888 bits [Y 47.1803 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 60 ] [L1 ] [MD5:1ec93d9b856b955e03100dc0ac426bb4,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
 POC   62 TId: 0 ( I-SLICE, nQP 32 QP 32 )      28368 bits [Y 47.8251 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:5b6108db63b21ec16e01c373a519e86f,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   63 TId: 0 ( P-SLICE, nQP 32 QP 32 )       2648 bits [Y 47.3913 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 62 ] [L1 ] [MD5:f7e94b940da365321b8442724c374deb,85574aebeef03eb355bf8541955d06ea,85574aebeef03eb355bf8541955d06ea]
+
+
+SUMMARY --------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	       64    a     463.0387   47.5779  999.9900  999.9900   49.3307  
+
+
+I Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	       32    i     843.9225   47.8013  999.9900  999.9900   49.5600  
+
+
+P Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	       32    p      82.1550   47.3544  999.9900  999.9900   49.1128  
+
+
+B Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	        0    b         -nan      -nan      -nan      -nan      -nan  
+
+RVM: 0.000
+Bytes written to file: 127125 (476.719 kbps)
+sizeGeometryVideo: 127190
+****TileInfo***Summary******************
+frame 0 tile 0: (0,0) (1280x1280) patchCount:76 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 1 tile 0: (0,0) (1280x1280) patchCount:89 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 2 tile 0: (0,0) (1280x1280) patchCount:75 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 3 tile 0: (0,0) (1280x1280) patchCount:77 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 4 tile 0: (0,0) (1280x1280) patchCount:70 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 5 tile 0: (0,0) (1280x1280) patchCount:70 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 6 tile 0: (0,0) (1280x1280) patchCount:67 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 7 tile 0: (0,0) (1280x1280) patchCount:70 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 8 tile 0: (0,0) (1280x1280) patchCount:82 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 9 tile 0: (0,0) (1280x1280) patchCount:74 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 10 tile 0: (0,0) (1280x1280) patchCount:82 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 11 tile 0: (0,0) (1280x1280) patchCount:81 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 12 tile 0: (0,0) (1280x1280) patchCount:87 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 13 tile 0: (0,0) (1280x1280) patchCount:73 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 14 tile 0: (0,0) (1280x1280) patchCount:80 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 15 tile 0: (0,0) (1280x1280) patchCount:87 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 16 tile 0: (0,0) (1280x1280) patchCount:79 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 17 tile 0: (0,0) (1280x1280) patchCount:81 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 18 tile 0: (0,0) (1280x1280) patchCount:88 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 19 tile 0: (0,0) (1280x1280) patchCount:88 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 20 tile 0: (0,0) (1280x1280) patchCount:90 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 21 tile 0: (0,0) (1280x1280) patchCount:80 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 22 tile 0: (0,0) (1280x1280) patchCount:84 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 23 tile 0: (0,0) (1280x1280) patchCount:92 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 24 tile 0: (0,0) (1280x1280) patchCount:89 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 25 tile 0: (0,0) (1280x1280) patchCount:92 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 26 tile 0: (0,0) (1280x1280) patchCount:84 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 27 tile 0: (0,0) (1280x1280) patchCount:87 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 28 tile 0: (0,0) (1280x1280) patchCount:81 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 29 tile 0: (0,0) (1280x1280) patchCount:87 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 30 tile 0: (0,0) (1280x1280) patchCount:78 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+frame 31 tile 0: (0,0) (1280x1280) patchCount:82 regPoints:0, rawPatch:0 rawPoints:0 eomPatch:0 eomPoints:0
+*********************************************
+Alloc One layer deata 
+generatePointCloud pbfEnableFlag_ = 0 
+frame 0, tile 0: regularPoints 733825
+frame 0, tile 0: regularPoints+eomPoints 733825
+frame 0, tile 0: regularPoints+eomPoints+rawPoints 733825
+generatePointCloud pbfEnableFlag_ = 0 
+frame 1, tile 0: regularPoints 750354
+frame 1, tile 0: regularPoints+eomPoints 750354
+frame 1, tile 0: regularPoints+eomPoints+rawPoints 750354
+generatePointCloud pbfEnableFlag_ = 0 
+frame 2, tile 0: regularPoints 748650
+frame 2, tile 0: regularPoints+eomPoints 748650
+frame 2, tile 0: regularPoints+eomPoints+rawPoints 748650
+generatePointCloud pbfEnableFlag_ = 0 
+frame 3, tile 0: regularPoints 752482
+frame 3, tile 0: regularPoints+eomPoints 752482
+frame 3, tile 0: regularPoints+eomPoints+rawPoints 752482
+generatePointCloud pbfEnableFlag_ = 0 
+frame 4, tile 0: regularPoints 762642
+frame 4, tile 0: regularPoints+eomPoints 762642
+frame 4, tile 0: regularPoints+eomPoints+rawPoints 762642
+generatePointCloud pbfEnableFlag_ = 0 
+frame 5, tile 0: regularPoints 775576
+frame 5, tile 0: regularPoints+eomPoints 775576
+frame 5, tile 0: regularPoints+eomPoints+rawPoints 775576
+generatePointCloud pbfEnableFlag_ = 0 
+frame 6, tile 0: regularPoints 771512
+frame 6, tile 0: regularPoints+eomPoints 771512
+frame 6, tile 0: regularPoints+eomPoints+rawPoints 771512
+generatePointCloud pbfEnableFlag_ = 0 
+frame 7, tile 0: regularPoints 759588
+frame 7, tile 0: regularPoints+eomPoints 759588
+frame 7, tile 0: regularPoints+eomPoints+rawPoints 759588
+generatePointCloud pbfEnableFlag_ = 0 
+frame 8, tile 0: regularPoints 766683
+frame 8, tile 0: regularPoints+eomPoints 766683
+frame 8, tile 0: regularPoints+eomPoints+rawPoints 766683
+generatePointCloud pbfEnableFlag_ = 0 
+frame 9, tile 0: regularPoints 776224
+frame 9, tile 0: regularPoints+eomPoints 776224
+frame 9, tile 0: regularPoints+eomPoints+rawPoints 776224
+generatePointCloud pbfEnableFlag_ = 0 
+frame 10, tile 0: regularPoints 769359
+frame 10, tile 0: regularPoints+eomPoints 769359
+frame 10, tile 0: regularPoints+eomPoints+rawPoints 769359
+generatePointCloud pbfEnableFlag_ = 0 
+frame 11, tile 0: regularPoints 761391
+frame 11, tile 0: regularPoints+eomPoints 761391
+frame 11, tile 0: regularPoints+eomPoints+rawPoints 761391
+generatePointCloud pbfEnableFlag_ = 0 
+frame 12, tile 0: regularPoints 751220
+frame 12, tile 0: regularPoints+eomPoints 751220
+frame 12, tile 0: regularPoints+eomPoints+rawPoints 751220
+generatePointCloud pbfEnableFlag_ = 0 
+frame 13, tile 0: regularPoints 739273
+frame 13, tile 0: regularPoints+eomPoints 739273
+frame 13, tile 0: regularPoints+eomPoints+rawPoints 739273
+generatePointCloud pbfEnableFlag_ = 0 
+frame 14, tile 0: regularPoints 759977
+frame 14, tile 0: regularPoints+eomPoints 759977
+frame 14, tile 0: regularPoints+eomPoints+rawPoints 759977
+generatePointCloud pbfEnableFlag_ = 0 
+frame 15, tile 0: regularPoints 766845
+frame 15, tile 0: regularPoints+eomPoints 766845
+frame 15, tile 0: regularPoints+eomPoints+rawPoints 766845
+generatePointCloud pbfEnableFlag_ = 0 
+frame 16, tile 0: regularPoints 775075
+frame 16, tile 0: regularPoints+eomPoints 775075
+frame 16, tile 0: regularPoints+eomPoints+rawPoints 775075
+generatePointCloud pbfEnableFlag_ = 0 
+frame 17, tile 0: regularPoints 775745
+frame 17, tile 0: regularPoints+eomPoints 775745
+frame 17, tile 0: regularPoints+eomPoints+rawPoints 775745
+generatePointCloud pbfEnableFlag_ = 0 
+frame 18, tile 0: regularPoints 775134
+frame 18, tile 0: regularPoints+eomPoints 775134
+frame 18, tile 0: regularPoints+eomPoints+rawPoints 775134
+generatePointCloud pbfEnableFlag_ = 0 
+frame 19, tile 0: regularPoints 780584
+frame 19, tile 0: regularPoints+eomPoints 780584
+frame 19, tile 0: regularPoints+eomPoints+rawPoints 780584
+generatePointCloud pbfEnableFlag_ = 0 
+frame 20, tile 0: regularPoints 778512
+frame 20, tile 0: regularPoints+eomPoints 778512
+frame 20, tile 0: regularPoints+eomPoints+rawPoints 778512
+generatePointCloud pbfEnableFlag_ = 0 
+frame 21, tile 0: regularPoints 782388
+frame 21, tile 0: regularPoints+eomPoints 782388
+frame 21, tile 0: regularPoints+eomPoints+rawPoints 782388
+generatePointCloud pbfEnableFlag_ = 0 
+frame 22, tile 0: regularPoints 791784
+frame 22, tile 0: regularPoints+eomPoints 791784
+frame 22, tile 0: regularPoints+eomPoints+rawPoints 791784
+generatePointCloud pbfEnableFlag_ = 0 
+frame 23, tile 0: regularPoints 784827
+frame 23, tile 0: regularPoints+eomPoints 784827
+frame 23, tile 0: regularPoints+eomPoints+rawPoints 784827
+generatePointCloud pbfEnableFlag_ = 0 
+frame 24, tile 0: regularPoints 779207
+frame 24, tile 0: regularPoints+eomPoints 779207
+frame 24, tile 0: regularPoints+eomPoints+rawPoints 779207
+generatePointCloud pbfEnableFlag_ = 0 
+frame 25, tile 0: regularPoints 806215
+frame 25, tile 0: regularPoints+eomPoints 806215
+frame 25, tile 0: regularPoints+eomPoints+rawPoints 806215
+generatePointCloud pbfEnableFlag_ = 0 
+frame 26, tile 0: regularPoints 796770
+frame 26, tile 0: regularPoints+eomPoints 796770
+frame 26, tile 0: regularPoints+eomPoints+rawPoints 796770
+generatePointCloud pbfEnableFlag_ = 0 
+frame 27, tile 0: regularPoints 788548
+frame 27, tile 0: regularPoints+eomPoints 788548
+frame 27, tile 0: regularPoints+eomPoints+rawPoints 788548
+generatePointCloud pbfEnableFlag_ = 0 
+frame 28, tile 0: regularPoints 812703
+frame 28, tile 0: regularPoints+eomPoints 812703
+frame 28, tile 0: regularPoints+eomPoints+rawPoints 812703
+generatePointCloud pbfEnableFlag_ = 0 
+frame 29, tile 0: regularPoints 798279
+frame 29, tile 0: regularPoints+eomPoints 798279
+frame 29, tile 0: regularPoints+eomPoints+rawPoints 798279
+generatePointCloud pbfEnableFlag_ = 0 
+frame 30, tile 0: regularPoints 778231
+frame 30, tile 0: regularPoints+eomPoints 778231
+frame 30, tile 0: regularPoints+eomPoints+rawPoints 778231
+generatePointCloud pbfEnableFlag_ = 0 
+frame 31, tile 0: regularPoints 751804
+frame 31, tile 0: regularPoints+eomPoints 751804
+frame 31, tile 0: regularPoints+eomPoints+rawPoints 751804
+Attribute Coding starts
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+transferColors 
+Processing time (Padding [T0T1]0/32): 0.554 s
+Processing time (Padding [T0T1]1/32): 0.548 s
+Processing time (Padding [T0T1]2/32): 0.567 s
+Processing time (Padding [T0T1]3/32): 0.585 s
+Processing time (Padding [T0T1]4/32): 0.585 s
+Processing time (Padding [T0T1]5/32): 0.574 s
+Processing time (Padding [T0T1]6/32): 0.571 s
+Processing time (Padding [T0T1]7/32): 0.572 s
+Processing time (Padding [T0T1]8/32): 0.58 s
+Processing time (Padding [T0T1]9/32): 0.568 s
+Processing time (Padding [T0T1]10/32): 0.586 s
+Processing time (Padding [T0T1]11/32): 0.586 s
+Processing time (Padding [T0T1]12/32): 0.585 s
+Processing time (Padding [T0T1]13/32): 0.7 s
+Processing time (Padding [T0T1]14/32): 0.579 s
+Processing time (Padding [T0T1]15/32): 0.668 s
+Processing time (Padding [T0T1]16/32): 0.605 s
+Processing time (Padding [T0T1]17/32): 0.579 s
+Processing time (Padding [T0T1]18/32): 0.577 s
+Processing time (Padding [T0T1]19/32): 0.571 s
+Processing time (Padding [T0T1]20/32): 0.586 s
+Processing time (Padding [T0T1]21/32): 0.681 s
+Processing time (Padding [T0T1]22/32): 0.575 s
+Processing time (Padding [T0T1]23/32): 0.582 s
+Processing time (Padding [T0T1]24/32): 0.604 s
+Processing time (Padding [T0T1]25/32): 0.604 s
+Processing time (Padding [T0T1]26/32): 0.595 s
+Processing time (Padding [T0T1]27/32): 0.604 s
+Processing time (Padding [T0T1]28/32): 0.598 s
+Processing time (Padding [T0T1]29/32): 0.634 s
+Processing time (Padding [T0T1]30/32): 0.592 s
+Processing time (Padding [T0T1]31/32): 0.736 s
+attribute video 
+ColorConverter configuration : RGB444ToYUV420 bitdepth = 8 filter = 4 videoSrc 64 frames 
+Encode: video size = 1280 x 1280 num frames = 64 
+HMEncoder -c cfg/hm/ctc-hm-attribute-ai.cfg --InputFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_attribute_1280x1280_8bit_p420.yuv --InputBitDepth=8 --InputChromaFormat=420 --OutputBitDepth=8 --OutputBitDepthC=8 --FrameRate=30 --FrameSkip=0 --SourceWidth=1280 --SourceHeight=1280 --ConformanceWindowMode=1  --FramesToBeEncoded=64 --BitstreamFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_attribute.bin --ReconFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_attribute_rec_1280x1280_8bit_p420.yuv --QP=42 --InternalBitDepth=10 --InternalBitDepthC=10 --UsePccMotionEstimation=1 --BlockToPatchFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_blockToPatch.txt --OccupancyMapFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_occupancy.txt --PatchInfoFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_patchInfo.txt
+****************************************************************************
+** WARNING: --CUNoSplitIntraACT has been disabled                         **
+**  due to the disabling of --ColourTransform                             **
+****************************************************************************
+
+Input          File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_attribute_1280x1280_8bit_p420.yuv
+Bitstream      File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_attribute.bin
+Reconstruction File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_attribute_rec_1280x1280_8bit_p420.yuv
+PCCExt                                 : Enabled
+BlockToPatch   File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_blockToPatch.txt
+OccupancyMap   File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_occupancy.txt
+PatchInfo      File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/bin/longdress_GOF1_patchInfo.txt
+Real     Format                        : 1280x1280 30Hz
+Internal Format                        : 1280x1280 30Hz
+Sequence PSNR output                   : Linear average only
+Sequence MSE output                    : Disabled
+Frame MSE output                       : Disabled
+Print Clipped PSNR                     : Disabled
+MS-SSIM output                         : Disabled
+xPSNR calculation                      : Disabled
+Cabac-zero-word-padding                : Enabled
+Frame/Field                            : Frame based coding
+Frame index                            : 0 - 63 (64 frames)
+Profile                                : main10
+CU size / depth / total-depth          : 64 / 4 / 4
+RQT trans. size (min / max)            : 4 / 32
+Max RQT depth inter                    : 3
+Max RQT depth intra                    : 3
+Min PCM size                           : 8
+Motion search range                    : 64
+Intra period                           : -1
+Decoding refresh type                  : 2
+QP                                     : 42
+Max dQP signaling depth                : 0
+Cb QP Offset                           : 0
+Cr QP Offset                           : 0
+QP adaptation                          : 0 (range=0)
+GOP size                               : 2
+Input bit depth                        : (Y:8, C:8)
+MSB-extended bit depth                 : (Y:8, C:8)
+Internal bit depth                     : (Y:10, C:10)
+PCM sample bit depth                   : (Y:8, C:8)
+Intra reference smoothing              : Enabled
+diff_cu_chroma_qp_offset_depth         : -1
+extended_precision_processing_flag     : Disabled
+implicit_rdpcm_enabled_flag            : Disabled
+explicit_rdpcm_enabled_flag            : Disabled
+transform_skip_rotation_enabled_flag   : Disabled
+transform_skip_context_enabled_flag    : Disabled
+cross_component_prediction_enabled_flag: Disabled
+high_precision_offsets_enabled_flag    : Disabled
+persistent_rice_adaptation_enabled_flag: Disabled
+cabac_bypass_alignment_enabled_flag    : Disabled
+Intra block copying                    : Disabled
+Adaptive colour transform              : Disabled
+Palette mode                           : Disabled
+log2_sao_offset_scale_luma             : 0
+log2_sao_offset_scale_chroma           : 0
+Cost function:                         : Lossy coding (default)
+Motion Estimation                      : Diamond search
+HashME                                 : 0
+RateControl                            : 0
+WPMethod                               : 0
+Max Num Merge Candidates               : 5
+
+TOOL CFG: IBD:1 HAD:1 RDQ:1 RDQTS:1 RDpenalty:0 LQP:0 SQP:0 ASR:0 MinSearchWindow:8 RestrictMESampling:0 FEN:1 ECU:0 FDM:1 CFM:0 ESD:0 RQT:1 TransformSkip:1 TransformSkipFast:1 TransformSkipLog2MaxSize:2 Slice: M=0 SliceSegment: M=0 CIP:0 SAO:1 PCM:0 TransQuantBypassEnabled:0 WPP:0 WPB:0 PME:2  WaveFrontSynchro:0 WaveFrontSubstreams:1 ScalingList:0 TMVPMode:1 AQpS:0 SignBitHidingFlag:1 RecalQP:0TransQuantBypassInferTUSplit:0 CUNoSplitIntraACT:0  MvResControl:0
+
+
+Reading the aux info files
+                   Input ChromaFormatIDC =   4:2:0
+       Output (internal) ChromaFormatIDC =   4:2:0
+
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    0 TId: 0 ( I-SLICE, nQP 42 QP 42 )      90112 bits [Y 32.9116 dB    U 37.8207 dB    V 37.4670 dB] [ET     7 ] [L0 ] [L1 ] [MD5:a643221e2ea41ab79a8c0b19502d4111,255922cd5a80c97d0419b9cffd44825b,0e801d3f4a99bdbc56ba734c7f1dc1d6]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    1 TId: 0 ( P-SLICE, nQP 45 QP 45 )        448 bits [Y 32.8167 dB    U 37.8342 dB    V 37.4618 dB] [ET     8 ] [L0 0 ] [L1 ] [MD5:b48b3da837d6c8e97469aa7587059c00,f76b2fb47329892d76d2a95dce314581,1c63c3a88d96cc612aa48a8aaa9ad5b9]
+POC    2 TId: 0 ( I-SLICE, nQP 42 QP 42 )      89688 bits [Y 32.8675 dB    U 37.8943 dB    V 37.4111 dB] [ET     7 ] [L0 ] [L1 ] [MD5:0295602e9a511095b41d2b4b43e35bbd,81ef816035473960fb856b0d7f403156,f992ba5ff18ac2a8e1acfbca28224e6e]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    3 TId: 0 ( P-SLICE, nQP 45 QP 45 )        488 bits [Y 32.7846 dB    U 37.8986 dB    V 37.4125 dB] [ET     8 ] [L0 2 ] [L1 ] [MD5:6e92e74256d0f13d1483cdd6e0971152,584bb91e8251a96d2b86d58ea368ecbf,0b866e240ead527b1037a3a588cb7b1e]
+POC    4 TId: 0 ( I-SLICE, nQP 42 QP 42 )      91000 bits [Y 32.8332 dB    U 37.7448 dB    V 37.3755 dB] [ET     6 ] [L0 ] [L1 ] [MD5:ac1cb9632c468030b8249008bcbeaeac,63edbe1215725eb3fb3aa2397cb3b0fe,83f4bb44846182e92d71bd63578b274a]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    5 TId: 0 ( P-SLICE, nQP 45 QP 45 )        488 bits [Y 32.7185 dB    U 37.7436 dB    V 37.3433 dB] [ET     8 ] [L0 4 ] [L1 ] [MD5:dd86653bb608666b8ca60732c8800491,5585d6d51704f1e7ee4a92126fc3b30c,f17f07ccc6316d41de73ae39a840c228]
+POC    6 TId: 0 ( I-SLICE, nQP 42 QP 42 )      91200 bits [Y 32.7494 dB    U 37.7921 dB    V 37.2577 dB] [ET     7 ] [L0 ] [L1 ] [MD5:abe038f5a3043e4541115219dae95e0f,920abb98bb537b0750621202a567c33d,192235879ccdcee793ed94ca5290eea7]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    7 TId: 0 ( P-SLICE, nQP 45 QP 45 )        608 bits [Y 32.6570 dB    U 37.7958 dB    V 37.2352 dB] [ET     9 ] [L0 6 ] [L1 ] [MD5:15defaadb892f0f04518ac5d187bff62,a8c7f0eafdf55513a1d300fecfefdd05,84a3d8bfce1a8e58cec5424ad141015a]
+POC    8 TId: 0 ( I-SLICE, nQP 42 QP 42 )      90376 bits [Y 32.7159 dB    U 37.7916 dB    V 37.3116 dB] [ET     6 ] [L0 ] [L1 ] [MD5:e8642f21aff7ae0c96181859fb452222,20de7d6fd0e79d16128d5a5ec8e43c84,18252c339bbde43a04722178cbd6fb76]
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+copy image from PCC: Shift = 2 (1280x1280 => 1280x1280 S=1440 C:  640x 640 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    9 TId: 0 ( P-SLICE, nQP 45 QP 45 )        464 bits [Y 32.6350 dB    U 37.8017 dB    V 37.3102 dB] [ET     8 ] [L0 8 ] [L1 ] [MD5:a00d780b636b72d1b2d592b06e1b6c78,b706546ed86a5d63732f468ee63d04e2,c8af5af9b6a30604350e003c7b4b5ee8]
