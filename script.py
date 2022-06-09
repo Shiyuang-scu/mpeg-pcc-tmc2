@@ -1,3 +1,8 @@
+# TODO
+# update datasets.yml to the linux version folder
+# modify the computeHausdorff_ to True in /Users/seunoboru/Downloads/mpeg-pcc-tmc2/source/lib/PccLibMetrics/source/PCCMetricsParameters.cpp, and update the file to the linux version folder
+
+
 from base64 import encode
 import time
 import subprocess
@@ -6,8 +11,10 @@ from pathlib import Path
 import logging
 import yaml
 from functools import partial
-from multiprocessing import Pool, Manager
+from multiprocessing import Pool
 from tqdm import tqdm
+import open3d as o3d
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -167,7 +174,32 @@ class VPCC:
 
         self.nbprocesses = None
 
+    def _set_filepath(self, exp_dir, nor_dir):
+        """Set up the experiment file paths, including encoded binary, 
+        decoded point cloud, and evaluation log.
+        
+        Parameters
+        ----------
+        exp_dir : `Union[str, Path]`
+            The directory to store experiments results.
+        
+        """
+        bin_file = (
+            Path(exp_dir)
+            .joinpath('bin', self.ds_name).with_suffix(self._algs_cfg['bin_suffix'])
+        )
+        out_file = Path(exp_dir).joinpath('dec', '%04d.ply')
+        evl_log = Path(exp_dir).joinpath('evl', self.ds_name).with_suffix('.log')
 
+        bin_file.parent.mkdir(parents=True, exist_ok=True)
+        out_file.parent.mkdir(parents=True, exist_ok=True)
+        evl_log.parent.mkdir(parents=True, exist_ok=True)
+
+
+        nor_file = Path(nor_dir).joinpath(f'{self.ds_name}_vox10_%04d.ply')
+
+
+        return (str(bin_file), str(out_file), str(evl_log), str(nor_file))
 
     def encode_and_decode(self, enc_cmd, dec_cmd):
 
@@ -181,15 +213,15 @@ class VPCC:
 
             # 1. execute command and record time
             start_time = time.time()
-            #output = subprocess.run(cmd, capture_output=True, text=True)
+            # output = subprocess.run(cmd, capture_output=True, text=True)
             _ = subprocess.run(cmd)
             end_time = time.time()
             
-             # 2. record the output information
-            #timestamp = datetime.datetime.now().strftime('%Y%m%d_%H:%M:%S')
-            #log_file = (Path(__file__).parents[0].joinpath(f'logs/execute_cmd_{timestamp}.log'))
-            #with open(log_file, 'w') as f:
-            #    f.write(output.stdout)
+            # # 2. record the output information
+            # timestamp = datetime.datetime.now().strftime('%Y%m%d_%H:%M:%S')
+            # log_file = (Path(__file__).parents[0].joinpath(f'logs/execute_cmd_{timestamp}.log'))
+            # with open(log_file, 'w') as f:
+            #     f.write(output.stdout)
 
         except subprocess.CalledProcessError as e:
             timestamp = datetime.datetime.now().strftime('%Y%m%d_%H:%M:%S')
@@ -247,19 +279,27 @@ class VPCC:
             f'--videoDecoderGeometryPath={self._algs_cfg["videoDecoder"]}',
             f'--videoDecoderAttributePath={self._algs_cfg["videoDecoder"]}',
             f'--inverseColorSpaceConversionConfig={self._algs_cfg["inverseColorSpaceConversionConfig"]}',
+            f'--startFrameNumber={self._ds_cfg[self.ds_name]["startFrameNumber"]}'
             '--computeMetrics=0',
             '--computeChecksum=0'
         ]
         return cmd
 
-    def evaluate(self):
-        pass
+    def _evaluate_and_log(self, ref_path, out_path, bin_file, evl_log, enc_time, dec_time):
+        
+        startFrameNumber = self._ds_cfg[self.ds_name]["startFrameNumber"]
+
+        evaluator = Evaluator(ref_path, out_path, startFrameNumber, bin_file, enc_time, dec_time)
+        eva_result = evaluator.evaluate()
+        
+        with open(evl_log, 'w') as f:
+            f.write(eva_result)
 
 
     def _run_process(self, src_dir, nor_dir, exp_dir):
         
-        bin_file, out_file, evl_dir = (
-            self._set_filepath(exp_dir)
+        bin_file, out_file, evl_log, nor_file = (
+            self._set_filepath(exp_dir, nor_dir)
         )
 
         enc_cmd = self.make_encode_cmd(src_dir, bin_file)
@@ -269,7 +309,9 @@ class VPCC:
         encode_time, decode_time = self.encode_and_decode(enc_cmd, dec_cmd)
 
         # # 2. evaluate the results
-        # self.evaluate(nor_pcfile, out_pc_file, bin_file, evl_dir, encode_time, decode_time)
+        # out_dir = Path(out_file).parent
+        self._evaluate_and_log(nor_file, out_file, bin_file, evl_log, encode_time, decode_time)
+
 
     def run_experiment(self):
         
@@ -289,10 +331,6 @@ class VPCC:
             f"with {type(self).__name__} in {exp_dir}"
         )
 
-        self._run_process(src_dir=src_dir, 
-                        nor_dir=src_dir, 
-                        exp_dir=exp_dir)
-
         # prun = partial(
         #     self._run_process,
         #     src_dir = src_dir, 
@@ -302,48 +340,264 @@ class VPCC:
         
         # parallel(prun, self.pc_files, self.nbprocesses)
 
+        self._run_process(src_dir=src_dir, 
+                nor_dir=src_dir, 
+                exp_dir=exp_dir)
 
-    def _set_filepath(self, exp_dir):
-        """Set up the experiment file paths, including encoded binary, 
-        decoded point cloud, and evaluation log.
+
+class Evaluator:
+    def __init__(self, src_path, out_path, startFrameNumber, bin_file, enc_time, dec_time,):
+        self._ref_path = src_path
+        self._target_path = out_path
+
+        # self._ref_files = sorted([str(f) for f in self._ref_dir.iterdir() if f.is_file()])
+        # self._target_files = sorted([str(f) for f in self._target_dir.iterdir() if f.is_file()])
+
+        self._bin_file = Path(bin_file) if bin_file else None
+        self._enc_t = enc_time
+        self._dec_t = dec_time
+        self._startFrameNumber = startFrameNumber
+        self._results = ''
+
+        # self.ref_pc_size = 0
+
+    def evaluate(self):
+
+        # 1. log metrics result
+        # file size of reference point cloud in `kB`
+        # self.ref_pc_size += (Path(self._ref_pc).stat().st_size / 1000)
+
+        # ProjMetrics = ProjectionBasedMetrics(self._ref_pc, self._target_pc, self._o3d_vis)
+        PointMetrics = PointBasedMetrics(self._ref_path, self._target_path, self._startFrameNumber)
+        
+        # self._results += ProjMetrics.evaluate()
+        self._results += PointMetrics.evaluate()
+        
+        # 2. log running time, file size, and bitrate
+        self._log_running_time_and_bitrate()
+        
+        return self._results
+
+    def _log_running_time_and_bitrate(self) -> None:
+        """Log running time (encoding and decoding) and encoded 
+        binary size.
+        """
+        
+        # check if binary file is initialized in constructor
+        if self._bin_file:
+            # file size of compressed binary file in `kB`
+            bin_size = Path(self._bin_file).stat().st_size / 1000
+            # compression_ratio = bin_size / ref_pc_size  # kB
+            kbps = (bin_size) / 10 # 10 seconds
+        else:
+            bin_size = compression_ratio = kbps = -1
+
+        # check if running time is initialized in constructor
+        if self._enc_t and self._dec_t:
+            enc_t = f"{self._enc_t:0.4f}"
+            dec_t = f"{self._dec_t:0.4f}"
+        else:
+            enc_t = dec_t = -1
+
+        lines = [
+            f"========== Time & Binary Size ==========",
+            f"Encoding time (s)           : {enc_t}",
+            f"Decoding time (s)           : {dec_t}",
+            # f"Source point cloud size (kB): {ref_pc_size}",
+            f"Total binary files size (kB): {bin_size}",
+            # f"Compression ratio           : {compression_ratio}",
+            f"kbps (kb per second)        : {kbps}",
+            "\n",
+        ]
+        lines = '\n'.join(lines)
+
+        self._results += lines
+
+
+
+class PointBasedMetrics:
+    """Class for evaluating view independent metrics of given point 
+    clouds.
+    
+    View Independent Metrics:
+        ACD (1->2), ACD (2->1),
+        CD,
+        CD-PSNR,
+        Hausdorff,
+        Y-CPSNR, U-CPSNR, V-CPSNR,
+        Hybrid geo-color
+    """
+    
+    def __init__(self, ref_path, target_path, startFrameNumber):
+        
+        self._ref_path = ref_path
+        self._target_path = target_path
+        self._startFrameNumber = startFrameNumber
+
+        self._results = []
+
+        self.frameCount = len(list(Path(self._target_path).parents[0].iterdir()))
+
+        self.METRIC = (
+            Path(__file__).parents[0].
+            joinpath("bin/PccAppMetrics")
+            .resolve()
+        )
+
+    def evaluate(self) -> str:
+        """Run the evaluation and generate the formatted evaluation 
+        results.
         
         Parameters
         ----------
-        pcfile : `Union[str, Path]`
-            The relative path of input point cloud.
-        src_dir : `Union[str, Path]`
-            The directory of input point cloud.
-        nor_dir : `Union[str, Path]`
-            The directory of input point cloud with normal. (Necessary 
-            for p2plane metrics.)
-        exp_dir : `Union[str, Path]`
-            The directory to store experiments results.
+        ref_pc : `Union[str, Path]`
+            Full path of the reference point cloud. Use point cloud with
+            normal to calculate the p2plane metrics.
+        target_pc : `Union[str, Path]`
+            Full path of the target point.
+        color : `bool`, optional
+            True for calculating color metric, false otherwise. Defaults
+            to false.
+        resolution : `int`, optional
+            Maximum NN distance of the ``ref_pc``. If the resolution is 
+            not specified, it will be calculated on the fly. Defaults to
+            None.
+        enc_t : `float`, optional
+            Total encoding time. Defaults to None.
+        dec_t : `float`, optional
+            Total decoding time. Defaults to None.
+        bin_files : `List[Union[str, Path]]`, optional
+            List of the full path of the encoded binary file. Used for 
+            calculate the compression ratio and bpp.
         
         Returns
         -------
-        `Tuple[str, str, str, str, str]`
-            The full path of input point cloud, input point cloud with 
-            normal, encoded binary file, output point cloud, and 
-            evaluation log file.
+        `str`
+            The formatted evaluation results.
         """
-        bin_file = (
-            Path(exp_dir)
-            .joinpath('bin', self.ds_name).with_suffix(self._algs_cfg['bin_suffix'])
-        )
-        out_file = Path(exp_dir).joinpath('dec', '%04d.ply')
-        evl_log = Path(exp_dir).joinpath('evl', self.ds_name).with_suffix('.log')
         
-        bin_file.parent.mkdir(parents=True, exist_ok=True)
-        out_file.parent.mkdir(parents=True, exist_ok=True)
-        evl_log.parent.mkdir(parents=True, exist_ok=True)
+        self._get_quality_metrics()
+        
+        # ret = '\n'.join(self._results)
+        ret = self._results
+        
+        return ret
 
-        return (str(bin_file), str(out_file), str(evl_log))
+    def _get_quality_metrics(self)-> None:
+        """Calculate and parse the results of quality metrics from
+        pc_error.
+        """
+        ret = self._metric_wrapper()
 
+        # # Related to source code starting from `evaluator/dependencies
+        # # /mpeg-pcc-dmetric-master/source/pcc_distortion.cpp:826`
+        # chosen_metrics = [
+        #     'ACD1      (p2point): ',
+        #     'ACD2      (p2point): ',
+        #     'CD        (p2point): ',
+        #     'CD,PSNR   (p2point): ',
+        #     'h.        (p2point): ',
+        #     'ACD1      (p2plane): ',
+        #     'ACD2      (p2plane): ',
+        #     'CD        (p2plane): ',
+        #     'CD,PSNR   (p2plane): ',
+        #     'h.        (p2plane): ',
+        # ]
+        # if self._has_color:
+        #     chosen_metrics += [
+        #         'c[0],PSNRF         : ',
+        #         'c[1],PSNRF         : ',
+        #         'c[2],PSNRF         : ',
+        #         'hybrid geo-color   : ',
+        #     ]
+
+        # chosen_metrics = [re.escape(pattern) for pattern in chosen_metrics]
+
+        # found_val = []
+
+        # for pattern in chosen_metrics:
+        #     isfound = False
+        #     for line in ret.splitlines():
+        #         m = re.search(f'(?<={pattern}).*', line)
+        #         if m:
+        #             found_val.append(m.group())
+        #             isfound = True
+        #             break
+        #     if isfound is False:
+        #         found_val.append('nan')
+
+        # assert len(found_val) == len(chosen_metrics)
+
+        # lines = [
+        #     f"========== Point-based Metrics =========",
+        #     f"Asym. Chamfer dist. (1->2) p2pt: {found_val[0]}",
+        #     f"Asym. Chamfer dist. (2->1) p2pt: {found_val[1]}",
+        #     f"Chamfer dist.              p2pt: {found_val[2]}",
+        #     f"CD-PSNR (dB)               p2pt: {found_val[3]}",
+        #     f"Hausdorff distance         p2pt: {found_val[4]}",
+        #     "\n",
+        # ]
+        # if self._has_normal:
+        #     lines += [
+        #         f"----------------------------------------",
+        #         f"Asym. Chamfer dist. (1->2) p2pl: {found_val[5]}",
+        #         f"Asym. Chamfer dist. (2->1) p2pl: {found_val[6]}",
+        #         f"Chamfer dist.              p2pl: {found_val[7]}",
+        #         f"CD-PSNR (dB)               p2pl: {found_val[8]}",
+        #         f"Hausdorff distance         p2pl: {found_val[9]}",
+        #         "\n",
+        #     ]
+        # if self._has_color:
+        #     lines += [
+        #         f"----------------------------------------",
+        #         f"Y-CPSNR (dB)                   : {found_val[10]}",
+        #         f"U-CPSNR (dB)                   : {found_val[11]}",
+        #         f"V-CPSNR (dB)                   : {found_val[12]}",
+        #         "\n",
+        #     ]
+        # if self._has_color and self._has_normal:
+        #     lines += [
+        #         f"============== QoE Metric ==============",
+        #         f"Hybrid geo-color               : {found_val[13]}",
+        #         "\n",
+        #     ]
+
+        # self._results += lines
+        self._results += ret
+
+    def _metric_wrapper(self) -> str:
+        """Wrapper of the metric software, which modifies the formulas 
+        and adds new metrics based on mpeg-pcc-dmetric.
+
+        Returns
+        -------
+        `str`
+            The result of objective quality metrics.
+        """
+
+
+        # $METRIC \
+        #   --uncompressedDataPath=${SRCDIR}8iVFBv2/soldier/Ply/soldier_vox10_%04d.ply \
+        #   --startFrameNumber=536 \
+        #   --frameCount=2 \
+        #   --nbThread=$THREAD \
+        #   --reconstructedDataPath=${BIN%.???}_dec_%04d.ply
+        cmd = [
+            self.METRIC,
+            f'--uncompressedDataPath={self._ref_path}',
+            f'--reconstructedDataPath={self._target_path}',
+            f'--frameCount={self.frameCount}',
+            f'--startFrameNumber={self._startFrameNumber}'
+        ]
+
+        ret = subprocess.run(cmd, capture_output=True, universal_newlines=True)
+
+        return ret.stdout
 
 
 if __name__ == '__main__':
 
-    dataset_name = '8i_longdress'
+    dataset_name = 'longdress'
     vpcc = VPCC(dataset_name)
 
     # for rate in range(5):
