@@ -54,7 +54,7 @@ PCCMetricsParameters::PCCMetricsParameters() {
   computeColor_           = true;
   computeLidar_           = false;
   computeReflectance_     = false;
-  computeHausdorff_       = false;
+  computeHausdorff_       = true;
 }
 
 PCCMetricsParameters::~PCCMetricsParameters() = default;
