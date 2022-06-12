@@ -15,6 +15,8 @@ from functools import partial
 from multiprocessing import Pool
 from tqdm import tqdm
 import re
+import os
+import open3d as o3d
 
 logger = logging.getLogger(__name__)
 
@@ -285,6 +287,56 @@ class VPCC:
         ]
         return cmd
 
+    def _rand_down_samp_pcd(self, absolute_path, sample_rate):
+        """
+        perform random downsampling on point cloud data file (.ply).
+        
+        :param absolute_path: absolute path of point cloud data file
+        :param sample_rate: scale ratio of random downsampling
+        """
+
+        pcd = o3d.io.read_point_cloud(absolute_path)
+        down_pcd = pcd.random_down_sample(float(sample_rate))
+
+        return down_pcd
+
+    def _save_down_pcd(self, down_pcd, absolute_path):
+        """
+        save the downsampled point cloud data file (.ply).
+        
+        :param down_pcd: downsampled point cloud data file
+        :param absolute_path: absolute path of point cloud data file
+        """
+
+        o3d.io.write_point_cloud(absolute_path, down_pcd, write_ascii=True)
+
+    def _downsampling(self, src_root, scale_ratio):
+        output_dir = Path(src_root).joinpath('down_Ply', scale_ratio)
+        input_dir = str(Path(src_root).joinpath('Ply'))+'/'
+
+        if output_dir.is_dir():
+            pass
+        else:
+            output_dir.mkdir(parents=True, exist_ok=True)
+
+            for idx, filename in enumerate(os.listdir(input_dir)):
+                if idx % 50 == 0:
+                    print(f"Already processed {idx} files")
+                if filename.endswith(".ply"): 
+                    # 1. random downsampling
+                    input_path = os.path.join(input_dir, filename)
+                    down_pcd = self._rand_down_samp_pcd(input_path, scale_ratio)
+                    output_path = str(output_dir.joinpath(filename))
+                    self._save_down_pcd(down_pcd, output_path)
+
+                    # 2. change the data format
+                    with open(output_path, 'r') as f:
+                        filedata = f.read()
+                    filedata = filedata.replace(' double', ' float')
+                    with open(output_path, 'w') as f:
+                        f.write(filedata)
+
+
     def _evaluate_and_log(self, ref_path, out_path, bin_file, evl_log, enc_time, dec_time):
         
         startFrameNumber = self._ds_cfg[self.ds_name]["startFrameNumber"]
@@ -312,19 +364,23 @@ class VPCC:
     def run_experiment(self):
 
         is_downsamp = self._algs_cfg['is_downsampling']
-        src_dir = self._ds_cfg[self.ds_name]['dataset_dir']
+        src_root = self._ds_cfg[self.ds_name]['dataset_dir']
         
         # downsampling with specific scale ratio
         if is_downsamp:
+            # set filepath
             scale_ratio = str(self._algs_cfg['scale_ratio'])
-            src_dir = str(Path(src_dir).joinpath('down_Ply', scale_ratio))+'/'
+            src_dir = str(Path(src_root).joinpath('down_Ply', scale_ratio))+'/'
             exp_dir = (
                 Path('exps')
                 .joinpath(f'{type(self).__name__}/{self.ds_name}/{self.rate}/{scale_ratio}/')
                 .resolve()
             )
+            # perform downsampling
+            self._downsampling(src_root, scale_ratio)
+
         else:
-            src_dir = str(Path(src_dir).joinpath('Ply'))+'/'
+            src_dir = str(Path(src_root).joinpath('Ply'))+'/'
             exp_dir = (
                 Path('exps')
                 .joinpath(f'{type(self).__name__}/{self.ds_name}/{self.rate}/')
@@ -559,6 +615,9 @@ class PointBasedMetrics:
 
 
 if __name__ == '__main__':
+
+    # temporarily applied to downsampling the files in linux server
+
 
     dataset_name = 'longdress'
     vpcc = VPCC(dataset_name)
