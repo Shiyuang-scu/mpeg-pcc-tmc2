@@ -3860,3 +3860,492 @@ Compressing 0 frames 1051 -> 1083...
 [done]
 
 ============= FRAME 31 ============= 
+  Computing normals for original point cloud... [done]
+  Computing initial segmentation... [done]
+  Refining segmentation (grid-based)... [done]
+  Patch segmentation... 
+	 Computing adjacency info... [done]
+
+	 Extracting patches... 161347
+		 CC 0 -> 43535
+		 CC 1 -> 30431
+		 CC 2 -> 804
+		 CC 3 -> 40314
+		 CC 4 -> 365
+		 CC 5 -> 433
+		 CC 6 -> 34543
+		 CC 7 -> 247
+		 CC 8 -> 223
+		 CC 9 -> 703
+		 CC 10 -> 603
+		 CC 11 -> 1990
+		 CC 12 -> 840
+		 CC 13 -> 16
+		 CC 14 -> 20
+		 CC 15 -> 1567
+		 CC 16 -> 799
+		 CC 17 -> 3888
+ # CC 18
+		 Patch 0 ->(d1,u1,v1)=( 128 , 190 , 13 )(dd,du,dv)=( 191 , 298 , 969 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 1 ->(d1,u1,v1)=( 128 , 156 , 92 )(dd,du,dv)=( 191 , 238 , 886 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 2 ->(d1,u1,v1)=( 0 , 373 , 228 )(dd,du,dv)=( 63 , 98 , 74 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 3 ->(d1,u1,v1)=( 512 , 179 , 9 )(dd,du,dv)=( 191 , 335 , 969 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 4 ->(d1,u1,v1)=( 64 , 398 , 230 )(dd,du,dv)=( 63 , 37 , 42 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 5 ->(d1,u1,v1)=( 64 , 374 , 255 )(dd,du,dv)=( 63 , 42 , 52 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 6 ->(d1,u1,v1)=( 576 , 169 , 10 )(dd,du,dv)=( 191 , 273 , 951 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 7 ->(d1,u1,v1)=( 320 , 169 , 240 )(dd,du,dv)=( 63 , 20 , 90 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 8 ->(d1,u1,v1)=( 128 , 299 , 314 )(dd,du,dv)=( 63 , 12 , 49 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 9 ->(d1,u1,v1)=( 256 , 414 , 9 )(dd,du,dv)=( 63 , 59 , 86 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 10 ->(d1,u1,v1)=( 384 , 281 , 18 )(dd,du,dv)=( 63 , 41 , 78 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 11 ->(d1,u1,v1)=( 384 , 266 , 184 )(dd,du,dv)=( 127 , 120 , 118 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 12 ->(d1,u1,v1)=( 512 , 216 , 169 )(dd,du,dv)=( 127 , 97 , 57 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 13 ->(d1,u1,v1)=( 256 , 216 , 659 )(dd,du,dv)=( 63 , 8 , 5 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 14 ->(d1,u1,v1)=( 256 , 224 , 973 )(dd,du,dv)=( 63 , 7 , 8 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 15 ->(d1,u1,v1)=( 1024 , 311 , 222 )(dd,du,dv)=( 127 , 95 , 63 ),Normal: 1 Direction: 1 EOM: 0
+		 Patch 16 ->(d1,u1,v1)=( 448 , 314 , 550 )(dd,du,dv)=( 127 , 68 , 52 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 17 ->(d1,u1,v1)=( 576 , 383 , 306 )(dd,du,dv)=( 127 , 125 , 142 ),Normal: 1 Direction: 0 EOM: 0
+ # patches 18
+ # resampled 269696
+ # raw points 12874
+		 CC 0 -> 829
+		 CC 1 -> 74
+		 CC 2 -> 6138
+		 CC 3 -> 364
+		 CC 4 -> 17
+		 CC 5 -> 23
+		 CC 6 -> 18
+		 CC 7 -> 32
+		 CC 8 -> 23
+		 CC 9 -> 1288
+		 CC 10 -> 30
+		 CC 11 -> 31
+		 CC 12 -> 21
+		 CC 13 -> 55
+		 CC 14 -> 311
+		 CC 15 -> 1721
+		 CC 16 -> 82
+		 CC 17 -> 17
+		 CC 18 -> 58
+		 CC 19 -> 126
+		 CC 20 -> 48
+		 CC 21 -> 182
+		 CC 22 -> 16
+		 CC 23 -> 43
+		 CC 24 -> 614
+ # CC 25
+		 Patch 18 ->(d1,u1,v1)=( 320 , 302 , 12 )(dd,du,dv)=( 127 , 104 , 89 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 19 ->(d1,u1,v1)=( 192 , 296 , 93 )(dd,du,dv)=( 63 , 22 , 7 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 20 ->(d1,u1,v1)=( 320 , 278 , 114 )(dd,du,dv)=( 127 , 149 , 416 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 21 ->(d1,u1,v1)=( 128 , 385 , 405 )(dd,du,dv)=( 127 , 30 , 93 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 22 ->(d1,u1,v1)=( 320 , 364 , 92 )(dd,du,dv)=( 63 , 14 , 4 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 23 ->(d1,u1,v1)=( 448 , 259 , 128 )(dd,du,dv)=( 63 , 8 , 9 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 24 ->(d1,u1,v1)=( 512 , 290 , 178 )(dd,du,dv)=( 63 , 10 , 7 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 25 ->(d1,u1,v1)=( 320 , 467 , 281 )(dd,du,dv)=( 63 , 12 , 18 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 26 ->(d1,u1,v1)=( 320 , 477 , 302 )(dd,du,dv)=( 63 , 8 , 13 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 27 ->(d1,u1,v1)=( 320 , 264 , 366 )(dd,du,dv)=( 127 , 89 , 92 ),Normal: 2 Direction: 0 EOM: 0
+		 Patch 28 ->(d1,u1,v1)=( 320 , 403 , 361 )(dd,du,dv)=( 63 , 7 , 9 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 29 ->(d1,u1,v1)=( 512 , 276 , 388 )(dd,du,dv)=( 63 , 11 , 25 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 30 ->(d1,u1,v1)=( 512 , 271 , 424 )(dd,du,dv)=( 63 , 10 , 22 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 31 ->(d1,u1,v1)=( 512 , 269 , 447 )(dd,du,dv)=( 63 , 7 , 42 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 32 ->(d1,u1,v1)=( 192 , 215 , 618 )(dd,du,dv)=( 63 , 57 , 64 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 33 ->(d1,u1,v1)=( 320 , 179 , 607 )(dd,du,dv)=( 127 , 93 , 159 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 34 ->(d1,u1,v1)=( 128 , 308 , 543 )(dd,du,dv)=( 63 , 21 , 33 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 35 ->(d1,u1,v1)=( 448 , 217 , 542 )(dd,du,dv)=( 63 , 6 , 10 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 36 ->(d1,u1,v1)=( 512 , 226 , 539 )(dd,du,dv)=( 127 , 6 , 31 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 37 ->(d1,u1,v1)=( 448 , 239 , 842 )(dd,du,dv)=( 127 , 42 , 18 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 38 ->(d1,u1,v1)=( 512 , 327 , 628 )(dd,du,dv)=( 63 , 22 , 6 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 39 ->(d1,u1,v1)=( 576 , 450 , 368 )(dd,du,dv)=( 127 , 29 , 57 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 40 ->(d1,u1,v1)=( 512 , 361 , 645 )(dd,du,dv)=( 63 , 4 , 5 ),Normal: 2 Direction: 1 EOM: 0
+		 Patch 41 ->(d1,u1,v1)=( 576 , 467 , 424 )(dd,du,dv)=( 127 , 14 , 13 ),Normal: 1 Direction: 0 EOM: 0
+		 Patch 42 ->(d1,u1,v1)=( 384 , 339 , 856 )(dd,du,dv)=( 127 , 48 , 52 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 43
+ # resampled 291532
+ # raw points 1005
+		 CC 0 -> 29
+		 CC 1 -> 72
+		 CC 2 -> 27
+ # CC 3
+		 Patch 43 ->(d1,u1,v1)=( 192 , 394 , 445 )(dd,du,dv)=( 63 , 7 , 25 ),Normal: 0 Direction: 0 EOM: 0
+		 Patch 44 ->(d1,u1,v1)=( 320 , 363 , 859 )(dd,du,dv)=( 63 , 11 , 28 ),Normal: 0 Direction: 1 EOM: 0
+		 Patch 45 ->(d1,u1,v1)=( 320 , 379 , 871 )(dd,du,dv)=( 63 , 8 , 17 ),Normal: 0 Direction: 1 EOM: 0
+ # patches 46
+ # resampled 291736
+ # raw points 881
+ # CC 0
+[done]
+CODEC ID SET = geometry: 1 occupancy: 1  attributes[0]1 
+frame 0 tile 0 packFlexible: actualImageSize 1280 x 976
+frame 1 tile 0 packFlexible: actualImageSize 1280 x 832
+frame 2 tile 0 packFlexible: actualImageSize 1280 x 832
+frame 3 tile 0 packFlexible: actualImageSize 1280 x 832
+frame 4 tile 0 packFlexible: actualImageSize 1280 x 944
+frame 5 tile 0 packFlexible: actualImageSize 1280 x 1296
+frame 6 tile 0 packFlexible: actualImageSize 1280 x 1328
+frame 7 tile 0 packFlexible: actualImageSize 1280 x 960
+frame 8 tile 0 packFlexible: actualImageSize 1280 x 1344
+frame 9 tile 0 packFlexible: actualImageSize 1280 x 864
+frame 10 tile 0 packFlexible: actualImageSize 1280 x 816
+frame 11 tile 0 packFlexible: actualImageSize 1280 x 976
+frame 12 tile 0 packFlexible: actualImageSize 1280 x 816
+frame 13 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 14 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 15 tile 0 packFlexible: actualImageSize 1280 x 848
+frame 16 tile 0 packFlexible: actualImageSize 1280 x 1200
+frame 17 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 18 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 19 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 20 tile 0 packFlexible: actualImageSize 1280 x 832
+frame 21 tile 0 packFlexible: actualImageSize 1280 x 800
+frame 22 tile 0 packFlexible: actualImageSize 1280 x 912
+frame 23 tile 0 packFlexible: actualImageSize 1280 x 912
+frame 24 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 25 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 26 tile 0 packFlexible: actualImageSize 1280 x 976
+frame 27 tile 0 packFlexible: actualImageSize 1280 x 976
+frame 28 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 29 tile 0 packFlexible: actualImageSize 1280 x 976
+frame 30 tile 0 packFlexible: actualImageSize 1280 x 992
+frame 31 tile 0 packFlexible: actualImageSize 1280 x 1104
+	->tile 0 ImageSize 1280 x 1344
+resizeGeometryVideo 
+generateOccupancyMap frame 0: entireFrameSize:1280x1344
+generateOccupancyMap frame 1: entireFrameSize:1280x1344
+generateOccupancyMap frame 2: entireFrameSize:1280x1344
+generateOccupancyMap frame 3: entireFrameSize:1280x1344
+generateOccupancyMap frame 4: entireFrameSize:1280x1344
+generateOccupancyMap frame 5: entireFrameSize:1280x1344
+generateOccupancyMap frame 6: entireFrameSize:1280x1344
+generateOccupancyMap frame 7: entireFrameSize:1280x1344
+generateOccupancyMap frame 8: entireFrameSize:1280x1344
+generateOccupancyMap frame 9: entireFrameSize:1280x1344
+generateOccupancyMap frame 10: entireFrameSize:1280x1344
+generateOccupancyMap frame 11: entireFrameSize:1280x1344
+generateOccupancyMap frame 12: entireFrameSize:1280x1344
+generateOccupancyMap frame 13: entireFrameSize:1280x1344
+generateOccupancyMap frame 14: entireFrameSize:1280x1344
+generateOccupancyMap frame 15: entireFrameSize:1280x1344
+generateOccupancyMap frame 16: entireFrameSize:1280x1344
+generateOccupancyMap frame 17: entireFrameSize:1280x1344
+generateOccupancyMap frame 18: entireFrameSize:1280x1344
+generateOccupancyMap frame 19: entireFrameSize:1280x1344
+generateOccupancyMap frame 20: entireFrameSize:1280x1344
+generateOccupancyMap frame 21: entireFrameSize:1280x1344
+generateOccupancyMap frame 22: entireFrameSize:1280x1344
+generateOccupancyMap frame 23: entireFrameSize:1280x1344
+generateOccupancyMap frame 24: entireFrameSize:1280x1344
+generateOccupancyMap frame 25: entireFrameSize:1280x1344
+generateOccupancyMap frame 26: entireFrameSize:1280x1344
+generateOccupancyMap frame 27: entireFrameSize:1280x1344
+generateOccupancyMap frame 28: entireFrameSize:1280x1344
+generateOccupancyMap frame 29: entireFrameSize:1280x1344
+generateOccupancyMap frame 30: entireFrameSize:1280x1344
+generateOccupancyMap frame 31: entireFrameSize:1280x1344
+Encoder convert : write420 without conversion: /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy_320x336_8bit_p420.yuv 
+Encode: video size = 320 x 336 num frames = 32 
+HMEncoder -c cfg/hm/ctc-hm-occupancy-map-ai-main10.cfg --InputFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy_320x336_8bit_p420.yuv --InputBitDepth=8 --InputChromaFormat=420 --OutputBitDepth=8 --OutputBitDepthC=8 --FrameRate=30 --FrameSkip=0 --SourceWidth=320 --SourceHeight=336 --ConformanceWindowMode=1  --FramesToBeEncoded=32 --BitstreamFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy.bin --ReconFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy_rec_320x336_8bit_p420.yuv --QP=8 --InternalBitDepth=8 --InternalBitDepthC=8
+******************************************************************
+** WARNING: --SEIDecodedPictureHash is now disabled by default. **
+**          Automatic verification of decoded pictures by a     **
+**          decoder requires this option to be enabled.         **
+******************************************************************
+****************************************************************************
+** WARNING: --HadamardME has been disabled due to the enabling of         **
+**          --CUTransquantBypassFlagForce                                 **
+****************************************************************************
+****************************************************************************
+** WARNING: --CUNoSplitIntraACT has been disabled                         **
+**  due to the disabling of --ColourTransform                             **
+****************************************************************************
+
+Input          File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy_320x336_8bit_p420.yuv
+Bitstream      File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy.bin
+Reconstruction File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy_rec_320x336_8bit_p420.yuv
+PCCExt                                 : Disabled
+Real     Format                        : 320x336 30Hz
+Internal Format                        : 320x336 30Hz
+Sequence PSNR output                   : Linear average only
+Sequence MSE output                    : Disabled
+Frame MSE output                       : Disabled
+Print Clipped PSNR                     : Disabled
+MS-SSIM output                         : Disabled
+xPSNR calculation                      : Disabled
+Cabac-zero-word-padding                : Enabled
+Frame/Field                            : Frame based coding
+Frame index                            : 0 - 31 (32 frames)
+Profile                                : main10
+CU size / depth / total-depth          : 64 / 4 / 4
+RQT trans. size (min / max)            : 4 / 32
+Max RQT depth inter                    : 1
+Max RQT depth intra                    : 1
+Min PCM size                           : 8
+Motion search range                    : 512
+Intra period                           : 1
+Decoding refresh type                  : 0
+QP                                     : 8
+Max dQP signaling depth                : 0
+Cb QP Offset                           : 0
+Cr QP Offset                           : 0
+QP adaptation                          : 0 (range=0)
+GOP size                               : 1
+Input bit depth                        : (Y:8, C:8)
+MSB-extended bit depth                 : (Y:8, C:8)
+Internal bit depth                     : (Y:8, C:8)
+PCM sample bit depth                   : (Y:8, C:8)
+Intra reference smoothing              : Enabled
+diff_cu_chroma_qp_offset_depth         : -1
+extended_precision_processing_flag     : Disabled
+implicit_rdpcm_enabled_flag            : Disabled
+explicit_rdpcm_enabled_flag            : Disabled
+transform_skip_rotation_enabled_flag   : Disabled
+transform_skip_context_enabled_flag    : Disabled
+cross_component_prediction_enabled_flag: Disabled
+high_precision_offsets_enabled_flag    : Disabled
+persistent_rice_adaptation_enabled_flag: Disabled
+cabac_bypass_alignment_enabled_flag    : Disabled
+Intra block copying                    : Disabled
+Adaptive colour transform              : Disabled
+Palette mode                           : Disabled
+Cost function:                         : Sequence_level_lossless coding
+Motion Estimation                      : Diamond search
+HashME                                 : 0
+RateControl                            : 0
+WPMethod                               : 0
+Max Num Merge Candidates               : 5
+
+TOOL CFG: IBD:0 HAD:0 RDQ:1 RDQTS:1 RDpenalty:0 LQP:0 SQP:0 ASR:0 MinSearchWindow:8 RestrictMESampling:0 FEN:1 ECU:0 FDM:1 CFM:0 ESD:0 RQT:1 TransformSkip:1 TransformSkipFast:1 TransformSkipLog2MaxSize:2 Slice: M=0 SliceSegment: M=0 CIP:0 SAO:0 PCM:0 TransQuantBypassEnabled: =1WPP:0 WPB:0 PME:2  WaveFrontSynchro:0 WaveFrontSubstreams:1 ScalingList:0 TMVPMode:1 AQpS:0 SignBitHidingFlag:1 RecalQP:0TransQuantBypassInferTUSplit:0 CUNoSplitIntraACT:0  MvResControl:0
+
+                   Input ChromaFormatIDC =   4:2:0
+       Output (internal) ChromaFormatIDC =   4:2:0
+
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    0 TId: 0 ( I-SLICE, nQP 8 QP 8 )      16848 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    1 TId: 0 ( I-SLICE, nQP 8 QP 8 )      16152 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    2 TId: 0 ( I-SLICE, nQP 8 QP 8 )      15784 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    3 TId: 0 ( I-SLICE, nQP 8 QP 8 )      15552 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    4 TId: 0 ( I-SLICE, nQP 8 QP 8 )      16248 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    5 TId: 0 ( I-SLICE, nQP 8 QP 8 )      17576 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    6 TId: 0 ( I-SLICE, nQP 8 QP 8 )      17584 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    7 TId: 0 ( I-SLICE, nQP 8 QP 8 )      16816 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    8 TId: 0 ( I-SLICE, nQP 8 QP 8 )      17560 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC    9 TId: 0 ( I-SLICE, nQP 8 QP 8 )      16888 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   10 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19880 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   11 TId: 0 ( I-SLICE, nQP 8 QP 8 )      17296 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   12 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19608 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   13 TId: 0 ( I-SLICE, nQP 8 QP 8 )      17808 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   14 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18712 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   15 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18832 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   16 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18528 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   17 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19368 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   18 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18872 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   19 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18608 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   20 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19624 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   21 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19640 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   22 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18512 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   23 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19848 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   24 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19496 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   25 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18640 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   26 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19960 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   27 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18984 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   28 TId: 0 ( I-SLICE, nQP 8 QP 8 )      18776 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   29 TId: 0 ( I-SLICE, nQP 8 QP 8 )      19256 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   30 TId: 0 ( I-SLICE, nQP 8 QP 8 )      20088 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+copy image from PCC: Shift = 0 ( 320x 336 =>  320x 336 S= 480 C:  160x 168 ) 
+POC   31 TId: 0 ( I-SLICE, nQP 8 QP 8 )      21392 bits [Y 999.9900 dB    U 999.9900 dB    V 999.9900 dB] [ET     0 ] [L0 ] [L1 ]
+
+
+SUMMARY --------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	       32    a     551.9400  999.9900  999.9900  999.9900  999.9900  
+
+
+I Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	       32    i     551.9400  999.9900  999.9900  999.9900  999.9900  
+
+
+P Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	        0    p         -nan      -nan      -nan      -nan      -nan  
+
+
+B Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR  
+	        0    b         -nan      -nan      -nan      -nan      -nan  
+
+RVM: 0.000
+Bytes written to file: 73592 (551.940 kbps)
+Encoder convert : write420 without conversion: /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_geometry_1280x1344_8bit_p420.yuv 
+Encode: video size = 1280 x 1344 num frames = 64 
+HMEncoder -c cfg/hm/ctc-hm-geometry-ai.cfg --InputFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_geometry_1280x1344_8bit_p420.yuv --InputBitDepth=8 --InputChromaFormat=420 --OutputBitDepth=8 --OutputBitDepthC=8 --FrameRate=30 --FrameSkip=0 --SourceWidth=1280 --SourceHeight=1344 --ConformanceWindowMode=1  --FramesToBeEncoded=64 --BitstreamFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_geometry.bin --ReconFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_geometry_rec_1280x1344_8bit_p420.yuv --QP=32 --InternalBitDepth=10 --InternalBitDepthC=10 --UsePccMotionEstimation=1 --BlockToPatchFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_blockToPatch.txt --OccupancyMapFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy.txt --PatchInfoFile=/home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_patchInfo.txt
+****************************************************************************
+** WARNING: --CUNoSplitIntraACT has been disabled                         **
+**  due to the disabling of --ColourTransform                             **
+****************************************************************************
+
+Input          File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_geometry_1280x1344_8bit_p420.yuv
+Bitstream      File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_geometry.bin
+Reconstruction File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_geometry_rec_1280x1344_8bit_p420.yuv
+PCCExt                                 : Enabled
+BlockToPatch   File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_blockToPatch.txt
+OccupancyMap   File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_occupancy.txt
+PatchInfo      File                    : /home/e/e0686126/mpeg-pcc-tmc2/exps/VPCC/longdress/r1/0.2/bin/longdress_GOF0_patchInfo.txt
+Real     Format                        : 1280x1344 30Hz
+Internal Format                        : 1280x1344 30Hz
+Sequence PSNR output                   : Linear average only
+Sequence MSE output                    : Disabled
+Frame MSE output                       : Disabled
+Print Clipped PSNR                     : Disabled
+MS-SSIM output                         : Disabled
+xPSNR calculation                      : Disabled
+Cabac-zero-word-padding                : Enabled
+Frame/Field                            : Frame based coding
+Frame index                            : 0 - 63 (64 frames)
+Profile                                : main10
+CU size / depth / total-depth          : 64 / 4 / 4
+RQT trans. size (min / max)            : 4 / 32
+Max RQT depth inter                    : 3
+Max RQT depth intra                    : 3
+Min PCM size                           : 8
+Motion search range                    : 64
+Intra period                           : -1
+Decoding refresh type                  : 2
+QP                                     : 32
+Max dQP signaling depth                : 0
+Cb QP Offset                           : 0
+Cr QP Offset                           : 0
+QP adaptation                          : 0 (range=0)
+GOP size                               : 2
+Input bit depth                        : (Y:8, C:8)
+MSB-extended bit depth                 : (Y:8, C:8)
+Internal bit depth                     : (Y:10, C:10)
+PCM sample bit depth                   : (Y:8, C:8)
+Intra reference smoothing              : Enabled
+diff_cu_chroma_qp_offset_depth         : -1
+extended_precision_processing_flag     : Disabled
+implicit_rdpcm_enabled_flag            : Disabled
+explicit_rdpcm_enabled_flag            : Disabled
+transform_skip_rotation_enabled_flag   : Disabled
+transform_skip_context_enabled_flag    : Disabled
+cross_component_prediction_enabled_flag: Disabled
+high_precision_offsets_enabled_flag    : Disabled
+persistent_rice_adaptation_enabled_flag: Disabled
+cabac_bypass_alignment_enabled_flag    : Disabled
+Intra block copying                    : Disabled
+Adaptive colour transform              : Disabled
+Palette mode                           : Disabled
+log2_sao_offset_scale_luma             : 0
+log2_sao_offset_scale_chroma           : 0
+Cost function:                         : Lossy coding (default)
+Motion Estimation                      : Diamond search
+HashME                                 : 0
+RateControl                            : 0
+WPMethod                               : 0
+Max Num Merge Candidates               : 5
+
+TOOL CFG: IBD:1 HAD:1 RDQ:1 RDQTS:1 RDpenalty:0 LQP:0 SQP:0 ASR:0 MinSearchWindow:8 RestrictMESampling:0 FEN:1 ECU:0 FDM:1 CFM:0 ESD:0 RQT:1 TransformSkip:1 TransformSkipFast:1 TransformSkipLog2MaxSize:2 Slice: M=0 SliceSegment: M=0 CIP:0 SAO:1 PCM:0 TransQuantBypassEnabled:0 WPP:0 WPB:0 PME:2  WaveFrontSynchro:0 WaveFrontSubstreams:1 ScalingList:0 TMVPMode:1 AQpS:0 SignBitHidingFlag:1 RecalQP:0TransQuantBypassInferTUSplit:0 CUNoSplitIntraACT:0  MvResControl:0
+
+
+Reading the aux info files
+                   Input ChromaFormatIDC =   4:2:0
+       Output (internal) ChromaFormatIDC =   4:2:0
+
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    0 TId: 0 ( I-SLICE, nQP 32 QP 32 )      22448 bits [Y 47.7030 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:1424dde1bcdb7c44fcbcbfe87d13654f,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    1 TId: 0 ( P-SLICE, nQP 32 QP 32 )        248 bits [Y 47.6675 dB    U 999.9900 dB    V 999.9900 dB] [ET     9 ] [L0 0 ] [L1 ] [MD5:131128c18ab05380ab7f044ff3dc6d16,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC    2 TId: 0 ( I-SLICE, nQP 32 QP 32 )      22768 bits [Y 47.9060 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:71991704c5c4c0ec296a01187872d9a8,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    3 TId: 0 ( P-SLICE, nQP 32 QP 32 )        336 bits [Y 47.8569 dB    U 999.9900 dB    V 999.9900 dB] [ET     8 ] [L0 2 ] [L1 ] [MD5:4741c1a824ba7863a6abbcd254fe5278,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC    4 TId: 0 ( I-SLICE, nQP 32 QP 32 )      21744 bits [Y 48.0595 dB    U 999.9900 dB    V 999.9900 dB] [ET     6 ] [L0 ] [L1 ] [MD5:07cc0fdfbc9814535d9a6d867c77be62,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    5 TId: 0 ( P-SLICE, nQP 32 QP 32 )        192 bits [Y 48.0086 dB    U 999.9900 dB    V 999.9900 dB] [ET     9 ] [L0 4 ] [L1 ] [MD5:5e425b53902f6eb74da3b2ef63350ea4,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC    6 TId: 0 ( I-SLICE, nQP 32 QP 32 )      22952 bits [Y 47.8382 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:01774bc080840ee67459343cb1017b49,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    7 TId: 0 ( P-SLICE, nQP 32 QP 32 )        416 bits [Y 47.6717 dB    U 999.9900 dB    V 999.9900 dB] [ET     9 ] [L0 6 ] [L1 ] [MD5:9a4499e3853cb72d0e0e2b03d70a4d6c,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC    8 TId: 0 ( I-SLICE, nQP 32 QP 32 )      24224 bits [Y 47.2083 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:da0fe40be26180b329ba8b27a3fd75c6,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC    9 TId: 0 ( P-SLICE, nQP 32 QP 32 )        496 bits [Y 47.1903 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 8 ] [L1 ] [MD5:463edab4c1d646687b4d2b3eb6087267,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC   10 TId: 0 ( I-SLICE, nQP 32 QP 32 )      24744 bits [Y 47.2925 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:2d5b9736b94ee1b2b16b80cb470d28f5,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   11 TId: 0 ( P-SLICE, nQP 32 QP 32 )        224 bits [Y 47.2356 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 10 ] [L1 ] [MD5:22207aeb6944cbe16de3953da7eab1c8,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC   12 TId: 0 ( I-SLICE, nQP 32 QP 32 )      23888 bits [Y 47.2803 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:5437294dd4c7ff3bbb431ae19abc7101,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   13 TId: 0 ( P-SLICE, nQP 32 QP 32 )        360 bits [Y 47.2255 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 12 ] [L1 ] [MD5:e36ff0c46dc15cbbd608e332f615ab89,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC   14 TId: 0 ( I-SLICE, nQP 32 QP 32 )      23608 bits [Y 47.5466 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:16c5599ccd1b42e99017d40797577fd3,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   15 TId: 0 ( P-SLICE, nQP 32 QP 32 )        376 bits [Y 47.4878 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 14 ] [L1 ] [MD5:2f4382bf26ded73d62f7288f264bdd5b,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC   16 TId: 0 ( I-SLICE, nQP 32 QP 32 )      24528 bits [Y 47.5065 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:4d5849da3c06e65c3ad1b22283f81e1c,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   17 TId: 0 ( P-SLICE, nQP 32 QP 32 )        504 bits [Y 47.4351 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 16 ] [L1 ] [MD5:24c2339d16d3dec96e3762181ad6c1fa,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC   18 TId: 0 ( I-SLICE, nQP 32 QP 32 )      23368 bits [Y 47.4963 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:ffca2e1590dd22fcdc1c89c9e25c141c,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   19 TId: 0 ( P-SLICE, nQP 32 QP 32 )        560 bits [Y 47.4772 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 18 ] [L1 ] [MD5:9f0c1dbcd3a9418011358c777a53fbf0,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC   20 TId: 0 ( I-SLICE, nQP 32 QP 32 )      28792 bits [Y 46.0582 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:406f11ca0e016c9ee729c207e0dcfc01,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+copy image from PCC: Shift = 2 (1280x1344 => 1280x1344 S=1440 C:  640x 672 ) 
+
+	PCC ME GOP #1 ACTIVE
+POC   21 TId: 0 ( P-SLICE, nQP 32 QP 32 )        616 bits [Y 46.0414 dB    U 999.9900 dB    V 999.9900 dB] [ET    10 ] [L0 20 ] [L1 ] [MD5:30f76b25bd0744ce96a050091625df99,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
+POC   22 TId: 0 ( I-SLICE, nQP 32 QP 32 )      23784 bits [Y 47.2521 dB    U 999.9900 dB    V 999.9900 dB] [ET     7 ] [L0 ] [L1 ] [MD5:2e138d75a4cc50e23d699aa1c383446b,03f0592e1674758a21f0e6f0d2524eb9,03f0592e1674758a21f0e6f0d2524eb9]
