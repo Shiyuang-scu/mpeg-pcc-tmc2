@@ -1,6 +1,7 @@
 # TODO
-# update datasets.yml to the linux version folder
-# modify the computeHausdorff_ to True in /Users/seunoboru/Downloads/mpeg-pcc-tmc2/source/lib/PccLibMetrics/source/PCCMetricsParameters.cpp, and update the file to the linux version folder
+# 1. eval results match and analyze
+# 2. downsampling function
+# 3. replace script.py, datasets.yml and VPCC.yml to linux version
 
 
 from base64 import encode
@@ -294,35 +295,41 @@ class VPCC:
         with open(evl_log, 'w') as f:
             f.write(eva_result)
 
-
     def _run_process(self, src_dir, nor_dir, exp_dir):
-        
+
+
         bin_file, out_file, evl_log, nor_file = (
             self._set_filepath(exp_dir, nor_dir)
         )
-
+        # 1. run encode and decode command
         enc_cmd = self.make_encode_cmd(src_dir, bin_file)
         dec_cmd = self.make_decode_cmd(bin_file, out_file)
-
-        # 1. run encode and decode command
         encode_time, decode_time = self.encode_and_decode(enc_cmd, dec_cmd)
 
         # # 2. evaluate the results
-        # out_dir = Path(out_file).parent
         self._evaluate_and_log(nor_file, out_file, bin_file, evl_log, encode_time, decode_time)
 
-
     def run_experiment(self):
-        
-        src_dir = self._ds_cfg[self.ds_name]['dataset_dir']
-        pattern = self._ds_cfg[self.ds_name]['test_pattern']
-        # self.pc_files = glob_file(src_dir, pattern, verbose=True, fullpath=False)
 
-        exp_dir = (
-            Path('exps')
-            .joinpath(f'{type(self).__name__}/{self.ds_name}/{self.rate}')
-            .resolve()
-        )
+        is_downsamp = self._algs_cfg['is_downsampling']
+        src_dir = self._ds_cfg[self.ds_name]['dataset_dir']
+        
+        # downsampling with specific scale ratio
+        if is_downsamp:
+            scale_ratio = str(self._algs_cfg['scale_ratio'])
+            src_dir = str(Path(src_dir).joinpath('down_Ply', scale_ratio))+'/'
+            exp_dir = (
+                Path('exps')
+                .joinpath(f'{type(self).__name__}/{self.ds_name}/{self.rate}/{scale_ratio}/')
+                .resolve()
+            )
+        else:
+            src_dir = str(Path(src_dir).joinpath('Ply'))+'/'
+            exp_dir = (
+                Path('exps')
+                .joinpath(f'{type(self).__name__}/{self.ds_name}/{self.rate}/')
+                .resolve()
+            )
 
 
         logger.info(
@@ -341,8 +348,8 @@ class VPCC:
 
         self._run_process(src_dir=src_dir, 
                 nor_dir=src_dir, 
-                exp_dir=exp_dir)
-
+                exp_dir=exp_dir
+                )
 
 class Evaluator:
     def __init__(self, src_path, out_path, startFrameNumber, bin_file, enc_time, dec_time,):
@@ -411,8 +418,6 @@ class Evaluator:
         lines = '\n'.join(lines)
 
         self._results += lines
-
-
 
 class PointBasedMetrics:
     """Class for evaluating view independent metrics of given point 
@@ -488,81 +493,47 @@ class PointBasedMetrics:
         """
         ret = self._metric_wrapper()
 
-        # # Related to source code starting from `evaluator/dependencies
-        # # /mpeg-pcc-dmetric-master/source/pcc_distortion.cpp:826`
-        # chosen_metrics = [
-        #     'ACD1      (p2point): ',
-        #     'ACD2      (p2point): ',
-        #     'CD        (p2point): ',
-        #     'CD,PSNR   (p2point): ',
-        #     'h.        (p2point): ',
-        #     'ACD1      (p2plane): ',
-        #     'ACD2      (p2plane): ',
-        #     'CD        (p2plane): ',
-        #     'CD,PSNR   (p2plane): ',
-        #     'h.        (p2plane): ',
-        # ]
-        # if self._has_color:
-        #     chosen_metrics += [
-        #         'c[0],PSNRF         : ',
-        #         'c[1],PSNRF         : ',
-        #         'c[2],PSNRF         : ',
-        #         'hybrid geo-color   : ',
-        #     ]
+        chosen_metrics = [
+        r'mseF      \(p2point\): (\d+\.\d+)',
+        r'mseF,PSNR \(p2point\): (\d+\.\d+)',
+        r'mseF      \(p2plane\): (\d+\.\d+)',
+        r'mseF,PSNR \(p2plane\): (\d+\.\d+)',
+        r'c\[0\],    F         : (\d+\.\d+)',
+        r'c\[1\],    F         : (\d+\.\d+)',
+        r'c\[2\],    F         : (\d+\.\d+)',
+        r'c\[0\],PSNRF         : (\d+\.\d+)',
+        r'c\[1\],PSNRF         : (\d+\.\d+)',
+        r'c\[2\],PSNRF         : (\d+\.\d+)'
+        ]
 
-        # chosen_metrics = [re.escape(pattern) for pattern in chosen_metrics]
+        temp = []
+        found_val = []
 
-        # found_val = []
-
-        # for pattern in chosen_metrics:
-        #     isfound = False
-        #     for line in ret.splitlines():
-        #         m = re.search(f'(?<={pattern}).*', line)
-        #         if m:
-        #             found_val.append(m.group())
-        #             isfound = True
-        #             break
-        #     if isfound is False:
-        #         found_val.append('nan')
-
-        # assert len(found_val) == len(chosen_metrics)
-
-        # lines = [
-        #     f"========== Point-based Metrics =========",
-        #     f"Asym. Chamfer dist. (1->2) p2pt: {found_val[0]}",
-        #     f"Asym. Chamfer dist. (2->1) p2pt: {found_val[1]}",
-        #     f"Chamfer dist.              p2pt: {found_val[2]}",
-        #     f"CD-PSNR (dB)               p2pt: {found_val[3]}",
-        #     f"Hausdorff distance         p2pt: {found_val[4]}",
-        #     "\n",
-        # ]
-        # if self._has_normal:
-        #     lines += [
-        #         f"----------------------------------------",
-        #         f"Asym. Chamfer dist. (1->2) p2pl: {found_val[5]}",
-        #         f"Asym. Chamfer dist. (2->1) p2pl: {found_val[6]}",
-        #         f"Chamfer dist.              p2pl: {found_val[7]}",
-        #         f"CD-PSNR (dB)               p2pl: {found_val[8]}",
-        #         f"Hausdorff distance         p2pl: {found_val[9]}",
-        #         "\n",
-        #     ]
-        # if self._has_color:
-        #     lines += [
-        #         f"----------------------------------------",
-        #         f"Y-CPSNR (dB)                   : {found_val[10]}",
-        #         f"U-CPSNR (dB)                   : {found_val[11]}",
-        #         f"V-CPSNR (dB)                   : {found_val[12]}",
-        #         "\n",
-        #     ]
-        # if self._has_color and self._has_normal:
-        #     lines += [
-        #         f"============== QoE Metric ==============",
-        #         f"Hybrid geo-color               : {found_val[13]}",
-        #         "\n",
-        #     ]
-
-        # self._results += lines
-        self._results += ret
+        for idx, pattern in enumerate(chosen_metrics):
+            temp = []
+            for line in ret.splitlines():
+                m = re.search(pattern, line)
+                if m:
+                    temp.append(float(m.group(1)))
+            found_val.append("{:.5f}".format(sum(temp) / (len(temp)+0.001)))
+        
+        lines = [
+            "========== Point-based Metrics =========",
+            f'mse      (p2point): {found_val[0]}',
+            f'mse,PSNR (p2point): {found_val[1]}',
+            f'mse      (p2plane): {found_val[2]}',
+            f'mse,PSNR (p2plane): {found_val[3]}',
+            f'c[0],             : {found_val[4]}',
+            f'c[1],             : {found_val[5]}',
+            f'c[2],             : {found_val[6]}',
+            f'c[0],PSNR         : {found_val[7]}',
+            f'c[1],PSNR         : {found_val[8]}',
+            f'c[2],PSNR         : {found_val[9]}',
+            "\n"
+            ]
+        
+        self._results += '\n'.join(lines)
+        # self._results += ret
 
     def _metric_wrapper(self) -> str:
         """Wrapper of the metric software, which modifies the formulas 
@@ -574,13 +545,6 @@ class PointBasedMetrics:
             The result of objective quality metrics.
         """
 
-
-        # $METRIC \
-        #   --uncompressedDataPath=${SRCDIR}8iVFBv2/soldier/Ply/soldier_vox10_%04d.ply \
-        #   --startFrameNumber=536 \
-        #   --frameCount=2 \
-        #   --nbThread=$THREAD \
-        #   --reconstructedDataPath=${BIN%.???}_dec_%04d.ply
         cmd = [
             self.METRIC,
             f'--uncompressedDataPath={self._ref_path}',
@@ -599,8 +563,8 @@ if __name__ == '__main__':
     dataset_name = 'longdress'
     vpcc = VPCC(dataset_name)
 
-    for rate in range(5):
-        vpcc.rate = f'r{rate+1}'
-        vpcc.run_experiment()
-    # vpcc.rate = 'r2'
-    # vpcc.run_experiment()
+    # for rate in range(5):
+    #     vpcc.rate = f'r{rate+1}'
+    #     vpcc.run_experiment()
+    vpcc.rate = 'r2'
+    vpcc.run_experiment()
