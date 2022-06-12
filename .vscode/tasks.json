@@ -1,0 +1,69 @@
+{
+    "version": "2.0.0",
+    "_runner": "terminal",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "bash",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "args": [
+                "-c",
+                "./build.sh"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }, 
+        {
+            "label": "format",
+            "type": "shell",
+            "command": "bash",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "args": [
+                "-c",
+                "./build.sh format"
+            ],
+            "group": {
+                "kind": "format",
+                "isDefault": false
+            }
+        }, 
+        {
+            "label": "clear",
+            "type": "shell",
+            "command": "bash",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "args": [
+                "-c",
+                "./clear.sh"
+            ],
+            "group": {
+                "kind": "clear",
+                "isDefault": false
+            }
+        }
+    ]
+}
