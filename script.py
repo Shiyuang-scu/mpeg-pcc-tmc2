@@ -19,7 +19,7 @@ from multiprocessing import Pool
 from tqdm import tqdm
 import re
 import os
-import open3d as o3d
+# import open3d as o3d
 
 logger = logging.getLogger(__name__)
 
@@ -162,7 +162,7 @@ def glob_file(src_dir, pattern, fullpath=False, verbose=False):
     return files
 
 class VPCC:
-    def __init__(self, ds_name):
+    def __init__(self, ds_name='longdress'):
         self.ds_name = ds_name
 
         algs_cfg_file = (
@@ -264,7 +264,7 @@ class VPCC:
             '--configurationFolder=cfg/',
             '--config=cfg/common/ctc-common.cfg',
             '--keepIntermediateFiles=1',
-            '--nbThread=10',
+            # '--nbThread=2',
             f'--config={self._ds_cfg[self.ds_name]["dataset_cfg"]}',
             f'--config={self._algs_cfg["condition_cfg"]}',
             f'--config={self._algs_cfg[self.rate]["rate_cfg"]}',
@@ -287,7 +287,6 @@ class VPCC:
             f'--videoDecoderAttributePath={self._algs_cfg["videoDecoder"]}',
             f'--inverseColorSpaceConversionConfig={self._algs_cfg["inverseColorSpaceConversionConfig"]}',
             f'--startFrameNumber={self._ds_cfg[self.ds_name]["startFrameNumber"]}'
-            '--nbThread=10',
             '--computeMetrics=0',
             '--computeChecksum=0'
         ]
@@ -341,7 +340,6 @@ class VPCC:
                     filedata = filedata.replace(' double', ' float')
                     with open(output_path, 'w') as f:
                         f.write(filedata)
-
 
     def _evaluate_and_log(self, ref_path, out_path, bin_file, evl_log, enc_time, dec_time):
         
@@ -632,19 +630,34 @@ class PointBasedMetrics:
         return ret.stdout
 
 
+def run_vpcc(rate, scale_ratio):
+    vpcc = VPCC()
+    vpcc.scale_ratio = rate
+    vpcc.rate = scale_ratio
+    vpcc.run_experiment()
+
+
+
 if __name__ == '__main__':
 
-    # temporarily applied to downsampling the files in linux server
 
+    # dataset_name = 'longdress'
+    # vpcc = VPCC(dataset_name)
 
-    dataset_name = 'longdress'
-    vpcc = VPCC(dataset_name)
+    # for rate in range(5):
+    #     for scale_ratio in range(2, 10, 2):
+    #         vpcc.scale_ratio = f'0.{scale_ratio}'
+    #         vpcc.rate = f'r{rate+1}'
+    #         vpcc.run_experiment()
 
-    for rate in range(5):
-        for scale_ratio in range(2, 10, 2):
-            vpcc.scale_ratio = f'0.{scale_ratio}'
-            vpcc.rate = f'r{rate+1}'
-            vpcc.run_experiment()
     # vpcc.rate = 'r2'
     # vpcc.scale_ratio = '0.2'
     # vpcc.run_experiment()
+    configurations = []
+    for rate in range(5):
+        for scale_ratio in range(2, 10, 2):
+            configurations.append([f'r{rate+1}', f'0.{scale_ratio}'])
+
+
+    pool = Pool(10)
+    pool.starmap(run_vpcc, configurations)
