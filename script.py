@@ -264,7 +264,6 @@ class VPCC:
             '--configurationFolder=cfg/',
             '--config=cfg/common/ctc-common.cfg',
             '--keepIntermediateFiles=1',
-            '--nbThread=5'，
             f'--config={self._ds_cfg[self.ds_name]["dataset_cfg"]}',
             f'--config={self._algs_cfg["condition_cfg"]}',
             f'--config={self._algs_cfg[self.rate]["rate_cfg"]}',
@@ -374,7 +373,8 @@ class VPCC:
         # downsampling with specific scale ratio
         if is_downsamp:
             # set filepath
-            scale_ratio = str(self._algs_cfg['scale_ratio'])
+            # scale_ratio = str(self._algs_cfg['scale_ratio'])
+            scale_ratio = self.scale_ratio
             src_dir = str(Path(src_root).joinpath('down_Ply', scale_ratio))+'/'
             exp_dir = (
                 Path('exps')
@@ -639,7 +639,10 @@ if __name__ == '__main__':
     vpcc = VPCC(dataset_name)
 
     for rate in range(5):
-        vpcc.rate = f'r{rate+1}'
-        vpcc.run_experiment()
+        for scale_ratio in range(2, 10, 2):
+            vpcc.scale_ratio = f'0.{scale_ratio}'
+            vpcc.rate = f'r{rate+1}'
+            vpcc.run_experiment()
     # vpcc.rate = 'r2'
+    # vpcc.scale_ratio = '0.2'
     # vpcc.run_experiment()
