@@ -1,7 +1,10 @@
 # TODO
 # 1. eval results match and analyze
 # 2. downsampling function
-# 3. replace script.py, datasets.yml and VPCC.yml to linux version
+# 3. modify script.py
+#   3.1 add '--keepIntermediateFiles=1'
+#   3.2 output eval results in the .out file
+#   3.3 add hausdorff distance metric
 
 
 from base64 import encode
@@ -16,7 +19,7 @@ from multiprocessing import Pool
 from tqdm import tqdm
 import re
 import os
-#import open3d as o3d
+import open3d as o3d
 
 logger = logging.getLogger(__name__)
 
@@ -260,6 +263,8 @@ class VPCC:
             f'--compressedStreamPath={bin_file}',
             '--configurationFolder=cfg/',
             '--config=cfg/common/ctc-common.cfg',
+            '--keepIntermediateFiles=1',
+            '--nbThread=5'，
             f'--config={self._ds_cfg[self.ds_name]["dataset_cfg"]}',
             f'--config={self._algs_cfg["condition_cfg"]}',
             f'--config={self._algs_cfg[self.rate]["rate_cfg"]}',
@@ -548,12 +553,19 @@ class PointBasedMetrics:
         pc_error.
         """
         ret = self._metric_wrapper()
+        logger.info(
+            f"{ret}"
+        )
 
         chosen_metrics = [
         r'mseF      \(p2point\): (\d+\.\d+)',
         r'mseF,PSNR \(p2point\): (\d+\.\d+)',
         r'mseF      \(p2plane\): (\d+\.\d+)',
         r'mseF,PSNR \(p2plane\): (\d+\.\d+)',
+        r'h.       F\(p2point\): (\d+\.\d+)',
+        r'h.,PSNR  F\(p2point\): (\d+\.\d+)',
+        r'h.       F\(p2plane\): (\d+\.\d+)',
+        r'h.,PSNR  F\(p2plane\): (\d+\.\d+)',
         r'c\[0\],    F         : (\d+\.\d+)',
         r'c\[1\],    F         : (\d+\.\d+)',
         r'c\[2\],    F         : (\d+\.\d+)',
@@ -579,12 +591,16 @@ class PointBasedMetrics:
             f'mse,PSNR (p2point): {found_val[1]}',
             f'mse      (p2plane): {found_val[2]}',
             f'mse,PSNR (p2plane): {found_val[3]}',
-            f'c[0],             : {found_val[4]}',
-            f'c[1],             : {found_val[5]}',
-            f'c[2],             : {found_val[6]}',
-            f'c[0],PSNR         : {found_val[7]}',
-            f'c[1],PSNR         : {found_val[8]}',
-            f'c[2],PSNR         : {found_val[9]}',
+            f'h.       (p2point): {found_val[4]}',
+            f'h.,PSNR  (p2point): {found_val[5]}',
+            f'h.       (p2plane): {found_val[6]}',
+            f'h.,PSNR  (p2plane): {found_val[7]}',
+            f'c[0],             : {found_val[8]}',
+            f'c[1],             : {found_val[9]}',
+            f'c[2],             : {found_val[10]}',
+            f'c[0],PSNR         : {found_val[11]}',
+            f'c[1],PSNR         : {found_val[12]}',
+            f'c[2],PSNR         : {found_val[13]}',
             "\n"
             ]
         
@@ -625,5 +641,5 @@ if __name__ == '__main__':
     for rate in range(5):
         vpcc.rate = f'r{rate+1}'
         vpcc.run_experiment()
-    #vpcc.rate = 'r2'
-    #vpcc.run_experiment()
+    # vpcc.rate = 'r2'
+    # vpcc.run_experiment()
