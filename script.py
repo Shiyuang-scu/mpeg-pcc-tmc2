@@ -264,6 +264,7 @@ class VPCC:
             '--configurationFolder=cfg/',
             '--config=cfg/common/ctc-common.cfg',
             '--keepIntermediateFiles=1',
+            '--nbThread=10',
             f'--config={self._ds_cfg[self.ds_name]["dataset_cfg"]}',
             f'--config={self._algs_cfg["condition_cfg"]}',
             f'--config={self._algs_cfg[self.rate]["rate_cfg"]}',
@@ -286,6 +287,7 @@ class VPCC:
             f'--videoDecoderAttributePath={self._algs_cfg["videoDecoder"]}',
             f'--inverseColorSpaceConversionConfig={self._algs_cfg["inverseColorSpaceConversionConfig"]}',
             f'--startFrameNumber={self._ds_cfg[self.ds_name]["startFrameNumber"]}'
+            '--nbThread=10',
             '--computeMetrics=0',
             '--computeChecksum=0'
         ]
