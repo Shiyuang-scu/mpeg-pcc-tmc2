@@ -19,7 +19,6 @@ from multiprocessing import Pool
 from tqdm import tqdm
 import re
 import os
-# import open3d as o3d
 
 logger = logging.getLogger(__name__)
 
@@ -632,8 +631,8 @@ class PointBasedMetrics:
 
 def run_vpcc(rate, scale_ratio):
     vpcc = VPCC()
-    vpcc.scale_ratio = rate
-    vpcc.rate = scale_ratio
+    vpcc.scale_ratio = scale_ratio
+    vpcc.rate = rate
     vpcc.run_experiment()
 
 
