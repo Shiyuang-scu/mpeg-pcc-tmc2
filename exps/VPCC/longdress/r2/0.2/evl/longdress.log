@@ -1,0 +1,18 @@
+========== Point-based Metrics =========
+mse      (p2point): 1.91695
+mse,PSNR (p2point): 62.15224
+mse      (p2plane): 0.00000
+mse,PSNR (p2plane): 0.00000
+c[0],             : 0.00174
+c[1],             : 0.00044
+c[2],             : 0.00054
+c[0],PSNR         : 27.60442
+c[1],PSNR         : 33.62364
+c[2],PSNR         : 32.65623
+
+========== Time & Binary Size ==========
+Encoding time (s)           : 11820.7072
+Decoding time (s)           : 388.8856
+Total binary files size (kB): 7598.326
+kbps (kb per second)        : 759.8326
+
