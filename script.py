@@ -214,7 +214,6 @@ class VPCC:
 
     def run_command(self, cmd):
         try: 
-
             # 1. execute command and record time
             start_time = time.time()
             # output = subprocess.run(cmd, capture_output=True, text=True)
@@ -555,22 +554,24 @@ class PointBasedMetrics:
         logger.info(
             f"{ret}"
         )
+        print(ret)
+
 
         chosen_metrics = [
-        r'mseF      \(p2point\): (\d+\.\d+)',
-        r'mseF,PSNR \(p2point\): (\d+\.\d+)',
-        r'mseF      \(p2plane\): (\d+\.\d+)',
-        r'mseF,PSNR \(p2plane\): (\d+\.\d+)',
-        r'h.       F\(p2point\): (\d+\.\d+)',
-        r'h.,PSNR  F\(p2point\): (\d+\.\d+)',
-        r'h.       F\(p2plane\): (\d+\.\d+)',
-        r'h.,PSNR  F\(p2plane\): (\d+\.\d+)',
-        r'c\[0\],    F         : (\d+\.\d+)',
-        r'c\[1\],    F         : (\d+\.\d+)',
-        r'c\[2\],    F         : (\d+\.\d+)',
-        r'c\[0\],PSNRF         : (\d+\.\d+)',
-        r'c\[1\],PSNRF         : (\d+\.\d+)',
-        r'c\[2\],PSNRF         : (\d+\.\d+)'
+        r'mseF      \(p2point\): (\d+[.]?\d+)',
+        r'mseF,PSNR \(p2point\): (\d+[.]?\d+)',
+        r'mseF      \(p2plane\): (\d+[.]?\d+)',
+        r'mseF,PSNR \(p2plane\): (\d+[.]?\d+)',
+        r'h.       F\(p2point\): (\d+[.]?\d+)',
+        r'h.,PSNR  F\(p2point\): (\d+[.]?\d+)',
+        r'h.       F\(p2plane\): (\d+[.]?\d+)',
+        r'h.,PSNR  F\(p2plane\): (\d+[.]?\d+)',
+        r'c\[0\],    F         : (\d+[.]?\d+)',
+        r'c\[1\],    F         : (\d+[.]?\d+)',
+        r'c\[2\],    F         : (\d+[.]?\d+)',
+        r'c\[0\],PSNRF         : (\d+[.]?\d+)',
+        r'c\[1\],PSNRF         : (\d+[.]?\d+)',
+        r'c\[2\],PSNRF         : (\d+[.]?\d+)'
         ]
 
         temp = []
@@ -639,23 +640,22 @@ def run_vpcc(rate, scale_ratio):
 
 if __name__ == '__main__':
 
-
     # dataset_name = 'longdress'
     # vpcc = VPCC(dataset_name)
 
-    # for rate in range(5):
-    #     for scale_ratio in range(2, 10, 2):
-    #         vpcc.scale_ratio = f'0.{scale_ratio}'
-    #         vpcc.rate = f'r{rate+1}'
-    #         vpcc.run_experiment()
+    # # for rate in range(5):
+    # #     for scale_ratio in range(2, 10, 2):
+    # #         vpcc.scale_ratio = f'0.{scale_ratio}'
+    # #         vpcc.rate = f'r{rate+1}'
+    # #         vpcc.run_experiment()
 
     # vpcc.rate = 'r2'
     # vpcc.scale_ratio = '0.2'
     # vpcc.run_experiment()
-    configurations = []
-    for rate in range(5):
-        for scale_ratio in range(2, 10, 2):
-            configurations.append([f'r{rate+1}', f'0.{scale_ratio}'])
+
+
+    
+    configurations = [[f'r{rate+1}', f'0.{scale_ratio}'] for rate in range(5) for scale_ratio in range(2, 10, 2)]
 
 
     pool = Pool(20)
