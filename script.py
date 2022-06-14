@@ -658,5 +658,5 @@ if __name__ == '__main__':
             configurations.append([f'r{rate+1}', f'0.{scale_ratio}'])
 
 
-    pool = Pool(10)
+    pool = Pool(20)
     pool.starmap(run_vpcc, configurations)
