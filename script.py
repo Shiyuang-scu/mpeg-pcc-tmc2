@@ -630,33 +630,40 @@ class PointBasedMetrics:
         return ret.stdout
 
 
-def run_vpcc(rate, scale_ratio):
+def run_vpcc(rate):
+    vpcc = VPCC()
+    vpcc.rate = rate
+    vpcc.run_experiment()
+
+def run_vpcc_down(rate, scale_ratio):
     vpcc = VPCC()
     vpcc.scale_ratio = scale_ratio
     vpcc.rate = rate
     vpcc.run_experiment()
 
 
-
 if __name__ == '__main__':
 
-    # dataset_name = 'longdress'
-    # vpcc = VPCC(dataset_name)
+    #dataset_name = 'longdress'
+    #vpcc = VPCC(dataset_name)
 
-    # # for rate in range(5):
-    # #     for scale_ratio in range(2, 10, 2):
-    # #         vpcc.scale_ratio = f'0.{scale_ratio}'
-    # #         vpcc.rate = f'r{rate+1}'
-    # #         vpcc.run_experiment()
+    #for rate in range(5):
+    #    vpcc.rate = f'r{rate+1}'
+    #    vpcc.run_experiment()
 
-    # vpcc.rate = 'r2'
+    #vpcc.rate = 'r2'
     # vpcc.scale_ratio = '0.2'
     # vpcc.run_experiment()
 
 
+    configurations = [f'r{rate+1}' for rate in range(5)]
+    pool = Pool(5)
+    pool.map(run_vpcc, configurations)
     
-    configurations = [[f'r{rate+1}', f'0.{scale_ratio}'] for rate in range(5) for scale_ratio in range(2, 10, 2)]
 
 
-    pool = Pool(20)
-    pool.starmap(run_vpcc, configurations)
+#    configurations = [[f'r{rate+1}', f'0.{scale_ratio}'] for rate in range(5) for scale_ratio in range(2, 10, 2)]
+
+
+#    pool = Pool(20)
+#    pool.starmap(run_vpcc, configurations)

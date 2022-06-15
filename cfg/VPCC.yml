@@ -9,7 +9,7 @@ videoDecoder: bin/PccAppHMVideoDecoder
 condition_cfg: cfg/condition/ctc-all-intra.cfg
 inverseColorSpaceConversionConfig: cfg/hdrconvert/yuv420torgb444.cfg
 scale_ratio: 0.8
-is_downsampling: True
+is_downsampling: False
 
 r1:
   rate_cfg: cfg/rate/ctc-r1.cfg
