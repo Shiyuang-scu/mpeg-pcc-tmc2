@@ -78,4 +78,4 @@ log.txt
 
 /mpeg_datasets/
 /exps/**/dec/
-/exps/**/bin/*.txt
+/exps/**/bin/
