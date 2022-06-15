@@ -3,10 +3,10 @@ mse      (p2point): 1.93707
 mse,PSNR (p2point): 62.10319
 mse      (p2plane): 0.00000
 mse,PSNR (p2plane): 0.00000
-h.       (p2point): 0.00000
-h.,PSNR  (p2point): 0.00000
-h.       (p2plane): 0.00000
-h.,PSNR  (p2plane): 0.00000
+h.       (p2point): 136.12880
+h.,PSNR  (p2point): 43.67235
+h.       (p2plane): 136.12880
+h.,PSNR  (p2plane): 43.67235
 c[0],             : 0.00174
 c[1],             : 0.00043
 c[2],             : 0.00054
@@ -15,8 +15,8 @@ c[1],PSNR         : 33.65125
 c[2],PSNR         : 32.70322
 
 ========== Time & Binary Size ==========
-Encoding time (s)           : 8380.3144
-Decoding time (s)           : 204.3559
+Encoding time (s)           : 8360.0453
+Decoding time (s)           : 195.9079
 Total binary files size (kB): 713.664
 kbps (kb per second)        : 71.3664
 
