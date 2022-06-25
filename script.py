@@ -359,15 +359,15 @@ class VPCC:
         )
         encode_time, decode_time = 0, 0
 
-        # 1. run encode and decode command
-        enc_cmd = self.make_encode_cmd(src_dir, bin_file)
-        dec_cmd = self.make_decode_cmd(bin_file, out_file)
-        encode_time, decode_time = self.encode_and_decode(enc_cmd, dec_cmd)
+        # # 1. run encode and decode command
+        # enc_cmd = self.make_encode_cmd(src_dir, bin_file)
+        # dec_cmd = self.make_decode_cmd(bin_file, out_file)
+        # encode_time, decode_time = self.encode_and_decode(enc_cmd, dec_cmd)
 
-        # 2. enlarge the decoded point cloud
+        # # 2. enlarge the decoded point cloud
 
-        # 3. evaluate the results
-        # self._evaluate_and_log(nor_file, out_file, bin_file, evl_log, encode_time, decode_time)
+        # # 3. evaluate the results
+        self._evaluate_and_log(nor_file, out_file, bin_file, evl_log, encode_time, decode_time)
 
     def run_experiment(self):
 
