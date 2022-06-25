@@ -414,8 +414,7 @@ class VPCC:
         # parallel(prun, self.pc_files, self.nbprocesses)
 
         self._run_process(src_dir=src_dir, 
-                nor_dir=nor_dir, 
-                # nor_dir=nor_dir,
+                nor_dir=nor_dir,
                 exp_dir=exp_dir
                 )
 
@@ -665,14 +664,14 @@ if __name__ == '__main__':
     # vpcc.run_experiment()
 
 
-    configurations = [f'r{rate+1}' for rate in range(5)]
-    pool = Pool(5)
-    pool.map(run_vpcc, configurations)
+    # configurations = [f'r{rate+1}' for rate in range(5)]
+    # pool = Pool(5)
+    # pool.map(run_vpcc, configurations)
     
 
 
 #    configurations = [[f'r{rate+1}', f'0.{scale_ratio}'] for rate in range(5) for scale_ratio in range(2, 10, 2)]
+   configurations = [[f'r{rate+1}', '0.2_packed_0.5'] for rate in range(5)]
 
-
-#    pool = Pool(20)
-#    pool.starmap(run_vpcc, configurations)
+   pool = Pool(5)
+   pool.starmap(run_vpcc_down, configurations)
