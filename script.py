@@ -261,7 +261,6 @@ class VPCC:
             f'--compressedStreamPath={bin_file}',
             '--configurationFolder=cfg/',
             '--config=cfg/common/ctc-common.cfg',
-            '--keepIntermediateFiles=1',
             # '--nbThread=2',
             f'--config={self._ds_cfg[self.ds_name]["dataset_cfg"]}',
             f'--config={self._algs_cfg["condition_cfg"]}',
@@ -270,7 +269,10 @@ class VPCC:
             f'--videoEncoderGeometryPath={self._algs_cfg["videoEncoder"]}',
             f'--videoEncoderAttributePath={self._algs_cfg["videoEncoder"]}',
             '--computeMetrics=0',
-            '--computeChecksum=0'
+            '--computeChecksum=0',
+            '--keepIntermediateFiles=1',
+            '--minimumImageWidth=640',
+            '--minimumImageHeight=640'
         ]
         
         return cmd
@@ -355,13 +357,17 @@ class VPCC:
         bin_file, out_file, evl_log, nor_file = (
             self._set_filepath(exp_dir, nor_dir)
         )
+        encode_time, decode_time = 0, 0
+
         # 1. run encode and decode command
         enc_cmd = self.make_encode_cmd(src_dir, bin_file)
         dec_cmd = self.make_decode_cmd(bin_file, out_file)
         encode_time, decode_time = self.encode_and_decode(enc_cmd, dec_cmd)
 
-        # # 2. evaluate the results
-        self._evaluate_and_log(nor_file, out_file, bin_file, evl_log, encode_time, decode_time)
+        # 2. enlarge the decoded point cloud
+
+        # 3. evaluate the results
+        # self._evaluate_and_log(nor_file, out_file, bin_file, evl_log, encode_time, decode_time)
 
     def run_experiment(self):
 
@@ -374,6 +380,7 @@ class VPCC:
             # scale_ratio = str(self._algs_cfg['scale_ratio'])
             scale_ratio = self.scale_ratio
             src_dir = str(Path(src_root).joinpath('down_Ply', scale_ratio))+'/'
+            nor_dir = str(Path(src_root).joinpath('Ply'))+'/'
             exp_dir = (
                 Path('exps')
                 .joinpath(f'{type(self).__name__}/{self.ds_name}/{self.rate}/{scale_ratio}/')
@@ -384,6 +391,7 @@ class VPCC:
 
         else:
             src_dir = str(Path(src_root).joinpath('Ply'))+'/'
+            nor_dir = src_dir
             exp_dir = (
                 Path('exps')
                 .joinpath(f'{type(self).__name__}/{self.ds_name}/{self.rate}/')
@@ -406,7 +414,8 @@ class VPCC:
         # parallel(prun, self.pc_files, self.nbprocesses)
 
         self._run_process(src_dir=src_dir, 
-                nor_dir=src_dir, 
+                nor_dir=nor_dir, 
+                # nor_dir=nor_dir,
                 exp_dir=exp_dir
                 )
 
